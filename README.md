@@ -2,10 +2,10 @@
 
 ## Image
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Data        | Paper       | Link          | Code          |
+| :---        |    :----:   |          ---: |          ---: |
+| Header      | Title       | Here's this   | xxxx          |
+| Paragraph   | Text        | And more      | xxxx          |
 
 ## Video
 
