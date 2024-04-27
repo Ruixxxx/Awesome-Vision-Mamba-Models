@@ -2,10 +2,10 @@
 
 ## Image
 
-| Data        | Paper       | Link          | Code          |
-|    :----:   |    :----:   |    :----:     |    :----:     |
-| Header      | Title       | Here's this   | xxxx          |
-| Paragraph   | Text        | And more      | xxxx          |
+| Data        | Paper       | Link          | Code          | Task          | Data          |
+|    :----:   |    :----:   |    :----:     |    :----:     |    :----:     |    :----:     |
+| Header      | Title       | Here's this   | xxxx          |Here's this   | xxxx          |
+| Paragraph   | Text        | And more      | xxxx          |Here's this   | xxxx          |
 
 ## Video
 
