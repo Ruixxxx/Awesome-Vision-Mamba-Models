@@ -2,7 +2,7 @@
 
 ## Image
 
-/[2024.03/]
+[2024.03.01] 
 ## Video
 
 ## Multi-Modal
