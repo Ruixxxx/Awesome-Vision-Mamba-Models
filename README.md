@@ -3,7 +3,7 @@
 ## Image
 
 | Data        | Paper       | Link          | Code          |
-| :---        |    :----:   |          ---: |          ---: |
+|    :----:   |    :----:   |    :----:     |    :----:     |
 | Header      | Title       | Here's this   | xxxx          |
 | Paragraph   | Text        | And more      | xxxx          |
 
