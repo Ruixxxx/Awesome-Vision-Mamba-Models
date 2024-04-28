@@ -14,7 +14,7 @@ xxxx
 
 | Date      | Paper | Figure    | Link | Code         | Task | Dataset |
 | :-------- | :---- | :-------- | :--- | :----------- | :--- | :------ |
-| Arxiv 24.01.09| U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/0bb9063c-ee32-4269-a803-778f2c6f2d64) | [Link](https://arxiv.org/pdf/2401.04722) | [Code](https://wanglab.ai/u-mamba.html) | xxxx | xxxx    |
+| Arxiv 24.01.09| U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/0bb9063c-ee32-4269-a803-778f2c6f2d64) | [Link](https://arxiv.org/pdf/2401.04722) | [Code](https://wanglab.ai/u-mamba.html) | 2D Medical Segmentation/3D Medical Segmentation | xxxx    |
 
 
 ## Video
