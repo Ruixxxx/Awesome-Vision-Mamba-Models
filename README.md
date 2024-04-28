@@ -12,8 +12,6 @@ xxxx
 # Applation (Modality)
 ## Image
 
-| Arxiv 24.03.06|  |  | [Link]() | [Code]() |  |
-
 ### Natural Image
 
 | Date      | Paper | Figure    | Link | Code         | Task |
@@ -73,11 +71,14 @@ xxxx
 
 
 ## Video
+| Arxiv 24.03.06|  |  | [Link]() | [Code]() |  |
+
 | Date      | Paper | Figure    | Link | Code         | Task | Dataset |
 | :-------- | :---- | :-------- | :--- | :----------- | :--- | :--- |
-|    :----:   |    :----:   |    :----:     |    :----:     |    :----:     |    :----:    |
-| Header      | Title       | Here's this   | xxxx          |Here's this   | xxxx          |
-| Paragraph   | Text        | And more      | xxxx          |Here's this   | xxxx          |
+| Arxiv 24.01.25| Vivim: a Video Vision Mamba for Medical Video Object Segmentation | <img width="596" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/e30c0ceb-5399-44b5-99b7-65ada043c87c"> | [Link](https://arxiv.org/pdf/2401.14168) | [Code](https://github.com/scott-yjyang/Vivim) | Medical Video Segmentation |
+| Arxiv 24.03.11| VideoMamba: State Space Model for Efficient Video Understanding | <img width="728" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/08797465-f93f-49ce-b724-91b67fabbabd"> | [Link](https://arxiv.org/pdf/2403.06977) | [Code](https://github.com/OpenGVLab/VideoMamba) | Action Recognition/Video Understanding/Text-to-video Retrieval |
+| Arxiv 24.03.14| Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding | <img width="704" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/70fb7829-d28e-4bbc-b326-fcb167dad979"> | [Link](https://arxiv.org/pdf/2403.09626) | [Code](https://github.com/OpenGVLab/video-mamba-suite) | Action Recognition/Action Localization/... |
+| Arxiv 24.04.09| RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos | <img width="881" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/f1b0f8a1-f10f-43c6-8203-701ae0376af2"> | [Link](https://arxiv.org/pdf/2404.06483) | [Code](https://github.com/zizhengguo/RhythmMamba) | Remote photoplethysmography  Prediction |
 
 ## Multi-Modal
 
