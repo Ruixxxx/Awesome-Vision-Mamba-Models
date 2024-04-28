@@ -82,8 +82,6 @@ xxxx
 
 ## Multi-Modal
 
-| Arxiv 24.03.12| | | [Link]() | [Code]() |  | | 
-
 | Date      | Paper | Figure    | Link | Code         | Task | Modality|
 | :-------- | :---- | :-------- | :--- | :----------- | :--- | :--- | 
 | Arxiv 24.01.25| MambaMorph: a Mamba-based Framework for Medical MR-CT Deformable Registration | <img width="705" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/0584bfee-1ed2-4d5b-984e-c374491adab9"> | [Link](https://arxiv.org/pdf/2401.13934) | [Code](https://github.com/Guo-Stone/MambaMorph) | Registration | MRI & CT| 
@@ -96,6 +94,8 @@ xxxx
 | Arxiv 24.04.11| SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction| <img width="813" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/c9307069-4672-47ed-9706-1003a5ad5eff"> | [Link](https://arxiv.org/pdf/2404.08027) | | Cancer Subtyping/Survival Prediction | WSIs & Gene| 
 | Arxiv 24.04.11| FusionMamba: Efficient Image Fusion with State Space Model| <img width="816" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/2182cfb2-fa6f-4dea-ab2b-d21b906a683f"> | [Link](https://arxiv.org/pdf/2404.07932) | | Pansharpening | HISR Images & LRMS Images| 
 | Arxiv 24.04.12| MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion | <img width="1035" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/5921c2d4-d50d-48a3-928a-1dc69a60deb6"> | [Link](https://arxiv.org/pdf/2404.08406) | | Multi-modality Image Fusion  | RGB & Thermal Images, MRI & CT/PET/SPECT| 
+| Arxiv 24.04.14|Fusion-Mamba for Cross-modality Object Detection | <img width="902" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/97b716a5-f647-43d9-a1fe-dc8b2b02670d"> | [Link](https://arxiv.org/pdf/2404.09146) | | Visible-infrared Images Fusion | RGB Images & Infrared Images| 
+| Arxiv 24.04.15| FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba | <img width="906" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/87093676-286c-4e35-89b7-7e573679cc67"> | [Link](https://arxiv.org/pdf/2404.09498) | [Code](https://github.com/millieXie/FusionMamba) | Image Fusion | RGB & Infrared Images, MRI & CT/PET/SPECT, PC & GFP| 
 | Arxiv 24.04.17| Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion | <img width="810" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/f27aa176-65e2-44db-a172-56712e789729"> | [Link](https://arxiv.org/pdf/2404.11375) | |  Temporal Grounding| Motion & Text |
 
 ## Point Cloud
