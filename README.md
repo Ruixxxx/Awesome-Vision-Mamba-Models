@@ -1,6 +1,11 @@
 # Awesome-Vision-Mamba-Models
 
-xxxx
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![GitHub last commit](https://img.shields.io/github/last-commit/Ruixxxx/Awesome-Vision-Mamba-Models?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/Ruixxxx/Awesome-Vision-Mamba-Models?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/Ruixxxx/Awesome-Vision-Mamba-Models?style=flat-square)
+[![Arxiv Page](https://img.shields.io/badge/Arxiv-2403.06800-red?style=flat-square)](https://arxiv.org/pdf/2403.06800.pdf)
+
 
 # Backbone for representation learning
 
