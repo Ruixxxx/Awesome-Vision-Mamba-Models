@@ -4,10 +4,10 @@ xxxx
 
 # Backbone for representation learning
 
-| Data        | Paper       | Link          | Code          | Task          | Dataset          |
-|    :----:   |    :----:   |    :----:     |    :----:     |    :----:     |    :----:        |
-| Header      | Title       | Here's this   | xxxx          |Here's this   | xxxx              |
-| Paragraph   | Text        | And more      | xxxx          |Here's this   | xxxx              |
+| Data        | Paper       | Figure          | Link          | Code          | Task           | Dataset          |
+|    :----:   |    :----:   |    :----:     |    :----:     |    :----:     |    :----:        |xxxx              |
+| Header      | Title       | Here's this   | xxxx          |Here's this   | xxxx              |xxxx              |
+| Paragraph   | Text        | And more      | xxxx          |Here's this   | xxxx              |xxxx              |
 
 # Applation(Modality)
 ## Image
