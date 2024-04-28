@@ -26,6 +26,7 @@ xxxx
 | Arxiv 24.03.27| Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction | <img width="564" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/361b14b9-6291-47d1-b8e0-ae667db5aa22"> | [Link](https://arxiv.org/pdf/2403.18795) | | 3D Reconstruction |
 | Arxiv 24.04.15| FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining | <img width="798" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/430aabed-9c3f-40f5-b062-d748829d20fa"> | [Link](https://arxiv.org/pdf/2404.09476) |  | Deraining |
 | Arxiv 24.04.17| CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration | <img width="1102" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/d4c0ac33-8541-4cf0-84aa-bd5b0958516f"> | [Link](https://arxiv.org/pdf/2404.11778) | | Denoising/Deblurring |
+| Arxiv 24.04.22| MambaUIE: Unraveling the Ocean's Secrets with Only 2.8 FLOPs | <img width="687" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/7e84a297-ea0f-4e27-b9cc-cdb36b2b0e6f"> | [Link](https://arxiv.org/pdf/2404.13884) | [Code](https://github.com/1024AILab/MambaUIE) | Image Enhancement |
 
 ### Remote Sensing Image
 
