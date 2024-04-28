@@ -1,4 +1,4 @@
-<img width="848" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/fab7132d-f065-497f-a04a-7a72cf66ede3"># Awesome-Vision-Mamba-Models
+# Awesome-Vision-Mamba-Models
 
 xxxx
 
