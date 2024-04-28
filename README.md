@@ -104,13 +104,14 @@
 | Arxiv 24.04.17| Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion | <img width="810" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/f27aa176-65e2-44db-a172-56712e789729"> | [Link](https://arxiv.org/pdf/2404.11375) | |  Temporal Grounding| Motion & Text |
 
 ## Point Cloud
-| Arxiv 24.03.12| | | [Link]() | [Code]() |  | | 
+| Arxiv 24.03.12| | | [Link]() | [Code]() |  |
 
-| Date      | Paper | Figure    | Link | Code         | Task | Dataset |
-| :-------- | :---- | :-------- | :--- | :----------- | :--- | :--- |
-|    :----:   |    :----:   |    :----:     |    :----:     |    :----:     |    :----:    |
-| Header      | Title       | Here's this   | xxxx          |Here's this   | xxxx          |
-| Paragraph   | Text        | And more      | xxxx          |Here's this   | xxxx          |
+| Date      | Paper | Figure    | Link | Code         | Task | 
+| :-------- | :---- | :-------- | :--- | :----------- | :--- |
+| Arxiv 24.02.16| PointMamba: A Simple State Space Model for Point Cloud Analysis | <img width="718" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/e252e787-0189-4f94-bea1-2944d50b18f4"> | [Link](https://arxiv.org/pdf/2402.10739) | [Code](https://github.com/LMD0311/PointMamba) | Classification, Part Segmentation |
+| Arxiv 24.03.01| Point Could Mamba: Point Cloud Learning via State Space Model|<img width="692" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/6a315d04-afe6-41d1-b8d5-d931a891a681"> | [Link](https://arxiv.org/pdf/2403.00762) | [Code](https://github.com/SkyworkAI/PointCloudMamba) | Classification, Part Segmentation, Semantic Segmentation |
+| Arxiv 24.03.11| Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy| <img width="882" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/c1c7c020-28cc-4ca6-b271-1d3cf665243f"> | [Link](https://arxiv.org/pdf/2403.06467) | [Code](https://github.com/IRMVLab/Point-Mamba) | Classification, Semantic Segmentation |
+| Arxiv 24.04.08|3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering | <img width="1028" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/ab137b17-85c1-4b6c-96d4-9ae5bfd45a1b"> | [Link](https://arxiv.org/pdf/2404.05522) | |  |
 
 ## Others
 | Date      | Paper | Figure    | Link | Code         | Task | Dataset |
