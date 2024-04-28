@@ -16,13 +16,15 @@ xxxx
 
 ### Natural Image
 
-| Date      | Paper | Figure    | Link | Code         | Task | Dataset |
-| :-------- | :---- | :-------- | :--- | :----------- | :--- | :--- |
-| Arxiv 24.02.06| U-shaped Vision Mamba for Single Image Dehazing | <img width="848" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/3ca0831b-711c-4073-841e-2eba4f2e718d"> | [Link](https://arxiv.org/pdf/2402.04139) | [Code](https://github.com/zzr-idam) | Dehazing/Low Light Enhancement/Deraining | RESIDE-Full/LOL/MIT-Adobe FiveK/Rain13K |
-| Arxiv 24.02.23| MambaIR: A Simple Baseline for Image Restoration with State-Space Model | <img width="708" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/22041ebc-cae7-4e72-a537-a7af3429b6d8"> | [Link](https://arxiv.org/pdf/2402.15648) | [Code](https://github.com/csguoh/MambaIR) | Super-resolution/Denoising | DIV2K/Flickr2K/BSD500/WED |
-| Arxiv 24.03.04| MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection | <img width="847" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/c38ffac7-65b7-452c-b0ec-c3a17f8de860"> | [Link](https://arxiv.org/pdf/2403.02148) | [Code](https://github.com/txchen-USTC/MiM-ISTD)) | Infrared Image Segmentation | NUAA-SIRST/ IRSTD-1k |
-| Arxiv 24.03.20| ZigMa: A DiT-style Zigzag Mamba Diffusion Model | <img width="702" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/3a14b8da-188b-4c00-a054-c4cb47562f9e"> | [Link](https://arxiv.org/pdf/2403.13802) | [Code](https://taohu.me/zigma/) | Generation | FacesHQ/MultiModal CelebA/MS COCO/UCF101 |
-| Arxiv 24.03.27| Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction | <img width="564" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/361b14b9-6291-47d1-b8e0-ae667db5aa22"> | [Link](https://arxiv.org/pdf/2403.18795) | | 3D Reconstruction | OmniObject3D |
+| Date      | Paper | Figure    | Link | Code         | Task |
+| :-------- | :---- | :-------- | :--- | :----------- | :--- |
+| Arxiv 24.02.06| U-shaped Vision Mamba for Single Image Dehazing | <img width="848" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/3ca0831b-711c-4073-841e-2eba4f2e718d"> | [Link](https://arxiv.org/pdf/2402.04139) | [Code](https://github.com/zzr-idam) | Dehazing/Low Light Enhancement/Deraining |
+| Arxiv 24.02.23| MambaIR: A Simple Baseline for Image Restoration with State-Space Model | <img width="708" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/22041ebc-cae7-4e72-a537-a7af3429b6d8"> | [Link](https://arxiv.org/pdf/2402.15648) | [Code](https://github.com/csguoh/MambaIR) | Super-resolution/Denoising |
+| Arxiv 24.03.04| MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection | <img width="847" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/c38ffac7-65b7-452c-b0ec-c3a17f8de860"> | [Link](https://arxiv.org/pdf/2403.02148) | [Code](https://github.com/txchen-USTC/MiM-ISTD)) | Infrared Image Segmentation |
+| Arxiv 24.03.13| Activating Wider Areas in Image Super-Resolution | <img width="700" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/dfaf5b9a-19e0-4058-a4aa-a9af26df6334"> | [Link](https://arxiv.org/pdf/2403.08330) | Super-resolution |
+| Arxiv 24.03.20| ZigMa: A DiT-style Zigzag Mamba Diffusion Model | <img width="702" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/3a14b8da-188b-4c00-a054-c4cb47562f9e"> | [Link](https://arxiv.org/pdf/2403.13802) | [Code](https://taohu.me/zigma/) | Generation |
+| Arxiv 24.03.27| Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction | <img width="564" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/361b14b9-6291-47d1-b8e0-ae667db5aa22"> | [Link](https://arxiv.org/pdf/2403.18795) | | 3D Reconstruction |
+| Arxiv 24.04.15| FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining | <img width="798" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/430aabed-9c3f-40f5-b062-d748829d20fa"> | [Link](https://arxiv.org/pdf/2404.09476) |  | Deraining |
 
 ### Remote Sensing Image
 
@@ -35,6 +37,7 @@ xxxx
 | Arxiv 24.04.03| RS-Mamba for Large Remote Sensing Image Dense Prediction | <img width="942" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/4c47c3b7-5df8-4d77-93ba-d35263916f03"> | [Link](https://arxiv.org/pdf/2404.02668) | [Code](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba) | Semantic Segmentation/Change Detection | WHU/Massachusett/WHU-CD/LEVIR-CD |
 | Arxiv 24.04.04| ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model | <img width="1023" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/476bf8d5-625e-4e65-ad19-bc14817c9a58">  | [Link](https://arxiv.org/pdf/2404.03425) | [Code](https://github.com/ChenHongruixuan/MambaCD) | Change Detection/Building Damage Assessment | SYSU-CD/WHU-CD/LEVIR-CD+/SECOND/xBD|
 | Arxiv 24.04.12| SpectralMamba: Efficient Mamba for Hyperspectral Image Classification | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/ed4437bb-a15b-4818-8dad-8fa7ac7c0213) | [Link](https://arxiv.org/pdf/2404.08489) | [Code](https://github.com/danfenghong/SpectralMamba) | Hyperspectral Image Classification | Houston2013/Longkou/Augsburg/Botswana |
+| Arxiv 24.04.15| HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising | <img width="947" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/91ebd913-ef36-400e-a83c-8d24fc5536b3"> | [Link](https://arxiv.org/pdf/2404.09697) | Hyperspectral Denoising | ICVL|
 
 ### Medical Image
 
