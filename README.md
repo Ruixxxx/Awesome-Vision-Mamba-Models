@@ -1,4 +1,4 @@
-# Awesome-Vision-Mamba-Models
+<img width="848" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/fab7132d-f065-497f-a04a-7a72cf66ede3"># Awesome-Vision-Mamba-Models
 
 xxxx
 
@@ -18,8 +18,10 @@ xxxx
 
 | Date      | Paper | Figure    | Link | Code         | Task | Dataset |
 | :-------- | :---- | :-------- | :--- | :----------- | :--- | :--- |
+| Arxiv 24.02.06| U-shaped Vision Mamba for Single Image Dehazing | <img width="848" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/3ca0831b-711c-4073-841e-2eba4f2e718d"> | [Link](https://arxiv.org/pdf/2402.04139) | [Code](https://github.com/zzr-idam) | Dehazing/Low Light Enhancement/Deraining | RESIDE-Full/LOL/ MIT-Adobe FiveK/Rain13K |
 | Arxiv 24.03.04| MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection | <img width="847" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/c38ffac7-65b7-452c-b0ec-c3a17f8de860"> | [Link](https://arxiv.org/pdf/2403.02148) | [Code](https://github.com/txchen-USTC/MiM-ISTD)) | Infrared Image Segmentation | NUAA-SIRST/ IRSTD-1k |
 | Arxiv 24.03.20| ZigMa: A DiT-style Zigzag Mamba Diffusion Model | <img width="702" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/3a14b8da-188b-4c00-a054-c4cb47562f9e"> | [Link](https://arxiv.org/pdf/2403.13802) | [Code](https://taohu.me/zigma/) | Generation | FacesHQ/MultiModal CelebA/MS COCO/UCF101 |
+| Arxiv 24.03.27| Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction | <img width="564" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/361b14b9-6291-47d1-b8e0-ae667db5aa22"> | [Link](https://arxiv.org/pdf/2403.18795) | | 3D Reconstruction | OmniObject3D |
 
 ### Remote Sensing Image
 
