@@ -25,6 +25,7 @@ xxxx
 | Arxiv 24.03.20| ZigMa: A DiT-style Zigzag Mamba Diffusion Model | <img width="702" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/3a14b8da-188b-4c00-a054-c4cb47562f9e"> | [Link](https://arxiv.org/pdf/2403.13802) | [Code](https://taohu.me/zigma/) | Generation |
 | Arxiv 24.03.27| Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction | <img width="564" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/361b14b9-6291-47d1-b8e0-ae667db5aa22"> | [Link](https://arxiv.org/pdf/2403.18795) | | 3D Reconstruction |
 | Arxiv 24.04.15| FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining | <img width="798" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/430aabed-9c3f-40f5-b062-d748829d20fa"> | [Link](https://arxiv.org/pdf/2404.09476) |  | Deraining |
+| Arxiv 24.04.17| CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration | <img width="1102" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/d4c0ac33-8541-4cf0-84aa-bd5b0958516f"> | [Link](https://arxiv.org/pdf/2404.11778) | | Denoising/Deblurring |
 
 ### Remote Sensing Image
 
