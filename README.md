@@ -6,6 +6,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/Ruixxxx/Awesome-Vision-Mamba-Models?style=flat-square)
 [![Arxiv Page](https://img.shields.io/badge/Arxiv-2403.06800-red?style=flat-square)](https://arxiv.org/pdf/2403.06800.pdf)
 
+# Survey
 
 # Backbone for representation learning
 
@@ -111,7 +112,9 @@
 | Arxiv 24.02.16| PointMamba: A Simple State Space Model for Point Cloud Analysis | <img width="718" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/e252e787-0189-4f94-bea1-2944d50b18f4"> | [Link](https://arxiv.org/pdf/2402.10739) | [Code](https://github.com/LMD0311/PointMamba) | Classification, Part Segmentation |
 | Arxiv 24.03.01| Point Could Mamba: Point Cloud Learning via State Space Model|<img width="692" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/6a315d04-afe6-41d1-b8d5-d931a891a681"> | [Link](https://arxiv.org/pdf/2403.00762) | [Code](https://github.com/SkyworkAI/PointCloudMamba) | Classification, Part Segmentation, Semantic Segmentation |
 | Arxiv 24.03.11| Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy| <img width="882" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/c1c7c020-28cc-4ca6-b271-1d3cf665243f"> | [Link](https://arxiv.org/pdf/2403.06467) | [Code](https://github.com/IRMVLab/Point-Mamba) | Classification, Semantic Segmentation |
-| Arxiv 24.04.08|3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering | <img width="1028" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/ab137b17-85c1-4b6c-96d4-9ae5bfd45a1b"> | [Link](https://arxiv.org/pdf/2404.05522) | |  |
+| Arxiv 24.04.08|3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering | <img width="1028" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/ab137b17-85c1-4b6c-96d4-9ae5bfd45a1b"> | [Link](https://arxiv.org/pdf/2404.05522) | | Point Cloud Filtering |
+| Arxiv 24.04.10|3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion | <img width="1020" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/da19fb01-52bd-4a55-b0ca-9681fdaef9ed"> | [Link](https://arxiv.org/pdf/2404.07106) |  | Point Cloud Completion |
+| Arxiv 24.04.23| Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model| <img width="959" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/6b565138-1c2d-4201-bd34-8b4343a62ec9"> | [Link](https://arxiv.org/pdf/2404.14966) | | Classification, Part Segmentation |
 
 ## Others
 | Date      | Paper | Figure    | Link | Code         | Task | Dataset |
