@@ -82,8 +82,11 @@ xxxx
 
 ## Multi-Modal
 
+| Arxiv 24.03.12| | | [Link]() | [Code]) |  | | 
+
 | Date      | Paper | Figure    | Link | Code         | Task | Modality|
 | :-------- | :---- | :-------- | :--- | :----------- | :--- | :--- | 
+
 | Arxiv 24.03.12| Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM | <img width="910" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/9ef9c705-657d-4b6d-b229-6e2e4270682f"> | [Link](https://arxiv.org/pdf/2403.07487) | [Code](https://steve-zeyu-zhang.github.io/MotionMamba) | Text-to-Motion Generation | Motion/Text| 
 | Arxiv 24.04.17| Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion | <img width="810" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/f27aa176-65e2-44db-a172-56712e789729"> | [Link](https://arxiv.org/pdf/2404.11375) | |  Temporal Grounding| Motion/Text |
 
