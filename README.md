@@ -12,10 +12,49 @@ xxxx
 # Applation(Modality)
 ## Image
 
-| Date        | Paper       | Link          | Code          | Task          | Dataset       |
-|    :----:   |    :----:   |    :----:     |    :----:     |    :----:     |    :----:     |
-| Header      | Title       | Here's this   | xxxx          |Here's this   | xxxx          |
-| Paragraph   | Text        | And more      | xxxx          |Here's this   | xxxx          |
+| Date      | Paper | Figure    | Link | Code         | Task | Dataset |
+| :-------- | :---- | :-------- | :--- | :----------- | :--- | :------ |
+| Header    | U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation | Here's this | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
 
 ## Video
 
