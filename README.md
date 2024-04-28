@@ -60,27 +60,28 @@ xxxx
 
 
 ## Video
-
-| Date        | Paper       | Link          | Code          | Task          | Dataset      |
+| Date      | Paper | Figure    | Link | Code         | Task | Dataset |
+| :-------- | :---- | :-------- | :--- | :----------- | :--- | :--- |
 |    :----:   |    :----:   |    :----:     |    :----:     |    :----:     |    :----:    |
 | Header      | Title       | Here's this   | xxxx          |Here's this   | xxxx          |
 | Paragraph   | Text        | And more      | xxxx          |Here's this   | xxxx          |
 
 ## Multi-Modal
 
-| Date        | Paper       | Link          | Code          | Task          | Dataset      |
-|    :----:   |    :----:   |    :----:     |    :----:     |    :----:     |    :----:    |
-| Header      | Title       | Here's this   | xxxx          |Here's this   | xxxx          |
-| Paragraph   | Text        | And more      | xxxx          |Here's this   | xxxx          |
+| Date      | Paper | Figure    | Link | Code         | Task | Dataset | Modality|
+| :-------- | :---- | :-------- | :--- | :----------- | :--- | :--- | :--- | 
+| Arxiv 24.03.12| Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM | <img width="910" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/9ef9c705-657d-4b6d-b229-6e2e4270682f"> | [Link](https://arxiv.org/pdf/2403.07487) | [Code](https://steve-zeyu-zhang.github.io/MotionMamba) | Text-to-Motion Generation | HumanML3D/KUT-ML| Motion/Text| 
 
 ## Point Cloud
-| Date        | Paper       | Link          | Code          | Task          | Dataset      |
+| Date      | Paper | Figure    | Link | Code         | Task | Dataset |
+| :-------- | :---- | :-------- | :--- | :----------- | :--- | :--- |
 |    :----:   |    :----:   |    :----:     |    :----:     |    :----:     |    :----:    |
 | Header      | Title       | Here's this   | xxxx          |Here's this   | xxxx          |
 | Paragraph   | Text        | And more      | xxxx          |Here's this   | xxxx          |
 
 ## Others
-| Date        | Paper       | Link          | Code          | Task          | Datase       |
+| Date      | Paper | Figure    | Link | Code         | Task | Dataset |
+| :-------- | :---- | :-------- | :--- | :----------- | :--- | :--- |
 |    :----:   |    :----:   |    :----:     |    :----:     |    :----:     |    :----:    |
 | Header      | Title       | Here's this   | xxxx          |Here's this   | xxxx          |
 | Paragraph   | Text        | And more      | xxxx          |Here's this   | xxxx          |
