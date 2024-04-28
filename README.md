@@ -71,7 +71,6 @@ xxxx
 
 
 ## Video
-| Arxiv 24.03.06|  |  | [Link]() | [Code]() |  |
 
 | Date      | Paper | Figure    | Link | Code         | Task | Dataset |
 | :-------- | :---- | :-------- | :--- | :----------- | :--- | :--- |
@@ -79,6 +78,7 @@ xxxx
 | Arxiv 24.03.11| VideoMamba: State Space Model for Efficient Video Understanding | <img width="728" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/08797465-f93f-49ce-b724-91b67fabbabd"> | [Link](https://arxiv.org/pdf/2403.06977) | [Code](https://github.com/OpenGVLab/VideoMamba) | Action Recognition/Video Understanding/Text-to-video Retrieval |
 | Arxiv 24.03.14| Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding | <img width="704" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/70fb7829-d28e-4bbc-b326-fcb167dad979"> | [Link](https://arxiv.org/pdf/2403.09626) | [Code](https://github.com/OpenGVLab/video-mamba-suite) | Action Recognition/Action Localization/... |
 | Arxiv 24.04.09| RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos | <img width="881" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/f1b0f8a1-f10f-43c6-8203-701ae0376af2"> | [Link](https://arxiv.org/pdf/2404.06483) | [Code](https://github.com/zizhengguo/RhythmMamba) | Remote photoplethysmography  Prediction |
+| Arxiv 24.04.11| Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos | <img width="697" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/ea35cf6a-e2a6-4eab-8da7-2cb7cd098507"> | [Link](https://arxiv.org/pdf/2404.07645) | | Skeleton Action Recognition|
 
 ## Multi-Modal
 
