@@ -6,7 +6,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/Ruixxxx/Awesome-Vision-Mamba-Models?style=flat-square)
 [![Arxiv Page](https://img.shields.io/badge/Arxiv-2403.06800-red?style=flat-square)](https://arxiv.org/pdf/2403.06800.pdf)
 
-# Survey
+[toc]
 
 # Backbone for representation learning
 
