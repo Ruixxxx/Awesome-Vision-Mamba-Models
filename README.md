@@ -9,7 +9,7 @@ xxxx
 | Header    | Title | Here's this | xxxx | Here's this | xxxx | xxxx    |
 | Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
 
-# Applation(Modality)
+# Applation (Modality)
 ## Image
 
 | Arxiv 24.03.06|  |  | [Link]() | [Code]() |  |
