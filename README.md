@@ -82,11 +82,16 @@ xxxx
 
 ## Multi-Modal
 
-| Arxiv 24.03.12| | | [Link]() | [Code]) |  | | 
+| Arxiv 24.03.12| | | [Link]() | [Code]() |  | | 
 
 | Date      | Paper | Figure    | Link | Code         | Task | Modality|
 | :-------- | :---- | :-------- | :--- | :----------- | :--- | :--- | 
+| Arxiv 24.01.25| MambaMorph: a Mamba-based Framework for Medical MR-CT Deformable Registration | <img width="705" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/0584bfee-1ed2-4d5b-984e-c374491adab9"> | [Link](https://arxiv.org/pdf/2401.13934) | [Code](https://github.com/Guo-Stone/MambaMorph) | Registration | MRI/CT| 
 | Arxiv 24.03.12| Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM | <img width="910" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/9ef9c705-657d-4b6d-b229-6e2e4270682f"> | [Link](https://arxiv.org/pdf/2403.07487) | [Code](https://steve-zeyu-zhang.github.io/MotionMamba) | Text-to-Motion Generation | Motion/Text| 
+| Arxiv 24.03.16| ReMamber: Referring Image Segmentation with Mamba Twister | <img width="715" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/08c3e6e4-49ca-4081-bea6-ed4c7b046c0b"> | [Link](https://arxiv.org/pdf/2403.17839) | | Referring Image Segmentation | Image/Text | 
+| Arxiv 24.03.20| VL-Mamba: Exploring State Space Models for Multimodal Learning | <img width="718" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/aa912eb8-13a7-488f-9601-d298ed6796e2"> | [Link](https://arxiv.org/pdf/2403.13600) | [Code](https://yanyuanqiao.github.io/vl-mamba) | MLLM tasks | Image/Text | 
+| Arxiv 24.03.21| Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference | <img width="626" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/df845d03-3739-4b78-9328-6c2df2e98aad"> | [Link](https://arxiv.org/pdf/2403.14520) | [Code](https://sites.google.com/view/cobravlm) | MLLM tasks | Image/Text | 
+| Arxiv 24.04.01| SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding| <img width="727" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/04cba5ac-b2f0-4357-b447-1e14a1d2617b"> | [Link](https://arxiv.org/pdf/2404.01174) | | Temporal Video Grounding | Video/Text | 
 | Arxiv 24.04.17| Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion | <img width="810" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/f27aa176-65e2-44db-a172-56712e789729"> | [Link](https://arxiv.org/pdf/2404.11375) | |  Temporal Grounding| Motion/Text |
 
 ## Point Cloud
@@ -99,9 +104,7 @@ xxxx
 ## Others
 | Date      | Paper | Figure    | Link | Code         | Task | Dataset |
 | :-------- | :---- | :-------- | :--- | :----------- | :--- | :--- |
-|    :----:   |    :----:   |    :----:     |    :----:     |    :----:     |    :----:    |
-| Header      | Title       | Here's this   | xxxx          |Here's this   | xxxx          |
-| Paragraph   | Text        | And more      | xxxx          |Here's this   | xxxx          |
+| Arxiv 24.03.14| MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models| <img width="429" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/42ea6b78-cb43-401b-9f81-764a521cfa17"> | [Link](https://arxiv.org/pdf/2403.09471) |  | Gesture Synthesis |
 
 # Learning
 
