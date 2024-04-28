@@ -19,6 +19,7 @@ xxxx
 | Date      | Paper | Figure    | Link | Code         | Task | Dataset |
 | :-------- | :---- | :-------- | :--- | :----------- | :--- | :--- |
 | Arxiv 24.03.04| MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection | <img width="847" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/c38ffac7-65b7-452c-b0ec-c3a17f8de860"> | [Link](https://arxiv.org/pdf/2403.02148) | [Code](https://github.com/txchen-USTC/MiM-ISTD)) | Infrared Image Segmentation | NUAA-SIRST/ IRSTD-1k |
+| Arxiv 24.03.20| ZigMa: A DiT-style Zigzag Mamba Diffusion Model | <img width="702" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/3a14b8da-188b-4c00-a054-c4cb47562f9e"> | [Link](https://arxiv.org/pdf/2403.13802) | [Code](https://taohu.me/zigma/) | Generation | FacesHQ/MultiModal CelebA/MS COCO/UCF101 |
 
 ### Remote Sensing Image
 
