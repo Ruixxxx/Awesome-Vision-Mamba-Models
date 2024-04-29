@@ -1,13 +1,55 @@
 # Awesome-Vision-Mamba-Models
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ruixxxx/Awesome-Vision-Mamba-Models?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/Ruixxxx/Awesome-Vision-Mamba-Models?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/Ruixxxx/Awesome-Vision-Mamba-Models?style=flat-square)
 [![Arxiv Page](https://img.shields.io/badge/Arxiv-2403.06800-red?style=flat-square)](https://arxiv.org/pdf/2403.06800.pdf)
 
+[NEWS.20240429] **Our [paper](https://arxiv.org/abs/2403.06800) is released!**
 
-# Backbone for representation learning
+📢**NOTE:** If you have any questions, please don't hesitate to contact us at any of the following emails: [rui.xu@whu.edu.cn](mailto:rui.xu@whu.edu.cn), [syangcw@connect.ust.hk](mailto:syangcw@connect.ust.hk), [ywangrm@connect.ust.hk](mailto:ywangrm@connect.ust.hk).
+
+Mamba, a novel state space model, has gained recognition across diverse domains for its exceptional performance and efficient computational complexity. By addressing the limitations inherent in traditional visual foundation models, Mamba emerges as a promising contender poised to catalyze advancements in the field of computer vision.
+
+:star: This repository hosts a curated collection of literature associated with Mamba models in computer vision. Feel free to star and fork. For further details, refer to the following paper:
+
+**[A Survey on Vision Mamba: Models, Applications and Challenges](https://arxiv.org/abs/2403.06800)**<br/>
+Rui Xu, Shu Yang, Yihui Wang, Bo Du, [Hao Chen](https://cse.hkust.edu.hk/~jhc/)<br/>
+[SMART Lab](https://hkustsmartlab.netlify.app/), The Hong Kong University of Science and Technology<br/>
+<br/>
+
+If you find this repository is useful for you, please cite our paper:
+```
+@misc{2024vision_mamba,
+      title={A Survey on Vision Mamba: Models, Applications and Challenges}, 
+      author={Rui Xu and Shu Yang and Yihui Wang and Bo Du and Hao Chen},
+      year={2024},
+      eprint={},
+      archivePrefix={arXiv},
+      primaryClass={}
+}
+```
+
+## Contents
+- [Backbone](#backbone-for-representation-learning)
+- [Related survery](#related-survey)
+- [Vision Application (Modality)](#vision-application)
+  - [Image](#image)
+    - [Natural Image](#natural-image)
+    - [Remote Sensing Image](#remote-sensing-image)
+    - [Medical Image](#medical-image)
+  - [Video](#video)
+  - [Multi-modal](#multi-modal)
+  - [Point Cloud](#point-cloud)
+  - [Others](#others)
+- [Other Domains](#other-domains)
+  - [Reinforcement Learning](#reinforcement-learning)
+  - [Graph Learning](#graph-learning)
+  - [Mixture of Experts](#moe)
+
+## Backbone for representation learning
 [<img width="430" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/f99d4335-448d-4d35-9588-c5f6169910d1">](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/main/SOTA_Results.md)
 
 [Detailed Performance Comparison](SOTA_Results.md)
@@ -19,7 +61,7 @@
 | Arxiv 24.01.18 | VMamba: Visual State Space Model | <img width="806" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/039e24f6-5f89-4772-bb84-7409aeef4da0"> <img width="833" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/75158bbf-18e9-45fc-93e0-7d84c062ed0d"> | [Link](https://arxiv.org/abs/2401.10166) | [code](https://github.com/MzeroMiko/VMamba.) |
 | Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
 
-# Survey
+## Related Survey
 
 | Date      | Paper | Link | 
 | :-------- | :---- | :-------- |
@@ -27,10 +69,10 @@
 | Arxiv 24.04.24|A Survey on Visual Mamba | [Link](https://arxiv.org/pdf/2404.15956v2) | 
 | Arxiv 24.04.24|Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges | [Link](https://arxiv.org/pdf/2404.16112) | 
 
-# Vision Applation (Modality)
-## Image
+## Vision Application
+### Image
 
-### Natural Image
+#### Natural Image
 
 | Date      | Paper | Figure    | Link | Code         | Task |
 | :-------- | :---- | :-------- | :--- | :----------- | :--- |
@@ -47,7 +89,7 @@
 | Arxiv 24.04.17| CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration | <img width="1102" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/d4c0ac33-8541-4cf0-84aa-bd5b0958516f"> | [Link](https://arxiv.org/pdf/2404.11778) | | Denoising/Deblurring |
 | Arxiv 24.04.22| MambaUIE: Unraveling the Ocean's Secrets with Only 2.8 FLOPs | <img width="687" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/7e84a297-ea0f-4e27-b9cc-cdb36b2b0e6f"> | [Link](https://arxiv.org/pdf/2404.13884) | [Code](https://github.com/1024AILab/MambaUIE) | Image Enhancement |
 
-### Remote Sensing Image
+#### Remote Sensing Image
 
 | Date      | Paper | Figure    | Link | Code         | Task |
 | :-------- | :---- | :-------- | :--- | :----------- | :--- |
@@ -60,7 +102,7 @@
 | Arxiv 24.04.12| SpectralMamba: Efficient Mamba for Hyperspectral Image Classification | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/ed4437bb-a15b-4818-8dad-8fa7ac7c0213) | [Link](https://arxiv.org/pdf/2404.08489) | [Code](https://github.com/danfenghong/SpectralMamba) | Hyperspectral Image Classification |
 | Arxiv 24.04.15| HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising | <img width="947" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/91ebd913-ef36-400e-a83c-8d24fc5536b3"> | [Link](https://arxiv.org/pdf/2404.09697) | Hyperspectral Denoising |
 
-### Medical Image
+#### Medical Image
 
 | Date      | Paper | Figure    | Link | Code         | Task |
 | :-------- | :---- | :-------- | :--- | :----------- | :--- |
@@ -95,7 +137,7 @@
 | Arxiv 24.04.26| Sparse Reconstruction of Optical Doppler Tomography Based on State Space Model | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/383012cc-e1f4-40b1-94f3-46156ae240ad) | [Link](https://arxiv.org/pdf/2404.17484) |  | ODT Sparse Reconstruction |
 
 
-## Video
+### Video
 
 | Date      | Paper | Figure    | Link | Code         | Task |
 | :-------- | :---- | :-------- | :--- | :----------- | :--- |
@@ -105,7 +147,7 @@
 | Arxiv 24.04.09| RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos | <img width="881" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/f1b0f8a1-f10f-43c6-8203-701ae0376af2"> | [Link](https://arxiv.org/pdf/2404.06483) | [Code](https://github.com/zizhengguo/RhythmMamba) | Remote photoplethysmography  Prediction |
 | Arxiv 24.04.11| Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos | <img width="697" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/ea35cf6a-e2a6-4eab-8da7-2cb7cd098507"> | [Link](https://arxiv.org/pdf/2404.07645) | | Skeleton Action Recognition|
 
-## Multi-Modal
+### Multi-Modal
 
 | Date      | Paper | Figure    | Link | Code         | Task | Modality|
 | :-------- | :---- | :-------- | :--- | :----------- | :--- | :--- | 
@@ -127,7 +169,7 @@
 | Arxiv 24.04.24| CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/5384d699-ed2f-46f5-bc56-2e61c03d2a51) | [Link](https://arxiv.org/pdf/2404.16302) | [Code](https://github.com/lhy-zjut/CFMW) |  Visible-infrared Images Fusion | RGB Images & Infrared Images| 
 
 
-## Point Cloud
+### Point Cloud
 
 | Date      | Paper | Figure    | Link | Code         | Task | 
 | :-------- | :---- | :-------- | :--- | :----------- | :--- |
@@ -138,7 +180,7 @@
 | Arxiv 24.04.10|3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion | <img width="1020" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/da19fb01-52bd-4a55-b0ca-9681fdaef9ed"> | [Link](https://arxiv.org/pdf/2404.07106) |  | Point Cloud Completion |
 | Arxiv 24.04.23| Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model| <img width="959" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/6b565138-1c2d-4201-bd34-8b4343a62ec9"> | [Link](https://arxiv.org/pdf/2404.14966) | | Classification, Part Segmentation |
 
-## Others
+### Others
 | Date      | Paper | Figure    | Link | Code         | Task |
 | :-------- | :---- | :-------- | :--- | :----------- | :--- |
 | Arxiv 24.02.24|Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning | <img width="683" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/e8ed3e23-e305-4b8a-a706-0601c1ef3b1b"> | [Link](https://arxiv.org/pdf/2402.15761) | [Code](https://github.com/ChiShengChen/ResVMamba) | Food Classification |
@@ -149,10 +191,10 @@
 
 
 
-# Others
-## Reinforcement Learning
+## Other Domains
+### Reinforcement Learning
 
-## Graph Learning
+### Graph Learning
 
-## MOE
+### MOE
 
