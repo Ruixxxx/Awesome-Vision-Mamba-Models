@@ -17,7 +17,15 @@
 | Arxiv 24.01.18 | VMamba: Visual State Space Model | <img width="806" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/039e24f6-5f89-4772-bb84-7409aeef4da0"> <img width="833" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/75158bbf-18e9-45fc-93e0-7d84c062ed0d"> | [Link](https://arxiv.org/abs/2401.10166) | [code](https://github.com/MzeroMiko/VMamba.) |
 | Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
 
-# Applation (Modality)
+# Survey
+
+| Date      | Paper | Link | 
+| :-------- | :---- | :-------- |
+| Arxiv 24.04.15｜State Space Model for New-Generation Network Alternative to Transformers: A Survey｜[Link](https://arxiv.org/pdf/2404.09516) ｜
+| Arxiv 24.04.24|A Survey on Visual Mamba | [Link](https://arxiv.org/pdf/2404.15956v2) | 
+| Arxiv 24.04.24|Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges | [Link](https://arxiv.org/pdf/2404.16112) | 
+
+# Vision Applation (Modality)
 ## Image
 
 ### Natural Image
@@ -135,12 +143,7 @@
 | Arxiv 24.03.22| Music to Dance as Language Translation using Sequence Models | <img width="541" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/3e647680-22c7-4885-9ada-f32d9288f1ba"> | [Link](https://arxiv.org/pdf/2403.15569) | [Code](http://github.com/meowatthemoon/MDLT) | Music-to-Dance |
 
 
-# Survey
 
-| Date      | Paper | Link | 
-| :-------- | :---- | :-------- |
-| Arxiv 24.04.15｜State Space Model for New-Generation Network Alternative to Transformers: A Survey｜[Link](https://arxiv.org/pdf/2404.09516) ｜
-| Arxiv 24.04.24|A Survey on Visual Mamba | [Link](https://arxiv.org/pdf/2404.15956v2) | 
-| Arxiv 24.04.24|Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges | [Link](https://arxiv.org/pdf/2404.16112) | 
-
+# Others
+## Reinforcement Learning
 
