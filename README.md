@@ -6,7 +6,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/Ruixxxx/Awesome-Vision-Mamba-Models?style=flat-square)
 [![Arxiv Page](https://img.shields.io/badge/Arxiv-2403.06800-red?style=flat-square)](https://arxiv.org/pdf/2403.06800.pdf)
 
-[a]()
+[a](SOTA_Results.md)
 
 # Backbone for representation learning
 [<img width="430" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/f99d4335-448d-4d35-9588-c5f6169910d1">](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/main/SOTA_Results.md)
