@@ -93,8 +93,8 @@
 
 ## Video
 
-| Date      | Paper | Figure    | Link | Code         | Task | Dataset |
-| :-------- | :---- | :-------- | :--- | :----------- | :--- | :--- |
+| Date      | Paper | Figure    | Link | Code         | Task |
+| :-------- | :---- | :-------- | :--- | :----------- | :--- |
 | Arxiv 24.01.25| Vivim: a Video Vision Mamba for Medical Video Object Segmentation | <img width="596" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/e30c0ceb-5399-44b5-99b7-65ada043c87c"> | [Link](https://arxiv.org/pdf/2401.14168) | [Code](https://github.com/scott-yjyang/Vivim) | Medical Video Segmentation |
 | Arxiv 24.03.11| VideoMamba: State Space Model for Efficient Video Understanding | <img width="728" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/08797465-f93f-49ce-b724-91b67fabbabd"> | [Link](https://arxiv.org/pdf/2403.06977) | [Code](https://github.com/OpenGVLab/VideoMamba) | Action Recognition/Video Understanding/Text-to-video Retrieval |
 | Arxiv 24.03.14| Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding | <img width="704" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/70fb7829-d28e-4bbc-b326-fcb167dad979"> | [Link](https://arxiv.org/pdf/2403.09626) | [Code](https://github.com/OpenGVLab/video-mamba-suite) | Action Recognition/Action Localization/... |
@@ -135,9 +135,9 @@
 | Arxiv 24.04.23| Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model| <img width="959" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/6b565138-1c2d-4201-bd34-8b4343a62ec9"> | [Link](https://arxiv.org/pdf/2404.14966) | | Classification, Part Segmentation |
 
 ## Others
-| Date      | Paper | Figure    | Link | Code         | Task | Dataset |
-| :-------- | :---- | :-------- | :--- | :----------- | :--- | :--- |
-| Arxiv 24.03.08|Motion-Guided Dual-Camera Tracker for Low-Cost Skill Evaluation of Gastric Endoscopy | <img width="943" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/4cce4533-8d35-4acc-8cb3-6ad44603dc04"> | [Link](https://arxiv.org/pdf/2403.05146) | [Code](https://github.com/PieceZhang/MotionDCTrack) | Endoscope t=Tip Tracking |
+| Date      | Paper | Figure    | Link | Code         | Task |
+| :-------- | :---- | :-------- | :--- | :----------- | :--- |
+| Arxiv 24.03.08|Motion-Guided Dual-Camera Tracker for Low-Cost Skill Evaluation of Gastric Endoscopy | <img width="943" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/4cce4533-8d35-4acc-8cb3-6ad44603dc04"> | [Link](https://arxiv.org/pdf/2403.05146) | [Code](https://github.com/PieceZhang/MotionDCTrack) | Endoscope Tip Tracking |
 | Arxiv 24.03.14| MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models| <img width="429" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/42ea6b78-cb43-401b-9f81-764a521cfa17"> | [Link](https://arxiv.org/pdf/2403.09471) |  | Gesture Synthesis |
 | Arxiv 24.03.15| On the low-shot transferability of [V]-Mamba? | <img width="440" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/8e5c32ed-e499-44c5-9c33-ef5cd6873140"> | [Link](https://arxiv.org/pdf/2403.10696) | | Few-shot Learning |
 | Arxiv 24.03.22| Music to Dance as Language Translation using Sequence Models | <img width="541" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/3e647680-22c7-4885-9ada-f32d9288f1ba"> | [Link](https://arxiv.org/pdf/2403.15569) | [Code](http://github.com/meowatthemoon/MDLT) | Music-to-Dance |
