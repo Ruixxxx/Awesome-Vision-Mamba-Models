@@ -58,8 +58,14 @@ If you find this repository is useful for you, please cite our paper:
 | Date      | Paper | Figure    | Link | Code         |
 | :-------- | :---- | :-------- | :--- | :----------- |
 | Arxiv 24.01.17 | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model|<img width="684" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/6d32c807-3d2f-457e-8927-fa4bbe595064"> |[link](https://arxiv.org/abs/2401.09417)|[code](https://github.com/hustvl/Vim)|
-| Arxiv 24.01.18 | VMamba: Visual State Space Model | <img width="806" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/039e24f6-5f89-4772-bb84-7409aeef4da0"> <img width="833" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/75158bbf-18e9-45fc-93e0-7d84c062ed0d"> | [Link](https://arxiv.org/abs/2401.10166) | [code](https://github.com/MzeroMiko/VMamba.) |
-| Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
+| Arxiv 24.01.18 | VMamba: Visual State Space Model | <img width="806" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/039e24f6-5f89-4772-bb84-7409aeef4da0"> <img width="833" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/75158bbf-18e9-45fc-93e0-7d84c062ed0d"> | [Link](https://arxiv.org/abs/2401.10166) | [code](https://github.com/MzeroMiko/VMamba) |
+| Arxiv 24.02.08 | Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data | <img width="712" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/0ee52771-63ec-4e1d-bd24-aff9fe83c8e6"> | [Link](https://arxiv.org/pdf/2402.05892) | [code](https://github.com/jacklishufan/Mamba-ND) |
+| Arxiv 24.03.14 | LocalMamba: Visual State Space Model with Windowed Selective Scan| <img width="710" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/1c2bcfb8-72d0-4f33-b561-f926952455ff"> | [Link](https://arxiv.org/pdf/2403.09338) | [code](https://github.com/hunto/LocalMamba) |
+| Arxiv 24.03.15 | EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba | <img width="719" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/7e034c04-3359-456e-a2b3-720b4b37e975"> | [Link](https://arxiv.org/pdf/https://arxiv.org/pdf/2403.09977) | [code](https://github.com/TerryPei/EfficientVMamba) |
+| Arxiv 24.03.22 | SiMBA: Simplified Mamba-based Architecture for Vision and Multivariate Time series | <img width="622" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/bef43ea0-0d1e-4c2f-93e1-231b41394195"> | [Link](https://arxiv.org/pdf/2403.15360) | [code](https://github.com/badripatro/Simba) |
+| Arxiv 24.03.26 | PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition | <img width="713" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/d1170f9a-b9b2-4c4d-ab44-cd6c52a07c8d"> | [Link](https://arxiv.org/pdf/2403.17695) | [code](https://github.com/ChenhongyiYang/PlainMamba) |
+
+
 
 ## Related Survey
 
