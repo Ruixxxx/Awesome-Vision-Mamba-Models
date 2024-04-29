@@ -136,6 +136,7 @@
 
 | Date      | Paper | Link | 
 | :-------- | :---- | :-------- |
+| Arxiv 24.04.15｜State Space Model for New-Generation Network Alternative to Transformers: A Survey｜[Link](https://arxiv.org/pdf/2404.09516) ｜
 | Arxiv 24.04.24|A Survey on Visual Mamba | [Link](https://arxiv.org/pdf/2404.15956v2) | 
 | Arxiv 24.04.24|Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges | [Link](https://arxiv.org/pdf/2404.16112) | 
 
