@@ -9,9 +9,9 @@
 
 # Backbone for representation learning
 
-| Date      | Paper | Figure    | Link | Code         | Task | Dataset |
-| :-------- | :---- | :-------- | :--- | :----------- | :--- | :------ |
-| Header    | Title | Here's this | xxxx | Here's this | xxxx | xxxx    |
+| Date      | Paper | Figure    | Link | Code         |
+| :-------- | :---- | :-------- | :--- | :----------- |
+| Arxiv 24.01.18    | VMamba: Visual State Space Model | Here's this | [Link](https://arxiv.org/abs/2401.10166) | [Here's this](https://github.com/MzeroMiko/VMamba.) |
 | Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
 
 # Applation (Modality)
