@@ -2,7 +2,7 @@ Here presents detailed performance results for various backbone models on the Im
 
 ### Table 1: Comparison of different backbones on ImageNet-1K classification
 
-| **Method**                 | **Image Size**  | **Params** | **FLOPs** | **Top-1 ACC** |
+| **Backbone**                 | **Image Size**  | **Params** | **FLOPs** | **Top-1 ACC** |
 |----------------------------|-----------------|------------|-----------|---------------|
 | **ConvNets**               |                 |            |           |               |
 | RegNetY-4G                 | 224<sup>2</sup> | 21M        | 4.0G      | 80.0          |
@@ -97,7 +97,7 @@ Here presents detailed performance results for various backbone models on the Im
 
 ### Table 3: Results of semantic segmentation on ADE20K val using UperNet. FLOPs are calculated using input size 512×2048. 'SS' and 'MS' denote single-scale and multi-scale testing, respectively. MLN: multi-level neck.
 
-| Method           | Crop Size        | Params | FLOPs | mIoU (SS) | mIoU (MS) |
+| Backbone           | Crop Size        | Params | FLOPs | mIoU (SS) | mIoU (MS) |
 |------------------|------------------|--------|-------|-----------|-----------|
 | **ConvNets**     |                  |        |       |           |           |
 | ResNet-50        | 512<sup>2</sup>  | 67M    | 953G  | 42.1      | 42.8      |
