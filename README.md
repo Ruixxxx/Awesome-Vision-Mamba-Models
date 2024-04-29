@@ -137,6 +137,7 @@
 ## Others
 | Date      | Paper | Figure    | Link | Code         | Task |
 | :-------- | :---- | :-------- | :--- | :----------- | :--- |
+| Arxiv 24.02.24|Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning | <img width="683" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/e8ed3e23-e305-4b8a-a706-0601c1ef3b1b"> | [Link](https://arxiv.org/pdf/2402.15761) | [Code](https://github.com/ChiShengChen/ResVMamba) | Food Classification |
 | Arxiv 24.03.08|Motion-Guided Dual-Camera Tracker for Low-Cost Skill Evaluation of Gastric Endoscopy | <img width="943" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/4cce4533-8d35-4acc-8cb3-6ad44603dc04"> | [Link](https://arxiv.org/pdf/2403.05146) | [Code](https://github.com/PieceZhang/MotionDCTrack) | Endoscope Tip Tracking |
 | Arxiv 24.03.14| MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models| <img width="429" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/42ea6b78-cb43-401b-9f81-764a521cfa17"> | [Link](https://arxiv.org/pdf/2403.09471) |  | Gesture Synthesis |
 | Arxiv 24.03.15| On the low-shot transferability of [V]-Mamba? | <img width="440" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/8e5c32ed-e499-44c5-9c33-ef5cd6873140"> | [Link](https://arxiv.org/pdf/2403.10696) | | Few-shot Learning |
