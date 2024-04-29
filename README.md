@@ -11,8 +11,7 @@
 
 | Date      | Paper | Figure    | Link | Code         |
 | :-------- | :---- | :-------- | :--- | :----------- |
-| Arxiv 24.01.17 | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model|<img width="684" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/6d32c807-3d2f-457e-8927-fa4bbe595064">
-|[link](https://arxiv.org/abs/2401.09417)|[code](https://github.com/hustvl/Vim)|
+| Arxiv 24.01.17 | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model|<img width="684" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/6d32c807-3d2f-457e-8927-fa4bbe595064"> |[link](https://arxiv.org/abs/2401.09417)|[code](https://github.com/hustvl/Vim)|
 | Arxiv 24.01.18 | VMamba: Visual State Space Model | <img width="806" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/039e24f6-5f89-4772-bb84-7409aeef4da0"> <img width="833" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/75158bbf-18e9-45fc-93e0-7d84c062ed0d"> | [Link](https://arxiv.org/abs/2401.10166) | [code](https://github.com/MzeroMiko/VMamba.) |
 | Paragraph | Text  | And more  | xxxx | Here's this | xxxx | xxxx    |
 
