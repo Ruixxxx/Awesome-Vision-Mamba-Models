@@ -74,6 +74,8 @@
 | Arxiv 24.03.26| Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation | <img width="830" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/100bc4e7-65e1-43d9-815d-99b394e12b4f"> | [Link](https://arxiv.org/pdf/2403.17701) |  | 2D Medical Segmentation |
 | Arxiv 24.04.01| T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation | <img width="603" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/b01c38ef-6623-4e9b-867b-ba6f39575b5c"> | [Link](https://arxiv.org/pdf/2404.01065) | [Code](https://github.com/isbrycee/T-Mamba) | 3D Medical Segmentation (Tooth) |
 | Arxiv 24.04.10| ViM-UNet: Vision Mamba for Biomedical Segmentation | <img width="581" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/1c32deb4-7695-4cb6-bbc7-5912a69bed98"> | [Link](https://arxiv.org/pdf/2404.07705) | [Code](https://github.com/constantinpape/torch-em/blob/main/vimunet.md) | 2D Medical Segmentation (Cell/Neurite) |
+| Arxiv 24.04.26| Optimizing Universal Lesion Segmentation: State Space Model-Guided Hierarchical Networks with Feature Importance Adjustment | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/8677a439-1c4b-4b4e-8dc1-f0003167c855) | [Link](https://arxiv.org/pdf/2404.17235) |  | Universal Lesion Segmentation |
+| Arxiv 24.04.26| Sparse Reconstruction of Optical Doppler Tomography Based on State Space Model | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/383012cc-e1f4-40b1-94f3-46156ae240ad) | [Link](https://arxiv.org/pdf/2404.17484) |  | ODT Sparse Reconstruction |
 
 
 ## Video
@@ -103,6 +105,8 @@
 | Arxiv 24.04.14|Fusion-Mamba for Cross-modality Object Detection | <img width="902" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/97b716a5-f647-43d9-a1fe-dc8b2b02670d"> | [Link](https://arxiv.org/pdf/2404.09146) | | Visible-infrared Images Fusion | RGB Images & Infrared Images| 
 | Arxiv 24.04.15| FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba | <img width="906" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/87093676-286c-4e35-89b7-7e573679cc67"> | [Link](https://arxiv.org/pdf/2404.09498) | [Code](https://github.com/millieXie/FusionMamba) | Image Fusion | RGB & Infrared Images, MRI & CT/PET/SPECT, PC & GFP| 
 | Arxiv 24.04.17| Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion | <img width="810" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/f27aa176-65e2-44db-a172-56712e789729"> | [Link](https://arxiv.org/pdf/2404.11375) | |  Temporal Grounding| Motion & Text |
+| Arxiv 24.04.24| CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/5384d699-ed2f-46f5-bc56-2e61c03d2a51) | [Link](https://arxiv.org/pdf/2404.16302) | [Code](https://github.com/lhy-zjut/CFMW) |  Visible-infrared Images Fusion | RGB Images & Infrared Images| 
+
 
 ## Point Cloud
 | Arxiv 24.03.12| | | [Link]() | [Code]() |  |
