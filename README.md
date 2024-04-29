@@ -8,6 +8,8 @@
 
 
 # Backbone for representation learning
+<img width="430" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/f99d4335-448d-4d35-9588-c5f6169910d1">
+
 
 | Date      | Paper | Figure    | Link | Code         |
 | :-------- | :---- | :-------- | :--- | :----------- |
