@@ -34,14 +34,14 @@ If you find this repository is useful for you, please cite our paper:
 
 ## Contents
 - [Backbone](#backbone-for-representation-learning)
-- [Related survery](#related-survey)
+- [Related Survery](#related-survey)
 - [Vision Application (Modality)](#vision-application)
   - [Image](#image)
     - [Natural Image](#natural-image)
     - [Remote Sensing Image](#remote-sensing-image)
     - [Medical Image](#medical-image)
   - [Video](#video)
-  - [Multi-modal](#multi-modal)
+  - [Multi-Modal](#multi-modal)
   - [Point Cloud](#point-cloud)
   - [Others](#others)
 - [Other Domains](#other-domains)
@@ -49,7 +49,7 @@ If you find this repository is useful for you, please cite our paper:
   - [Graph Learning](#graph-learning)
   - [Mixture of Experts](#moe)
 
-## Backbone for representation learning
+## Backbone for Representation Learning
 [<img width="430" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/f99d4335-448d-4d35-9588-c5f6169910d1">](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/main/SOTA_Results.md)
 
 [Detailed Performance Comparison](SOTA_Results.md)
