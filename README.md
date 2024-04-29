@@ -123,7 +123,6 @@
 
 
 ## Point Cloud
-| Arxiv 24.03.12| | | [Link]() | [Code]() |  |
 
 | Date      | Paper | Figure    | Link | Code         | Task | 
 | :-------- | :---- | :-------- | :--- | :----------- | :--- |
