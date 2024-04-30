@@ -49,7 +49,8 @@ If you find this repository is useful for you, please cite our paper:
   - [Mixture of Experts](#moe)
 
 ## Backbone for Representation Learning
-![image](<img with="712" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/bb8f5037-186b-44a7-8ec3-a35189cd0bb7">)
+<img width="361" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/555f0cf1-f909-4e62-b293-699e271cc45b">
+
 
 [Detailed Performance Comparison](SOTA_Results.md)
 
