@@ -14,7 +14,7 @@ Mamba, a novel state space model, has gained recognition across diverse domains 
 
 :star: This repository hosts a curated collection of literature associated with Mamba models in computer vision. Feel free to star and fork. For further details, refer to the following paper:
 
-**[A Survey on Vision Mamba: Models, Applications and Challenges](https://arxiv.org/abs/2403.06800)**<br/>
+**[A Survey on Vision Mamba: Models, Applications and Challenges](https://arxiv.org/abs/2404.18861)**<br/>
 Rui Xu, Shu Yang, Yihui Wang, Bo Du, [Hao Chen](https://cse.hkust.edu.hk/~jhc/)<br/>
 [SMART Lab](https://hkustsmartlab.netlify.app/), The Hong Kong University of Science and Technology<br/>
 <br/>
@@ -26,7 +26,7 @@ If you find this repository is useful for you, please cite our paper:
       author={Rui Xu and Shu Yang and Yihui Wang and Bo Du and Hao Chen},
       year={2024},
       eprint={},
-      archivePrefix={arXiv},
+      archivePrefix={arXiv 2404.18861},
       primaryClass={}
 }
 ```
