@@ -33,7 +33,7 @@ If you find this repository is useful for you, please cite our paper:
 
 ## Contents
 - [Backbone](#backbone-for-representation-learning)
-- [Related Survery](#related-survey)
+- [Related Survey](#related-survey)
 - [Vision Application (Modality)](#vision-application)
   - [Image](#image)
     - [Natural Image](#natural-image)
