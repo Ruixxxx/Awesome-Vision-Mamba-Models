@@ -107,6 +107,11 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.04.04| ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model | <img width="1023" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/476bf8d5-625e-4e65-ad19-bc14817c9a58">  | [Link](https://arxiv.org/pdf/2404.03425) | [Code](https://github.com/ChenHongruixuan/MambaCD) | Change Detection/Building Damage Assessment |
 | Arxiv 24.04.12| SpectralMamba: Efficient Mamba for Hyperspectral Image Classification | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/ed4437bb-a15b-4818-8dad-8fa7ac7c0213) | [Link](https://arxiv.org/pdf/2404.08489) | [Code](https://github.com/danfenghong/SpectralMamba) | Hyperspectral Image Classification |
 | Arxiv 24.04.15| HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising | <img width="947" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/91ebd913-ef36-400e-a83c-8d24fc5536b3"> | [Link](https://arxiv.org/pdf/2404.09697) | | Hyperspectral Denoising |
+| Arxiv 24.04.29| Spectral-Spatial Mamba for Hyperspectral Image Classification | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/55656071/94bc56de-3aca-40b7-a9b8-4f7d11f0bd21) | [Link](https://arxiv.org/pdf/2404.18401) | | Hyperspectral Image Classification |
+| Arxiv 24.04.28| S2Mamba: A Spatial-spectral State Space Model for Hyperspectral Image Classification | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/55656071/e8cad91d-5c01-45f9-ba38-53d6b41b7f14) | [Link](https://arxiv.org/pdf/2404.18213) | [Code](https://github.com/PURE-melo/S2Mamba) | Hyperspectral Image Classification |
+
+
+
 
 #### Medical Image
 
@@ -152,6 +157,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.03.14| Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding | <img width="704" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/70fb7829-d28e-4bbc-b326-fcb167dad979"> | [Link](https://arxiv.org/pdf/2403.09626) | [Code](https://github.com/OpenGVLab/video-mamba-suite) | Action Recognition/Action Localization/... |
 | Arxiv 24.04.09| RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos | <img width="881" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/f1b0f8a1-f10f-43c6-8203-701ae0376af2"> | [Link](https://arxiv.org/pdf/2404.06483) | [Code](https://github.com/zizhengguo/RhythmMamba) | Remote photoplethysmography  Prediction |
 | Arxiv 24.04.11| Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos | <img width="697" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/ea35cf6a-e2a6-4eab-8da7-2cb7cd098507"> | [Link](https://arxiv.org/pdf/2404.07645) | | Skeleton Action Recognition|
+| Arxiv 24.04.28| Mamba-FETrack: Frame-Event Tracking via State Space Model | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/55656071/0893109c-1e78-4f43-be58-e61beebe6f4c) | [Link](https://arxiv.org/pdf/2404.18174) | [Code](https://github.com/Event-AHU/Mamba_FETrack) | Visual tracking |
 
 ### Multi-Modal
 
@@ -173,6 +179,8 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.04.15| FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba | <img width="906" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/87093676-286c-4e35-89b7-7e573679cc67"> | [Link](https://arxiv.org/pdf/2404.09498) | [Code](https://github.com/millieXie/FusionMamba) | Image Fusion | RGB & Infrared Images, MRI & CT/PET/SPECT, PC & GFP|
 | Arxiv 24.04.17| Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion | <img width="810" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/f27aa176-65e2-44db-a172-56712e789729"> | [Link](https://arxiv.org/pdf/2404.11375) | |  Temporal Grounding| Motion & Text |
 | Arxiv 24.04.24| CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/5384d699-ed2f-46f5-bc56-2e61c03d2a51) | [Link](https://arxiv.org/pdf/2404.16302) | [Code](https://github.com/lhy-zjut/CFMW) |  Visible-infrared Images Fusion | RGB Images & Infrared Images|
+| Arxiv 24.04.30| CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/55656071/a38f3ef2-f6e7-46bf-b5b9-dd22cafeac0e) | [Link](https://arxiv.org/pdf/2404.19394) | [Code](https://github.com/raytrun/mamba-clip) | OOD | Image & Text |
+| Arxiv 24.04.27| Revisiting Multi-modal Emotion Learning with Broad State Space Models and Probability-guidance Fusion | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/55656071/c0df9475-fa5b-4b5e-af29-44ace6ae7ef2) | [Link](https://arxiv.org/pdf/2404.17858) |  | Multi-modal Emotion Recognition | Text & Video & Audio |
 
 
 
