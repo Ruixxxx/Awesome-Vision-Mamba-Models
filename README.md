@@ -7,7 +7,7 @@
 [![Arxiv Page](https://img.shields.io/badge/Arxiv-2404.18861-red?style=flat-square)](https://arxiv.org/abs/2404.18861)
 
 [NEWS.2024/04/29] **Our [paper](https://arxiv.org/abs/2404.18861) is released!**
-
+[NEWS.2024/05/02] **Congratulations to [Vision Mamba](https://arxiv.org/abs/2401.09417) on being accepted in ICML 2024.**
 📢**NOTE:** If you have any questions, please don't hesitate to contact us at any of the following emails: [rui.xu@whu.edu.cn](mailto:rui.xu@whu.edu.cn), [syangcw@connect.ust.hk](mailto:syangcw@connect.ust.hk), [ywangrm@connect.ust.hk](mailto:ywangrm@connect.ust.hk).
 
 Mamba, a novel state space model, has gained recognition across diverse domains for its exceptional performance and efficient computational complexity. By addressing the limitations inherent in traditional visual foundation models, Mamba emerges as a promising contender poised to catalyze advancements in the field of computer vision.
