@@ -157,8 +157,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.04.26| Optimizing Universal Lesion Segmentation: State Space Model-Guided Hierarchical Networks with Feature Importance Adjustment | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/8677a439-1c4b-4b4e-8dc1-f0003167c855) | [Link](https://arxiv.org/pdf/2404.17235) |  | Universal Lesion Segmentation |
 | Arxiv 24.04.26| Sparse Reconstruction of Optical Doppler Tomography Based on State Space Model | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/383012cc-e1f4-40b1-94f3-46156ae240ad) | [Link](https://arxiv.org/pdf/2404.17484) |  | ODT Sparse Reconstruction |
 | Arxiv 24.05.05| AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/55656071/3a114a55-479a-467a-af92-029b2af250c1) | [Link](https://arxiv.org/pdf/2405.03011) | [Code](https://github.com/vietthanh2710/AC-MambaSeg) | skin lesion segmentation |
-
-
+| Arxiv 24.05.08| HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation | <img width="689" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/dd95c6d9-9d34-4460-9936-e6de2971dab8">| [Link](https://arxiv.org/pdf/2405.05007) | | 2D Medical Segmentation |
 
 
 
