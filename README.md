@@ -45,6 +45,7 @@ If you find this repository is useful for you, please cite our paper:
   - [Point Cloud](#point-cloud)
   - [Multi-Modal](#multi-modal)
   - [Others](#others)
+- [Useful Source](#useful-source)
 - [Other Domains](#other-domains)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Graph Learning](#graph-learning)
@@ -225,6 +226,15 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.03.14| MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models| <img width="429" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/42ea6b78-cb43-401b-9f81-764a521cfa17"> | [Link](https://arxiv.org/pdf/2403.09471) |  | Gesture Synthesis |
 | Arxiv 24.03.15| On the low-shot transferability of [V]-Mamba? | <img width="440" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/8e5c32ed-e499-44c5-9c33-ef5cd6873140"> | [Link](https://arxiv.org/pdf/2403.10696) | | Few-shot Learning |
 | Arxiv 24.03.22| Music to Dance as Language Translation using Sequence Models | <img width="541" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/3e647680-22c7-4885-9ada-f32d9288f1ba"> | [Link](https://arxiv.org/pdf/2403.15569) | [Code](http://github.com/meowatthemoon/MDLT) | Music-to-Dance |
+
+
+
+## Useful Source
+
+| Date      | Paper | Link |
+| :-------- | :---- | :-------- |
+| Arxiv 24.03.03|The Hidden Attention of Mamba Models | [Link](https://arxiv.org/abs/2403.01590) |
+| Arxiv 24.03.16|Understanding Robustness of Visual State Space Models for Image Classification | [Link](https://arxiv.org/abs/2403.10935) |
 
 
 
