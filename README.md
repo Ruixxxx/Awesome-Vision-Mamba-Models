@@ -188,6 +188,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.04.10|3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion | <img width="1020" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/da19fb01-52bd-4a55-b0ca-9681fdaef9ed"> | [Link](https://arxiv.org/pdf/2404.07106) |  | Point Cloud Completion |
 | Arxiv 24.04.23| Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model | <img width="959" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/6b565138-1c2d-4201-bd34-8b4343a62ec9"> | [Link](https://arxiv.org/pdf/2404.14966) | | Classification, Part Segmentation |
 | Arxiv 24.05.09| Rethinking Efficient and Effective Point-based Networks for Event Camera Classification and Regression: EventMamba | <img width="1528" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/2a7422a9-9483-4b5c-be57-5b2c04f4b614"> | [Link](https://arxiv.org/abs/2405.06116) | | Classification, Regression |
+| Arxiv 24.05.13| OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/d0f1b07e-8f8e-4e3e-b58b-205dcda758b3) | [Link](https://arxiv.org/pdf/2405.07966) | [Code](https://github.com/scnu-rislab/overlapmamba) | LiDAR Place Recognition |
 
 
 
