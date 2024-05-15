@@ -124,6 +124,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.06| SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/55656071/79270936-2d0e-405c-b8aa-8c3f83cfc1b9) | [Link](https://arxiv.org/pdf/2405.01699) | [Code](https://github.com/yash2629/S.O.A.R) | Detection |
 | Arxiv 24.05.08| Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution | <img width="745" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/51b4b08f-8086-4e57-8006-3e9ba06ff205"> | [Link](https://arxiv.org/pdf/2405.04964) | | Super Resolution |
 | Arxiv 24.05.13| GMSR:Gradient-Guided Mamba for Spectral Reconstruction from RGB Images | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/d54a5f65-c11a-41f3-a19b-266a8232d955) | [Link](https://arxiv.org/pdf/2405.07777) | [Code](https://github.com/wxy11-27/GMSR) | Spectral Reconstruction from RGB Images |
+| Arxiv 24.05.14| Rethinking Scanning Strategies with Vision Mamba in Semantic Segmentation of Remote Sensing Imagery: An Experimental Study | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/6d448bec-2670-4b6c-8ad4-9f98fe035e46) | [Link](https://arxiv.org/pdf/2405.08493) | | Semantic Segmentation |
 
 
 #### Medical Image
