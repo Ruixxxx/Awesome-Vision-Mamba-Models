@@ -128,6 +128,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.14| Rethinking Scanning Strategies with Vision Mamba in Semantic Segmentation of Remote Sensing Imagery: An Experimental Study | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/6d448bec-2670-4b6c-8ad4-9f98fe035e46) | [Link](https://arxiv.org/pdf/2405.08493) | | Semantic Segmentation |
 | Arxiv 24.05.16| RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/036a8218-8c32-4900-aec2-4bc14bab7603) | [Link](https://arxiv.org/pdf/2405.10030) | | Dehazing |
 | Arxiv 24.05.17| CM-UNet: Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/abbdeaf8-5063-4349-b769-01d925a8ff48) | [Link](https://arxiv.org/pdf/2405.10530) | [Code](https://github.com/xiaobul/cm-unet) | Semantic Segmentation |
+| Arxiv 24.05.20| Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/f7b0dbed-0104-4b8b-b60c-8cc4d55482b5) | [Link](https://arxiv.org/pdf/2405.12003) | [Code](https://github.com/zhouweilian1904/Mamba-in-Mamba) | Hyperspectral Image Classification |
 
 
 #### Medical Image
