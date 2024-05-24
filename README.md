@@ -67,6 +67,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.03.15 | EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba | <img width="719" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/7e034c04-3359-456e-a2b3-720b4b37e975"> | [Link](https://arxiv.org/pdf/https://arxiv.org/pdf/2403.09977) | [Code](https://github.com/TerryPei/EfficientVMamba) |
 | Arxiv 24.03.22 | SiMBA: Simplified Mamba-based Architecture for Vision and Multivariate Time series | <img width="622" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/bef43ea0-0d1e-4c2f-93e1-231b41394195"> | [Link](https://arxiv.org/pdf/2403.15360) | [Code](https://github.com/badripatro/Simba) |
 | Arxiv 24.03.26 | PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition | <img width="713" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/d1170f9a-b9b2-4c4d-ab44-cd6c52a07c8d"> | [Link](https://arxiv.org/pdf/2403.17695) | [Code](https://github.com/ChenhongyiYang/PlainMamba) |
+| Arxiv 24.05.23 | Mamba-R: Vision Mamba ALSO Needs Registers | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/1948c30d-11a1-4d41-ab1b-34ab64c74a86) | [Link](https://arxiv.org/pdf/2405.14858) | [Code](https://github.com/wangf3014/Mamba-Reg) |
 
 
 
