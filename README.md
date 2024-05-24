@@ -106,6 +106,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.06| Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/55656071/51ad0eb7-9f0d-4ad7-ad24-70f3831db65d) | [Link](https://arxiv.org/pdf/2405.03349) | [Code](https://github.com/YhuoyuH/RetinexMamba) | Image Enhancement |
 | Arxiv 24.05.07| VMambaCC: A Visual State Space Model for Crowd Counting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/55656071/aaaf64a2-b2b7-441f-98cd-c842135d1893) | [Link](https://arxiv.org/pdf/2405.03978) |  | Crowd Counting |
 | Arxiv 24.05.16| IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/a9a70fb6-87cc-47cf-bf31-dd0dced8eaf3) | [Link](https://arxiv.org/pdf/2405.09873) | [Code](https://github.com/yongsongH/IRSRMamba) | Infrared Image Super-resolution |
+| Arxiv 24.05.23| DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/4669e2bd-4530-427e-9162-8cb4c709450a) | [Link](https://arxiv.org/pdf/2405.14224) | [Code](https://github.com/tyshiwo1/DiM-DiffusionMamba/) | Generation |
 
 
 
