@@ -271,6 +271,7 @@ If you find this repository is useful for you, please cite our paper:
 ### Audio
 | Date      | Paper | Figure    | Link | Code         |
 | :-------- | :---- | :-------- | :--- | :----------- |
+| Arxiv 24.05.10| An Investigation of Incorporating Mamba for Speech Enhancement | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/d21c2e96-6e7b-471d-89c9-e88a20d07b2e) | [Link](https://arxiv.org/pdf/2405.06573) | |
 | Arxiv 24.05.20| SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model| ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/c6228d72-8667-4c45-a9c2-591cc89a8f11) | [Link](https://arxiv.org/pdf/2405.11831) | [Code](https://github.com/SiavashShams/ssamba)|
 | Arxiv 24.05.21| Mamba in Speech: Towards an Alternative to Self-Attention | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/3225b8b2-c3df-42c0-a415-e995f3a195b6) | [Link](https://arxiv.org/pdf/2405.12609) | |
 | Arxiv 24.05.22| Audio Mamba: Pretrained Audio State Space Model For Audio Tagging|  | [Link](https://arxiv.org/pdf/2405.07022) | [Code](https://github.com/diggerdu/AudioMamba)|
