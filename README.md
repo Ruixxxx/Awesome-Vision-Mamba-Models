@@ -259,6 +259,9 @@ If you find this repository is useful for you, please cite our paper:
 ## Other Domains
 coming soon
 ### Reinforcement Learning
+| Date      | Paper | Figure    | Link | Code         |
+| :-------- | :---- | :-------- | :--- | :----------- |
+| Arxiv 24.05.20 | Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning? | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/fa757c1f-c200-4387-8ee0-dc373eabf7d1) | [Link](https://arxiv.org/pdf/2405.12094) | |
 
 ### Graph Learning
 | Date      | Paper | Figure    | Link | Code         |
