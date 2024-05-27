@@ -257,7 +257,7 @@ If you find this repository is useful for you, please cite our paper:
 
 
 ## Other Domains
-coming soon
+
 ### Reinforcement Learning
 | Date      | Paper | Figure    | Link | Code         |
 | :-------- | :---- | :-------- | :--- | :----------- |
@@ -273,4 +273,10 @@ coming soon
 | :-------- | :---- | :-------- | :--- | :----------- |
 | Arxiv 24.05.20| SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model| ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/c6228d72-8667-4c45-a9c2-591cc89a8f11) | [Link](https://arxiv.org/pdf/2405.11831) | [Code](https://github.com/SiavashShams/ssamba)|
 | Arxiv 24.05.21| Mamba in Speech: Towards an Alternative to Self-Attention | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/3225b8b2-c3df-42c0-a415-e995f3a195b6) | [Link](https://arxiv.org/pdf/2405.12609) | |
-| Arxiv 24.05.22| Audio Mamba: Pretrained Audio State Space Model For Audio Tagging| ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/b23150c8-4419-4817-96b5-78982ed20726) | [Link](https://arxiv.org/pdf/2405.13636) | [Code](https://github.com/diggerdu/AudioMamba)|
+| Arxiv 24.05.22| Audio Mamba: Pretrained Audio State Space Model For Audio Tagging|  | [Link](https://arxiv.org/pdf/2405.07022) | [Code](https://github.com/diggerdu/AudioMamba)|
+
+### Time Series Forecasting
+| Date      | Paper | Figure    | Link | Code         |
+| :-------- | :---- | :-------- | :--- | :----------- |
+| Arxiv 24.05.11 | DTMamba : Dual Twin Mamba for Time Series Forecasting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/72c7ed39-c905-4a7f-b567-68042ea27e5c) | [Link](https://arxiv.org/pdf/2405.12094) | |
+
