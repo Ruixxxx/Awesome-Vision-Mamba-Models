@@ -271,6 +271,7 @@ If you find this repository is useful for you, please cite our paper:
 ### Audio
 | Date      | Paper | Figure    | Link | Code         |
 | :-------- | :---- | :-------- | :--- | :----------- |
+| Arxiv 24.04.02| SPMamba: State-space model is all you need in speech separation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/26057f58-3c03-4600-a0a4-24699035068a) | [Link](https://github.com/JusperLee/SPMamba) | |
 | Arxiv 24.05.02| TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/813edf33-51e8-4c9e-8ed6-11065464c6bc) | [Link](https://arxiv.org/pdf/2405.01242) | |
 | Arxiv 24.05.10| An Investigation of Incorporating Mamba for Speech Enhancement | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/d21c2e96-6e7b-471d-89c9-e88a20d07b2e) | [Link](https://arxiv.org/pdf/2405.06573) | |
 | Arxiv 24.05.20| SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model| ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/c6228d72-8667-4c45-a9c2-591cc89a8f11) | [Link](https://arxiv.org/pdf/2405.11831) | [Code](https://github.com/SiavashShams/ssamba)|
