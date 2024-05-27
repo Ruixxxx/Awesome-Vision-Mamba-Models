@@ -230,6 +230,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.04.29| RSCaMa: Remote Sensing Image Change Captioning with State Space Model | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/cf319422-e155-4106-a3d6-2f59b3be82a8) | [Link](https://arxiv.org/abs/2404.18895v2) | [Code](https://github.com/chen-yang-liu/rscama) | Image Captioning | Remote Sensing Image & Text |
 | Arxiv 24.04.30| CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/55656071/a38f3ef2-f6e7-46bf-b5b9-dd22cafeac0e) | [Link](https://arxiv.org/pdf/2404.19394) | [Code](https://github.com/raytrun/mamba-clip) | OOD | Image & Text |
 | Arxiv 24.05.13| Sakuga-42M Dataset: Scaling Up Cartoon Research | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/f94f61cf-b7fe-4e88-9ac0-729de1ba1a3b) | [Link](https://arxiv.org/pdf/2405.07425) | [Code](https://github.com/zhenglinpan/SakugaDataset) | Cartoon Understanding/Cartoon Generation/... | Cartoon Video & Text |
+| Arxiv 24.05.24| Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/69cb87ad-3a1e-4f3c-983b-005b315b719b) | [Link](https://arxiv.org/pdf/2405.15574) | [Code](https://github.com/ByungKwanLee/Meteor) | Large Language and Vision Model | Image & Text (Qestion/Rationale) |
 
 
 
