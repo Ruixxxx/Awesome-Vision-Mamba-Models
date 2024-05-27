@@ -280,6 +280,7 @@ If you find this repository is useful for you, please cite our paper:
 ### Time Series Forecasting
 | Date      | Paper | Figure    | Link | Code         |
 | :-------- | :---- | :-------- | :--- | :----------- |
+| Arxiv 24.04.23 | Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/80ddb918-c007-4f00-97cc-1e1724c82ead) | [Link](https://arxiv.org/pdf/2404.14757) | |
 | Arxiv 24.04.24 | Bi-Mamba+: Bidirectional Mamba for Time Series Forecasting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/9218c082-cda9-4072-8ddb-4fc0ae53899a) | [Link](https://arxiv.org/pdf/2404.15772) | |
 | Arxiv 24.05.11 | DTMamba : Dual Twin Mamba for Time Series Forecasting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/72c7ed39-c905-4a7f-b567-68042ea27e5c) | [Link](https://arxiv.org/pdf/2405.12094) | |
 
