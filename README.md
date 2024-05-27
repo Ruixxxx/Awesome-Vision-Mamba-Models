@@ -1,4 +1,4 @@
-![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/8615e57c-a8dd-4edf-83a6-0a26ead05d86)# Awesome-Vision-Mamba-Models
+# Awesome-Vision-Mamba-Models
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -264,6 +264,7 @@ coming soon
 | Date      | Paper | Figure    | Link | Code         |
 | :-------- | :---- | :-------- | :--- | :----------- |
 | Arxiv 24.05.22| HeteGraph-Mamba: Heterogeneous Graph Learning via Selective State Space Model | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/4d8e3a9c-d908-4203-8a6d-1f5e62e1ecbb) | [Link](https://arxiv.org/pdf/2405.13915) | |
+
 ### Audio
 | Date      | Paper | Figure    | Link | Code         |
 | :-------- | :---- | :-------- | :--- | :----------- |
