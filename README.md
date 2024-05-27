@@ -253,6 +253,7 @@ If you find this repository is useful for you, please cite our paper:
 | :-------- | :---- | :-------- |
 | Arxiv 24.03.03|The Hidden Attention of Mamba Models | [Link](https://arxiv.org/abs/2403.01590) |
 | Arxiv 24.03.16|Understanding Robustness of Visual State Space Models for Image Classification | [Link](https://arxiv.org/abs/2403.10935) |
+| Arxiv 24.05.13|MambaOut: Do We Really Need Mamba for Vision? | [Link](https://arxiv.org/pdf/2405.07992) |
 
 
 
