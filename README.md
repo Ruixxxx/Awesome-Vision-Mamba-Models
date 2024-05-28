@@ -173,6 +173,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.08| HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation | <img width="689" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/dd95c6d9-9d34-4460-9936-e6de2971dab8">| [Link](https://arxiv.org/pdf/2405.05007) | | 2D Medical Segmentation |
 | Arxiv 24.05.09| VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis |<img width="724" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/fe63dac2-8500-48cb-8237-2b0c02f5be38">| [Link](https://arxiv.org/pdf/2405.05667)| | Medical Image Generation |
 | Arxiv 24.05.22| I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/1bd027fe-54fd-4d4e-8a77-6d1086803ea8) | [Link](https://arxiv.org/pdf/2405.14022) | [Code](https://github.com/icon-lab/I2I-Mamba) | Medical Image Generation |
+| Arxiv 24.05.24| MUCM-Net: A Mamba Powered UCM-Net for Skin Lesion Segmentation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/4e59cd89-00a0-4c97-9e2d-2df413843b4c) | [Link](https://arxiv.org/pdf/2405.15925) | [Code](https://github.com/chunyuyuan/MUCM-Net) | Medical Image Segmentation |
 | Arxiv 24.05.27| TokenUnify: Scalable Autoregressive Visual Pre-training with Mixture Token Prediction | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/e557c853-cc47-4e48-a5f4-ca506402d717) | [Link](https://arxiv.org/pdf/2405.16847) | [Code](https://github.com/ydchen0806/TokenUnify) | Pre-training/Medical Image Segmentation |
 
 
@@ -255,6 +256,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.03.03|The Hidden Attention of Mamba Models | [Link](https://arxiv.org/abs/2403.01590) |
 | Arxiv 24.03.16|Understanding Robustness of Visual State Space Models for Image Classification | [Link](https://arxiv.org/abs/2403.10935) |
 | Arxiv 24.05.13|MambaOut: Do We Really Need Mamba for Vision? | [Link](https://arxiv.org/pdf/2405.07992) |
+| Arxiv 24.05.26|Demystify Mamba in Vision: A Linear Attention Perspective | [Link](https://arxiv.org/pdf/2405.16605) |
 
 
 
@@ -286,4 +288,6 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.04.23 | Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/80ddb918-c007-4f00-97cc-1e1724c82ead) | [Link](https://arxiv.org/pdf/2404.14757) | |
 | Arxiv 24.04.24 | Bi-Mamba+: Bidirectional Mamba for Time Series Forecasting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/9218c082-cda9-4072-8ddb-4fc0ae53899a) | [Link](https://arxiv.org/pdf/2404.15772) | |
 | Arxiv 24.05.11 | DTMamba : Dual Twin Mamba for Time Series Forecasting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/72c7ed39-c905-4a7f-b567-68042ea27e5c) | [Link](https://arxiv.org/pdf/2405.12094) | |
+| Arxiv 24.05.25 | Time-SSM: Simplifying and Unifying State Space Models for Time Series Forecasting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/0f26280e-a19d-479f-a28f-93e4df1bd4ba) | [Link](https://arxiv.org/pdf/2405.16312) | |
+| Arxiv 24.05.26 | MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/41c611a4-d711-4621-be4e-d60960724adc) | [Link](https://arxiv.org/pdf/2405.16440) | |
 
