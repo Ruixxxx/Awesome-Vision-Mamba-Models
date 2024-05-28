@@ -173,6 +173,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.08| HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation | <img width="689" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/dd95c6d9-9d34-4460-9936-e6de2971dab8">| [Link](https://arxiv.org/pdf/2405.05007) | | 2D Medical Segmentation |
 | Arxiv 24.05.09| VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis |<img width="724" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/fe63dac2-8500-48cb-8237-2b0c02f5be38">| [Link](https://arxiv.org/pdf/2405.05667)| | Medical Image Generation |
 | Arxiv 24.05.22| I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/1bd027fe-54fd-4d4e-8a77-6d1086803ea8) | [Link](https://arxiv.org/pdf/2405.14022) | [Code](https://github.com/icon-lab/I2I-Mamba) | Medical Image Generation |
+| Arxiv 24.05.27| TokenUnify: Scalable Autoregressive Visual Pre-training with Mixture Token Prediction | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/e557c853-cc47-4e48-a5f4-ca506402d717) | [Link](https://arxiv.org/pdf/2405.16847) | [Code](https://github.com/ydchen0806/TokenUnify) | Pre-training/Medical Image Segmentation |
 
 
 
