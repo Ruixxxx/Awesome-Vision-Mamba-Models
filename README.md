@@ -177,6 +177,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.25| UU-Mamba: Uncertainty-aware U-Mamba for Cardiac Image Segmentation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/d1b6f917-07c7-491b-82cd-a726d89a4d50) | [Link](https://arxiv.org/pdf/2405.17496) | | Medical Image Segmentation |
 | Arxiv 24.05.27| TokenUnify: Scalable Autoregressive Visual Pre-training with Mixture Token Prediction | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/e557c853-cc47-4e48-a5f4-ca506402d717) | [Link](https://arxiv.org/pdf/2405.16847) | [Code](https://github.com/ydchen0806/TokenUnify) | Pre-training/Medical Image Segmentation | 
 | Arxiv 24.05.27| Enhancing Global Sensitivity and Uncertainty Quantification in Medical Image Reconstruction with Monte Carlo Arbitrary-Masked Mamba | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/39dcf5e1-83e8-4490-a1d7-002b27ca2e75) | [Link](https://arxiv.org/pdf/2405.17659) | | Medical Image Reconstruction |
+| Arxiv 24.05.28| Cardiovascular Disease Detection from Multi-View Chest X-rays with BI-Mamba | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/ef8f07aa-0f26-4afe-9eed-ecd68cf65062) | [Link](https://arxiv.org/pdf/2405.18533) | [Code](https://github.com/RPIDIAL/BI-Mamba) | CVD Risk Prediction |
 
 
 
