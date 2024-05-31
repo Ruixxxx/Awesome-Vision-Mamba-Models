@@ -70,7 +70,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.23 | Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/6914cba9-995f-4aa5-b550-1ddc4fe0dad4) ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/e8557985-5453-49ce-93f9-ce217c9113d8) | [Link](https://arxiv.org/pdf/2405.14174) | [Code](https://github.com/YuHengsss/MSVMamba) |
 | Arxiv 24.05.23 | Scalable Visual State Space Model with Fractal Scanning | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/e53d5bc9-79ef-46a4-9321-81d0748e321f) | [Link](https://arxiv.org/pdf/2405.14480) |  |
 | Arxiv 24.05.23 | Mamba-R: Vision Mamba ALSO Needs Registers | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/1948c30d-11a1-4d41-ab1b-34ab64c74a86) | [Link](https://arxiv.org/pdf/2405.14858) | [Code](https://github.com/wangf3014/Mamba-Reg) |
-| Arxiv 24.05.29 | Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/c4c00462-752f-4dce-a60c-85fc34d16d6c) ｜ [Link](https://arxiv.org/pdf/2405.18679) | [Code]( https://github.com/yws-wxs/Vim-F) |
+| Arxiv 24.05.29 | Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/c4c00462-752f-4dce-a60c-85fc34d16d6c) ｜ [Link](https://arxiv.org/pdf/2405.18679) | [Code](https://github.com/yws-wxs/Vim-F) |
 
 
 
@@ -110,6 +110,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.07| VMambaCC: A Visual State Space Model for Crowd Counting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/55656071/aaaf64a2-b2b7-441f-98cd-c842135d1893) | [Link](https://arxiv.org/pdf/2405.03978) |  | Crowd Counting |
 | Arxiv 24.05.16| IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/a9a70fb6-87cc-47cf-bf31-dd0dced8eaf3) | [Link](https://arxiv.org/pdf/2405.09873) | [Code](https://github.com/yongsongH/IRSRMamba) | Infrared Image Super-resolution |
 | Arxiv 24.05.23| DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/4669e2bd-4530-427e-9162-8cb4c709450a) | [Link](https://arxiv.org/pdf/2405.14224) | [Code](https://github.com/tyshiwo1/DiM-DiffusionMamba/) | Generation |
+| Arxiv 24.05.29| FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining |![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/ea2528c3-bf05-4852-b1bb-5732326c1aa4) | [Link](https://arxiv.org/pdf/2405.19450) | | Image Deraining |
 
 
 
