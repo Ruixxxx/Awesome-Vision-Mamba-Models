@@ -70,6 +70,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.23 | Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/6914cba9-995f-4aa5-b550-1ddc4fe0dad4) ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/e8557985-5453-49ce-93f9-ce217c9113d8) | [Link](https://arxiv.org/pdf/2405.14174) | [Code](https://github.com/YuHengsss/MSVMamba) |
 | Arxiv 24.05.23 | Scalable Visual State Space Model with Fractal Scanning | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/e53d5bc9-79ef-46a4-9321-81d0748e321f) | [Link](https://arxiv.org/pdf/2405.14480) |  |
 | Arxiv 24.05.23 | Mamba-R: Vision Mamba ALSO Needs Registers | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/1948c30d-11a1-4d41-ab1b-34ab64c74a86) | [Link](https://arxiv.org/pdf/2405.14858) | [Code](https://github.com/wangf3014/Mamba-Reg) |
+| Arxiv 24.05.29 | Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/c4c00462-752f-4dce-a60c-85fc34d16d6c) ｜ [Link](https://arxiv.org/pdf/2405.18679) | [Code]( https://github.com/yws-wxs/Vim-F) |
 
 
 
@@ -81,6 +82,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.04.24|A Survey on Visual Mamba | [Link](https://arxiv.org/pdf/2404.15956v2) |
 | Arxiv 24.04.24|Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges | [Link](https://arxiv.org/pdf/2404.16112) |
 | Arxiv 24.05.07|Vision Mamba: A Comprehensive Survey and Taxonomy | [Link](https://arxiv.org/pdf/2405.04404) |
+
 
 ## Vision Application
 ### Image
