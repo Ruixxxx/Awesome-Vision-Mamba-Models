@@ -174,7 +174,11 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.09| VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis |<img width="724" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/fe63dac2-8500-48cb-8237-2b0c02f5be38">| [Link](https://arxiv.org/pdf/2405.05667)| | Medical Image Generation |
 | Arxiv 24.05.22| I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/1bd027fe-54fd-4d4e-8a77-6d1086803ea8) | [Link](https://arxiv.org/pdf/2405.14022) | [Code](https://github.com/icon-lab/I2I-Mamba) | Medical Image Generation |
 | Arxiv 24.05.24| MUCM-Net: A Mamba Powered UCM-Net for Skin Lesion Segmentation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/4e59cd89-00a0-4c97-9e2d-2df413843b4c) | [Link](https://arxiv.org/pdf/2405.15925) | [Code](https://github.com/chunyuyuan/MUCM-Net) | Medical Image Segmentation |
-| Arxiv 24.05.27| TokenUnify: Scalable Autoregressive Visual Pre-training with Mixture Token Prediction | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/e557c853-cc47-4e48-a5f4-ca506402d717) | [Link](https://arxiv.org/pdf/2405.16847) | [Code](https://github.com/ydchen0806/TokenUnify) | Pre-training/Medical Image Segmentation |
+| Arxiv 24.05.25| UU-Mamba: Uncertainty-aware U-Mamba for Cardiac Image Segmentation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/d1b6f917-07c7-491b-82cd-a726d89a4d50) | [Link](https://arxiv.org/pdf/2405.17496) | | Medical Image Segmentation |
+| Arxiv 24.05.27| TokenUnify: Scalable Autoregressive Visual Pre-training with Mixture Token Prediction | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/e557c853-cc47-4e48-a5f4-ca506402d717) | [Link](https://arxiv.org/pdf/2405.16847) | [Code](https://github.com/ydchen0806/TokenUnify) | Pre-training/Medical Image Segmentation | 
+| Arxiv 24.05.27| Enhancing Global Sensitivity and Uncertainty Quantification in Medical Image Reconstruction with Monte Carlo Arbitrary-Masked Mamba | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/39dcf5e1-83e8-4490-a1d7-002b27ca2e75) | [Link](https://arxiv.org/pdf/2405.17659) | | Medical Image Reconstruction |
+
+
 
 
 
