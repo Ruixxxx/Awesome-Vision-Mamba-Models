@@ -82,7 +82,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.04.24|A Survey on Visual Mamba | [Link](https://arxiv.org/pdf/2404.15956v2) |
 | Arxiv 24.04.24|Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges | [Link](https://arxiv.org/pdf/2404.16112) |
 | Arxiv 24.05.07|Vision Mamba: A Comprehensive Survey and Taxonomy | [Link](https://arxiv.org/pdf/2405.04404) |
-
+| Arxiv 24.06.05|Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis | [Link](https://arxiv.org/abs/2406.03430) |
 
 ## Vision Application
 ### Image
