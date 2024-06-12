@@ -120,6 +120,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.26| Image Deraining with Frequency-Enhanced State Space Model |<img width="439" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/8fd63341-7281-4911-a506-a814f5fb56df"> | [Link](https://arxiv.org/pdf/2405.16470) | | Image Deraining |
 | Arxiv 24.05.28| MambaVC: Learned Visual Compression with Selective State Spaces | <img width="533" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/9591e9ef-7984-4851-bf09-dee72676c5e4"> | [Link](https://arxiv.org/pdf/2405.15413) | [Code](https://github.com/QinSY123/2024-MambaVC) |Visual Compression|
 | Arxiv 24.05.29| FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining |![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/ea2528c3-bf05-4852-b1bb-5732326c1aa4) | [Link](https://arxiv.org/pdf/2405.19450) | | Image Deraining |
+| Arxiv 24.06.09| Mamba YOLO: SSMs-Based YOLO For Object Detection | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/548e2ce3-7db5-46e7-9b11-428c75653722) | [Link](https://arxiv.org/pdf/2406.05835) | [Code](https://github.com/HZAI-ZJNU/Mamba-YOLO) | Object Detection |
 
 
 #### Remote Sensing Image
