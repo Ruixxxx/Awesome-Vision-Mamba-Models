@@ -49,7 +49,8 @@ If you find this repository is useful for you, please cite our paper:
 - [Other Domains](#other-domains)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Graph Learning](#graph-learning)
-  - [Mixture of Experts](#moe)
+  - [Audio](#audio)
+  - [Time Series](#time-series-forecasting)
 
 ## Backbone for Representation Learning
 <img width="361" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/5d8ad736-d978-4bc7-a714-779f65bba661">
