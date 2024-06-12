@@ -146,7 +146,9 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.17| CM-UNet: Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/abbdeaf8-5063-4349-b769-01d925a8ff48) | [Link](https://arxiv.org/pdf/2405.10530) | [Code](https://github.com/xiaobul/cm-unet) | Semantic Segmentation |
 | Arxiv 24.05.20| Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/f7b0dbed-0104-4b8b-b60c-8cc4d55482b5) | [Link](https://arxiv.org/pdf/2405.12003) | [Code](https://github.com/zhouweilian1904/Mamba-in-Mamba) | Hyperspectral Image Classification |
 | Arxiv 24.05.21| 3DSS-Mamba: 3D-Spectral-Spatial Mamba for Hyperspectral Image Classification | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/e3d1175f-2b6b-4a7a-af83-264993b549c5) | [Link](https://arxiv.org/pdf/2405.12487) |  | Hyperspectral Image Classification |
+| Arxiv 24.06.09| HDMba: Hyperspectral Remote Sensing Imagery Dehazing with State Space Model | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/bb889c4f-9463-4c34-8b26-0c774161c471) | [Link](https://arxiv.org/pdf/2406.05700) | [Code](https://github.com/RsAI-lab/HDMba) | Dehazing |
 | Arxiv 24.06.11| DualMamba: A Lightweight Spectral-Spatial Mamba-Convolution Network for Hyperspectral Image Classification | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/fbf7a27a-6d14-446d-ad94-2631f943c5af) | [Link](https://arxiv.org/pdf/2406.07050) |  | Hyperspectral Image Classification |
+
 
 
 #### Medical Image
