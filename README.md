@@ -269,6 +269,10 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.24| Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/69cb87ad-3a1e-4f3c-983b-005b315b719b) | [Link](https://arxiv.org/pdf/2405.15574) | [Code](https://github.com/ByungKwanLee/Meteor) | Large Language and Vision Model | Image & Text (Qestion/Rationale) |
 | Arxiv 24.05.29| Coupled Mamba: Enhanced Multi-modal Fusion with Coupled State Space Model | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/20546aeb-f54a-477d-822c-f085f831dc7d) | [Link](https://arxiv.org/pdf/2405.18014) | | multi-modal sentiment analysis | Text & Video & Audio |
 | Arxiv 24.05.31| S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion |<img width="539" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/15ab4235-93bd-4e6d-b836-79142bfa84ec"> | [Link](https://arxiv.org/pdf/2405.20881) | |Image Fusion |
+| Arxiv 24.06.06| RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/51d63881-73a4-4174-8134-3cd80c216d60) | [Link](https://arxiv.org/pdf/2406.04339) | [Code](https://github.com/lmzpai/roboMamba) | Robot Reasoning and Manipulation |
+
+
+
 ### Others
 | Date      | Paper | Figure    | Link | Code         | Task |
 | :-------- | :---- | :-------- | :--- | :----------- | :--- |
