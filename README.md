@@ -273,6 +273,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.31| S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion |<img width="539" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/15ab4235-93bd-4e6d-b836-79142bfa84ec"> | [Link](https://arxiv.org/pdf/2405.20881) | |Image Fusion | RGB Images & Infrared Images |
 | Arxiv 24.06.03| Dimba: Transformer-Mamba Diffusion Models | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/fc18eed3-35ea-4fdb-8838-e06675b01aef) | [Link](https://arxiv.org/pdf/2406.01159) | [Code](https://github.com/feizc/Dimba) | Text to Image Generation | Image & Text |
 | Arxiv 24.06.06| RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/51d63881-73a4-4174-8134-3cd80c216d60) | [Link](https://arxiv.org/pdf/2406.04339) | [Code](https://github.com/lmzpai/roboMamba) | Robot Reasoning and Manipulation | Image & Text |
+| Arxiv 24.06.02| MGI: Multimodal Contrastive Pre-training of Genomic and Medical Imaging | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/65721898-bb46-4165-85af-32dfb7772d96) | [Link](https://arxiv.org/pdf/2406.00631) |  | Multimodal Contrastive Pre-training | Medical Image & Genomic |
 
 
 
