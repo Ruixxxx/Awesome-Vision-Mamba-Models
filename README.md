@@ -226,6 +226,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.23| MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/66156d4f-c0e6-4636-bd1f-6e9cc2575c97) | [Link](https://arxiv.org/pdf/2405.14338) |  | Point Cloud Video Understanding |
 | Arxiv 24.05.24| PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/d40f7136-4d8d-4ef5-a4de-394ae1fcac83) | [Link](https://arxiv.org/pdf/2405.15463) | [Code](https://github.com/xiaoyao3302/PoinTramba) | Classification, Part Segmentation |
 | Arxiv 24.05.27| LCM: Locally Constrained Compact Point Cloud Model for Masked Point Modeling | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/5e99d4e4-9c05-4d14-a38a-30641f49328b) | [Link](https://arxiv.org/pdf/2405.17149) | | Classification, Part Segmentation, Object Detection |
+| Arxiv 24.06.10| PointABM: Integrating Bidirectional State Space Model with Multi-Head Self-Attention for Point Cloud Analysis | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/e5706428-0d35-402b-8265-afe3984c62de) | [Link](https://arxiv.org/pdf/2406.06069) |  | Classification |
 
 
 
