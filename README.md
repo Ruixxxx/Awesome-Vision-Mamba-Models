@@ -322,6 +322,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.11 | DTMamba : Dual Twin Mamba for Time Series Forecasting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/72c7ed39-c905-4a7f-b567-68042ea27e5c) | [Link](https://arxiv.org/pdf/2405.12094) | |
 | Arxiv 24.05.25 | Time-SSM: Simplifying and Unifying State Space Models for Time Series Forecasting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/0f26280e-a19d-479f-a28f-93e4df1bd4ba) | [Link](https://arxiv.org/pdf/2405.16312) | |
 | Arxiv 24.05.26 | MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/41c611a4-d711-4621-be4e-d60960724adc) | [Link](https://arxiv.org/pdf/2405.16440) | |
-| Arxiv 24.06.08 | C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/3b4d0c44-8466-474f-8012-56461fc48b2d) | [Link](https://arxiv.org/pdf/2406.05316) | [Code](https://github.com/luodhhh/moderntcn) |
 | Arxiv 24.06.06 | TSCMamba: Mamba Meets Multi-View Learning for Time Series Classification | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/22c758fe-a5c8-48a3-8d6f-ebc9f4f597a9) | [Link](https://arxiv.org/pdf/2406.04419) |  |
+| Arxiv 24.06.08 | C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/3b4d0c44-8466-474f-8012-56461fc48b2d) | [Link](https://arxiv.org/pdf/2406.05316) | [Code](https://github.com/luodhhh/moderntcn) |
+
 
