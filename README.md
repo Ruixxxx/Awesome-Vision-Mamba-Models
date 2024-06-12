@@ -122,6 +122,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.28| MambaVC: Learned Visual Compression with Selective State Spaces | <img width="533" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/9591e9ef-7984-4851-bf09-dee72676c5e4"> | [Link](https://arxiv.org/pdf/2405.15413) | [Code](https://github.com/QinSY123/2024-MambaVC) |Visual Compression|
 | Arxiv 24.05.29| FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining |![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/ea2528c3-bf05-4852-b1bb-5732326c1aa4) | [Link](https://arxiv.org/pdf/2405.19450) | | Image Deraining |
 | Arxiv 24.06.09| Mamba YOLO: SSMs-Based YOLO For Object Detection | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/548e2ce3-7db5-46e7-9b11-428c75653722) | [Link](https://arxiv.org/pdf/2406.05835) | [Code](https://github.com/HZAI-ZJNU/Mamba-YOLO) | Object Detection |
+| Arxiv 24.06.06| MambaDepth: Enhancing Long-range Dependency for Self-Supervised Fine-Structured Monocular Depth Estimation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/b1d5eb73-4f09-4f70-aa7d-0bdef04828e1) | [Link](https://arxiv.org/pdf/2406.04532) |  | Depth Estimation |
 
 
 #### Remote Sensing Image
