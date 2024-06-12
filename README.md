@@ -71,6 +71,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.23 | Scalable Visual State Space Model with Fractal Scanning | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/e53d5bc9-79ef-46a4-9321-81d0748e321f) | [Link](https://arxiv.org/pdf/2405.14480) |  |
 | Arxiv 24.05.23 | Mamba-R: Vision Mamba ALSO Needs Registers | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/1948c30d-11a1-4d41-ab1b-34ab64c74a86) | [Link](https://arxiv.org/pdf/2405.14858) | [Code](https://github.com/wangf3014/Mamba-Reg) |
 | Arxiv 24.05.29 | Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/c4c00462-752f-4dce-a60c-85fc34d16d6c) | [Link](https://arxiv.org/pdf/2405.18679) | [Code](https://github.com/yws-wxs/Vim-F) |
+| Arxiv 24.06.11 | Autoregressive Pretraining with Mamba in Vision | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/69728c3f-6edf-480d-92ba-fda299f767a7) ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/5ced04e7-46b9-40e2-8f5a-6f0c8a68d2ca) | [Link](https://arxiv.org/pdf/2406.07537) | [Code](https://github.com/OliverRensu/ARM) |
 
 
 
