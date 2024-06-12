@@ -50,7 +50,7 @@ If you find this repository is useful for you, please cite our paper:
   - [Reinforcement Learning](#reinforcement-learning)
   - [Graph Learning](#graph-learning)
   - [Audio](#audio)
-  - [Time Series](#time-series-forecasting)
+  - [Time Series](#time-series)
 
 ## Backbone for Representation Learning
 <img width="361" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/5d8ad736-d978-4bc7-a714-779f65bba661">
@@ -121,8 +121,9 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.26| Image Deraining with Frequency-Enhanced State Space Model |<img width="439" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/8fd63341-7281-4911-a506-a814f5fb56df"> | [Link](https://arxiv.org/pdf/2405.16470) | | Image Deraining |
 | Arxiv 24.05.28| MambaVC: Learned Visual Compression with Selective State Spaces | <img width="533" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/9591e9ef-7984-4851-bf09-dee72676c5e4"> | [Link](https://arxiv.org/pdf/2405.15413) | [Code](https://github.com/QinSY123/2024-MambaVC) |Visual Compression|
 | Arxiv 24.05.29| FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining |![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/ea2528c3-bf05-4852-b1bb-5732326c1aa4) | [Link](https://arxiv.org/pdf/2405.19450) | | Image Deraining |
-| Arxiv 24.06.09| Mamba YOLO: SSMs-Based YOLO For Object Detection | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/548e2ce3-7db5-46e7-9b11-428c75653722) | [Link](https://arxiv.org/pdf/2406.05835) | [Code](https://github.com/HZAI-ZJNU/Mamba-YOLO) | Object Detection |
 | Arxiv 24.06.06| MambaDepth: Enhancing Long-range Dependency for Self-Supervised Fine-Structured Monocular Depth Estimation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/b1d5eb73-4f09-4f70-aa7d-0bdef04828e1) | [Link](https://arxiv.org/pdf/2406.04532) |  | Depth Estimation |
+| Arxiv 24.06.09| Mamba YOLO: SSMs-Based YOLO For Object Detection | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/548e2ce3-7db5-46e7-9b11-428c75653722) | [Link](https://arxiv.org/pdf/2406.05835) | [Code](https://github.com/HZAI-ZJNU/Mamba-YOLO) | Object Detection |
+
 
 
 #### Remote Sensing Image
@@ -313,7 +314,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.22| Audio Mamba: Pretrained Audio State Space Model For Audio Tagging|  | [Link](https://arxiv.org/pdf/2405.07022) | [Code](https://github.com/diggerdu/AudioMamba)|
 | Arxiv 24.06.10| RawBMamba: End-to-End Bidirectional State Space Model for Audio Deepfake Detection | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/52326d04-e98e-40b2-a2d4-7f90fbcb137d) | [Link](https://arxiv.org/pdf/2406.06086) | [Code](https://github.com/cyjie429/RawBMamba)|
 
-### Time Series Forecasting
+### Time Series
 | Date      | Paper | Figure    | Link | Code         |
 | :-------- | :---- | :-------- | :--- | :----------- |
 | Arxiv 24.04.23 | Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/80ddb918-c007-4f00-97cc-1e1724c82ead) | [Link](https://arxiv.org/pdf/2404.14757) | |
@@ -321,5 +322,6 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.11 | DTMamba : Dual Twin Mamba for Time Series Forecasting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/72c7ed39-c905-4a7f-b567-68042ea27e5c) | [Link](https://arxiv.org/pdf/2405.12094) | |
 | Arxiv 24.05.25 | Time-SSM: Simplifying and Unifying State Space Models for Time Series Forecasting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/0f26280e-a19d-479f-a28f-93e4df1bd4ba) | [Link](https://arxiv.org/pdf/2405.16312) | |
 | Arxiv 24.05.26 | MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/41c611a4-d711-4621-be4e-d60960724adc) | [Link](https://arxiv.org/pdf/2405.16440) | |
-| Arxiv 24.06.08 | C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/3b4d0c44-8466-474f-8012-56461fc48b2d) | [Link](https://arxiv.org/pdf/2406.05316) | https://github.com/luodhhh/moderntcn |
+| Arxiv 24.06.08 | C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/3b4d0c44-8466-474f-8012-56461fc48b2d) | [Link](https://arxiv.org/pdf/2406.05316) | [Code](https://github.com/luodhhh/moderntcn) |
+| Arxiv 24.06.06 | TSCMamba: Mamba Meets Multi-View Learning for Time Series Classification | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/22c758fe-a5c8-48a3-8d6f-ebc9f4f597a9) | [Link](https://arxiv.org/pdf/2406.04419) |  |
 
