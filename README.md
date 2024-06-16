@@ -124,6 +124,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.06.03| LLEMamba: Low-Light Enhancement via Relighting-Guided Mamba with Deep Unfolding Network | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/b18f586a-80c0-4320-93fd-e00be52beb4a) | [Link](https://arxiv.org/pdf/2406.01028) |  | Low-Light Enhancement |
 | Arxiv 24.06.06| MambaDepth: Enhancing Long-range Dependency for Self-Supervised Fine-Structured Monocular Depth Estimation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/b1d5eb73-4f09-4f70-aa7d-0bdef04828e1) | [Link](https://arxiv.org/pdf/2406.04532) |  | Depth Estimation |
 | Arxiv 24.06.09| Mamba YOLO: SSMs-Based YOLO For Object Detection | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/548e2ce3-7db5-46e7-9b11-428c75653722) | [Link](https://arxiv.org/pdf/2406.05835) | [Code](https://github.com/HZAI-ZJNU/Mamba-YOLO) | Object Detection |
+| Arxiv 24.06.12 | PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/f5fe2ce4-f72e-40db-a4ec-6bdc01f56935) | [Link](https://arxiv.org/pdf/2406.08444) | [Code](https://github.com/weitunglin/pixmamba) | Image Enhancement |
 
 
 
