@@ -204,6 +204,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.06.09| Vision Mamba: Cutting-Edge Classification of Alzheimer's Disease with 3D MRI Scans | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/7d452f55-4ef1-4087-9c29-c3c755d2edf4) | [Link](https://arxiv.org/pdf/2406.05757) |  | 3D Medical Classification |
 | Arxiv 24.06.09| Convolution and Attention-Free Mamba-based Cardiac Image Segmentation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/6f51340b-0da1-46ea-ab5e-2f1e6389c14f) | [Link](https://arxiv.org/pdf/2406.05786) | [Code](https://github.com/kabbas570/Convolution-and-Attention-Free-Mamba-based-Cardiac-Image-Segmentation/tree/main?utm_source=catalyzex.com) | Medical Image Segmentation |
 | Arxiv 24.06.10| MHS-VM: Multi-Head Scanning in Parallel Subspaces for Vision Mamba | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/3e4ddbf9-4720-463d-a451-8020d4e51dad) | [Link](https://arxiv.org/pdf/2406.05992) | [Code](https://github.com/PixDeep/MHS-VM) | Medical Image Segmentation |
+| Arxiv 24.06.12| On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models |  | [Link](https://arxiv.org/pdf/2406.08486) | [Code](https://github.com/HashmatShadab/Robustness-of-Volumetric-Medical-Segmentation-Models) | Medical Image Segmentation |
 
 
 
