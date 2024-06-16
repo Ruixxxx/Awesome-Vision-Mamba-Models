@@ -27,9 +27,9 @@ If you find this repository is useful for you, please cite our paper:
       title={A Survey on Vision Mamba: Models, Applications and Challenges}, 
       author={Rui Xu and Shu Yang and Yihui Wang and Bo Du and Hao Chen},
       year={2024},
-      eprint={},
-      archivePrefix={arXiv 2404.18861},
-      primaryClass={}
+      eprint={2404.18861},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 
@@ -45,7 +45,7 @@ If you find this repository is useful for you, please cite our paper:
   - [Point Cloud](#point-cloud)
   - [Multi-Modal](#multi-modal)
   - [Others](#others)
-- [Useful Source](#useful-source)
+- [Valuable Insights](#valuable-insights)
 - [Other Domains](#other-domains)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Graph Learning](#graph-learning)
@@ -291,7 +291,7 @@ If you find this repository is useful for you, please cite our paper:
 
 
 
-## Valuable insights
+## Valuable Insights
 
 | Date      | Paper | Link |
 | :-------- | :---- | :-------- |
