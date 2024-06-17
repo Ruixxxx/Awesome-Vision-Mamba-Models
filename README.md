@@ -34,6 +34,7 @@ If you find this repository is useful for you, please cite our paper:
 ```
 
 ## Contents
+- [Mamba](#mamba)
 - [Backbone](#backbone-for-representation-learning)
 - [Related Survey](#related-survey)
 - [Vision Application (Modality)](#vision-application)
@@ -51,6 +52,12 @@ If you find this repository is useful for you, please cite our paper:
   - [Graph Learning](#graph-learning)
   - [Audio](#audio)
   - [Time Series](#time-series)
+
+## Mamba
+| Date      | Paper | Figure    | Link | Code         |
+| :-------- | :---- | :-------- | :--- | :----------- |
+| Arxiv 23.12.01 | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/9b1d1ebf-213b-4aa8-8cc9-852a62c997bf) ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/25b4bb74-5592-4953-8667-cb40ecc72914) |[Link](https://arxiv.org/pdf/2312.00752)|[Code](https://github.com/state-spaces/mamba)|
+| Arxiv 24.05.31 (ICML24) | Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/851656b3-b485-48d4-b7eb-51c0890c0e47) ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/2605faae-8e96-4341-8468-d2d9a5e7c630) |[Link](https://arxiv.org/pdf/2405.21060)|[Code](https://github.com/state-spaces/mamba)|
 
 ## Backbone for Representation Learning
 <img width="361" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/5d8ad736-d978-4bc7-a714-779f65bba661">
