@@ -35,8 +35,8 @@ If you find this repository is useful for you, please cite our paper:
 
 ## Contents
 - [Mamba](#mamba)
-- [Backbone](#backbone-for-representation-learning)
 - [Related Survey](#related-survey)
+- [Visual Mamba Backbone Networks](#visual-mamba-backbone-networks)
 - [Vision Application (Modality)](#vision-application)
   - [Image](#image)
     - [Natural Image](#natural-image)
@@ -59,7 +59,17 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 23.12.01 | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/9b1d1ebf-213b-4aa8-8cc9-852a62c997bf) ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/25b4bb74-5592-4953-8667-cb40ecc72914) |[Link](https://arxiv.org/pdf/2312.00752)|[Code](https://github.com/state-spaces/mamba)|
 | Arxiv 24.05.31 (ICML24) | Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/851656b3-b485-48d4-b7eb-51c0890c0e47) ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/2605faae-8e96-4341-8468-d2d9a5e7c630) |[Link](https://arxiv.org/pdf/2405.21060)|[Code](https://github.com/state-spaces/mamba)|
 
-## Backbone for Representation Learning
+## Related Survey
+
+| Date      | Paper | Link |
+| :-------- | :---- | :-------- |
+| Arxiv 24.04.15|State Space Model for New-Generation Network Alternative to Transformers: A Survey | [Link](https://arxiv.org/pdf/2404.09516) |
+| Arxiv 24.04.24|A Survey on Visual Mamba | [Link](https://arxiv.org/pdf/2404.15956v2) |
+| Arxiv 24.04.24|Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges | [Link](https://arxiv.org/pdf/2404.16112) |
+| Arxiv 24.05.07|Vision Mamba: A Comprehensive Survey and Taxonomy | [Link](https://arxiv.org/pdf/2405.04404) |
+| Arxiv 24.06.05|Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis | [Link](https://arxiv.org/abs/2406.03430) |
+
+## Visual Mamba Backbone Networks
 <img width="361" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/5d8ad736-d978-4bc7-a714-779f65bba661">
 
 
@@ -82,16 +92,6 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.06.11 | Autoregressive Pretraining with Mamba in Vision | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/69728c3f-6edf-480d-92ba-fda299f767a7) ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/5ced04e7-46b9-40e2-8f5a-6f0c8a68d2ca) | [Link](https://arxiv.org/pdf/2406.07537) | [Code](https://github.com/OliverRensu/ARM) |
 
 
-
-## Related Survey
-
-| Date      | Paper | Link |
-| :-------- | :---- | :-------- |
-| Arxiv 24.04.15|State Space Model for New-Generation Network Alternative to Transformers: A Survey | [Link](https://arxiv.org/pdf/2404.09516) |
-| Arxiv 24.04.24|A Survey on Visual Mamba | [Link](https://arxiv.org/pdf/2404.15956v2) |
-| Arxiv 24.04.24|Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges | [Link](https://arxiv.org/pdf/2404.16112) |
-| Arxiv 24.05.07|Vision Mamba: A Comprehensive Survey and Taxonomy | [Link](https://arxiv.org/pdf/2405.04404) |
-| Arxiv 24.06.05|Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis | [Link](https://arxiv.org/abs/2406.03430) |
 
 ## Vision Application
 ### Image
