@@ -252,6 +252,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.27| LCM: Locally Constrained Compact Point Cloud Model for Masked Point Modeling | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/5e99d4e4-9c05-4d14-a38a-30641f49328b) | [Link](https://arxiv.org/pdf/2405.17149) | | Classification, Part Segmentation, Object Detection |
 | Arxiv 24.06.07| Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/ac4b3022-265d-46e3-844c-d4abc7aa9cf4) | [Link](https://arxiv.org/pdf/2406.05038) | [Code](https://github.com/Lyken17/pytorch-OpCounter?utm_source=catalyzex.com) | Generation |
 | Arxiv 24.06.10| PointABM: Integrating Bidirectional State Space Model with Multi-Head Self-Attention for Point Cloud Analysis | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/e5706428-0d35-402b-8265-afe3984c62de) | [Link](https://arxiv.org/pdf/2406.06069) |  | Classification |
+| Arxiv 24.06.15| Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/c1afc789-967e-4a67-a161-e1c0a62d5213) | [Link](https://arxiv.org/pdf/2406.10700) | [Code](https://github.com/gwenzhang/Voxel-Mamba) | Object Detection |
 
 
 
