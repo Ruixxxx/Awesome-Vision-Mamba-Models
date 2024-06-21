@@ -163,6 +163,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.06.09| HDMba: Hyperspectral Remote Sensing Imagery Dehazing with State Space Model | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/bb889c4f-9463-4c34-8b26-0c774161c471) | [Link](https://arxiv.org/pdf/2406.05700) | [Code](https://github.com/RsAI-lab/HDMba) | Dehazing |
 | Arxiv 24.06.11| DualMamba: A Lightweight Spectral-Spatial Mamba-Convolution Network for Hyperspectral Image Classification | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/fbf7a27a-6d14-446d-ad94-2631f943c5af) | [Link](https://arxiv.org/pdf/2406.07050) |  | Hyperspectral Image Classification |
 | Arxiv 24.06.01| Dual Hyperspectral Mamba for Efficient Spectral Compressive Imaging | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/7136fa45-19d1-49d0-afe6-567861808aa8) | [Link](https://arxiv.org/pdf/2406.00449) | [Code](https://github.com/JiahuaDong/DHM) | Spectral Compressive Imaging |
+| Arxiv 24.06.16| PyramidMamba: Rethinking Pyramid Feature Fusion with Selective Space State Model for Semantic Segmentation of Remote Sensing Imagery | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/a144e72e-2e3a-4f53-bb15-22e905f34f6e) | [Link](https://arxiv.org/pdf/2406.10828) | [Code](https://github.com/WangLibo1995/GeoSeg) | Semantic Segmentation |
 
 
 
