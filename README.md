@@ -230,6 +230,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.04.11| Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos | <img width="697" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/ea35cf6a-e2a6-4eab-8da7-2cb7cd098507"> | [Link](https://arxiv.org/pdf/2404.07645) | | Skeleton Action Recognition|
 | Arxiv 24.05.05| Matten: Video Generation with Mamba-Attention | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/55656071/f4f44af1-8ad6-4fbf-8b10-3ea8ad99a4bf) | [Link](https://arxiv.org/pdf/2405.03025) |  | Video Generation |
 | Arxiv 24.05.30| DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/f6f4c8d6-5c22-44a3-a56f-24990315596d) | [Link](https://arxiv.org/pdf/2405.19707) | [Code](https://github.com/chenhaoxing/DeMamba) | AI-Generated Video Detection |
+| Arxiv 24.06.18| Slot State Space Models | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/7392d294-9c26-4491-b994-6ca10f49eb51) | [Link](https://arxiv.org/pdf/2406.12272) |  | Object-centric Video Understanding/3D Visual Reasoning/Video Prediction |
 
 
 
