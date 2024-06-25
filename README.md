@@ -332,7 +332,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.06.04 | Mamba as Decision Maker: Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/6fe04182-4890-4d82-a0f0-69b7afcba05e) | [Link](https://arxiv.org/pdf/2406.02013) | [Code](https://github.com/AndyCao1125/MambaDM) |
 | Arxiv 24.06.08 | Decision Mamba: A Multi-Grained State Space Model with Self-Evolution Regularization for Offline RL | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/866f2263-9b05-4789-8bb1-48acd2d6280c) | [Link](https://arxiv.org/pdf/2406.05427) | |
 | Arxiv 24.06.12 | MaIL: Improving Imitation Learning with Mamba | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/985ef58b-c88c-4d48-9658-ca7607b6ec16) ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/4c72989e-ad9f-4b89-9584-737df098397c) | [Link](https://arxiv.org/pdf/2406.08234) | |
-
+| Arxiv 24.06.21 | KalMamba: Towards Efficient Probabilistic State Space Models for RL under Uncertainty | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/04b0e1ba-c03d-4fd3-88a4-96041dd561e2) | [Link](https://arxiv.org/pdf/2406.15131) | |
 
 
 ### Graph Learning
