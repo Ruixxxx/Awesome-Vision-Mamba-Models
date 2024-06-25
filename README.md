@@ -135,6 +135,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.06.12 | PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/f5fe2ce4-f72e-40db-a4ec-6bdc01f56935) | [Link](https://arxiv.org/pdf/2406.08444) | [Code](https://github.com/weitunglin/pixmamba) | Image Enhancement |
 | Arxiv 24.06.18| LFMamba: Light Field Image Super-Resolution with State Space Model | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/e046b58a-5e97-48b2-abaa-bb59b9db6d49) | [Link](https://arxiv.org/pdf/2406.12463) | [Code](https://github.com//stanley-313/LFMamba) | Super-Resolution |
 | Arxiv 24.06.13| Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/24f695ce-3466-425b-98eb-c8f80310e0c7) | [Link](https://arxiv.org/pdf/2406.09546) |  | Image Quality Assessment |
+| Arxiv 24.06.24| Vision Mamba-based autonomous crack segmentation on concrete, asphalt, and masonry surfaces | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/61e8afdf-8851-42e6-8bf5-c08ec6ec95a4) | [Link](https://arxiv.org/pdf/2406.16518) |  | Crack Segmentation |
 
 
 
