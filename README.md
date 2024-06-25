@@ -68,6 +68,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.04.24|Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges | [Link](https://arxiv.org/pdf/2404.16112) |
 | Arxiv 24.05.07|Vision Mamba: A Comprehensive Survey and Taxonomy | [Link](https://arxiv.org/pdf/2405.04404) |
 | Arxiv 24.06.05|Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis | [Link](https://arxiv.org/abs/2406.03430) |
+| Arxiv 24.06.24|Venturing into Uncharted Waters: The Navigation Compass from Transformer to Mamba | [Link](https://arxiv.org/abs/2406.16722) |
 
 ## Visual Mamba Backbone Networks
 <img width="361" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/5d8ad736-d978-4bc7-a714-779f65bba661">
