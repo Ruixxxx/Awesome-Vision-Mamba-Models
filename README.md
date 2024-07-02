@@ -296,6 +296,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.06.03| Dimba: Transformer-Mamba Diffusion Models | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/fc18eed3-35ea-4fdb-8838-e06675b01aef) | [Link](https://arxiv.org/pdf/2406.01159) | [Code](https://github.com/feizc/Dimba) | Text to Image Generation | Image & Text |
 | Arxiv 24.06.06| RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/51d63881-73a4-4174-8134-3cd80c216d60) | [Link](https://arxiv.org/pdf/2406.04339) | [Code](https://github.com/lmzpai/roboMamba) | Robot Reasoning and Manipulation | Image & Text |
 | Arxiv 24.07.02| MMR-Mamba: Multi-Contrast MRI Reconstruction with Mamba and Spatial-Frequency Information Fusion | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/c14d14ec-dba2-43a4-bb6f-bdeeb7ac7cd5) | [Link](https://arxiv.org/pdf/2406.18950) |  | Image Fusion | Multi-Contrast MRI |
+| Arxiv 24.04.09| Deep Mamba Multi-modal Learning | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/126f6521-3b6e-432e-a6e6-8a30cff3ed20) | [Link](https://arxiv.org/pdf/2406.18007) |  | Image & Text |  Multimedia Retrieval |
 
 
 
