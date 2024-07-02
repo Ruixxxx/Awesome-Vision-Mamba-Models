@@ -356,7 +356,8 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.06.04| Audio Mamba: Selective State Spaces for Self-Supervised Audio Representations | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/54636bf1-43d0-4cde-b618-26f08fc5d955) | [Link](https://arxiv.org/pdf/2406.02178) | [Code](https://github.com/SarthakYadav/audio-mamba-official)|
 | Arxiv 24.06.05| Audio Mamba: Bidirectional State Space Model for Audio Representation Learning | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/a87f7fe4-f7ec-47a0-be66-6a14878e804d) | [Link](https://arxiv.org/pdf/2406.03344) | [Code](https://github.com/kaistmm/Audio-Mamba-AuM)|
 | Arxiv 24.06.10| RawBMamba: End-to-End Bidirectional State Space Model for Audio Deepfake Detection | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/52326d04-e98e-40b2-a2d4-7f90fbcb137d) | [Link](https://arxiv.org/pdf/2406.06086) | [Code](https://github.com/cyjie429/RawBMamba)|
-| Arxiv 24.06.24| Exploring the Capability of Mamba in Speech Applications | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/2f0037ca-31b0-452d-8a43-d6adeb4ce3c2) | [Link](https://arxiv.org/pdf/2406.16808) | |
+| Arxiv 24.06.24 (Interspeech 2024)| Exploring the Capability of Mamba in Speech Applications | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/2f0037ca-31b0-452d-8a43-d6adeb4ce3c2) | [Link](https://arxiv.org/pdf/2406.16808) | |
+
 
 
 
