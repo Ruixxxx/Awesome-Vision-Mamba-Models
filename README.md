@@ -238,6 +238,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.05| Matten: Video Generation with Mamba-Attention | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/55656071/f4f44af1-8ad6-4fbf-8b10-3ea8ad99a4bf) | [Link](https://arxiv.org/pdf/2405.03025) |  | Video Generation |
 | Arxiv 24.05.30| DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/f6f4c8d6-5c22-44a3-a56f-24990315596d) | [Link](https://arxiv.org/pdf/2405.19707) | [Code](https://github.com/chenhaoxing/DeMamba) | AI-Generated Video Detection |
 | Arxiv 24.06.18| Slot State Space Models | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/7392d294-9c26-4491-b994-6ca10f49eb51) | [Link](https://arxiv.org/pdf/2406.12272) |  | Object-centric Video Understanding/3D Visual Reasoning/Video Prediction |
+| Arxiv 24.07.02| VideoMambaPro: A Leap Forward for Mamba in Video Understanding | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/838a77f9-d4f3-418d-913a-1019c7939574) | [Link](https://arxiv.org/pdf/2406.19006) | [Code](https://github.com/hotfinda/videomambapro) | Video Understanding |
 
 
 
