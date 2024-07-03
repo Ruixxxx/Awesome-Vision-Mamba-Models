@@ -325,7 +325,9 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.03.16|Understanding Robustness of Visual State Space Models for Image Classification | [Link](https://arxiv.org/abs/2403.10935) |
 | Arxiv 24.05.13|MambaOut: Do We Really Need Mamba for Vision? | [Link](https://arxiv.org/pdf/2405.07992) |
 | Arxiv 24.05.26|Demystify Mamba in Vision: A Linear Attention Perspective | [Link](https://arxiv.org/pdf/2405.16605) |
+| Arxiv 24.05.26|A Unified Implicit Attention Formulation for Gated-Linear Recurrent Sequence Models | [Link](https://arxiv.org/abs/2405.16504) |
 | Arxiv 24.06.11|MambaLRP: Explaining Selective State Space Sequence Models | [Link](https://arxiv.org/abs/2406.07592) |
+| Arxiv 24.06.13|Towards Evaluating the Robustness of Visual State Space Models | [Link](https://arxiv.org/pdf/2406.09407) |
 
 
 ## Other Domains
