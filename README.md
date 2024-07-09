@@ -10,22 +10,24 @@
 
 [NEWS.2024/05/02] **🎉🎉🎉Congratulations to [Vision Mamba](https://arxiv.org/abs/2401.09417) on being accepted in ICML 2024.**
 
-📢**NOTE:** If you have any questions, please don't hesitate to contact us at any of the following emails: [rui.xu@whu.edu.cn](mailto:rui.xu@whu.edu.cn), [syangcw@connect.ust.hk](mailto:syangcw@connect.ust.hk), [ywangrm@connect.ust.hk](mailto:ywangrm@connect.ust.hk).
+[NEWS.2024/07/06] **The updated version of our [paper](https://arxiv.org/abs/2404.18861v2) is now available!**
+
+📢**NOTE:** If you have any questions, please don't hesitate to contact us at any of the following emails: [rui.xu@whu.edu.cn](mailto:rui.xu@whu.edu.cn), [syangcw@connect.ust.hk](mailto:syangcw@connect.ust.hk), [ywangrm@connect.ust.hk](mailto:ywangrm@connect.ust.hk), [yu.cai@connect.ust.hk](mailto:yu.cai@connect.ust.hk).
 
 Mamba, a novel state space model, has gained recognition across diverse domains for its exceptional performance and efficient computational complexity. By addressing the limitations inherent in traditional visual foundation architectures, Mamba emerges as a promising contender poised to catalyze advancements in the field of computer vision.
 
 :star: This repository hosts a curated collection of literature associated with Mamba models in computer vision. Feel free to star and fork. For further details, refer to the following paper:
 
-**[A Survey on Vision Mamba: Models, Applications and Challenges](https://arxiv.org/abs/2404.18861)**<br/>
-Rui Xu, Shu Yang, Yihui Wang, Bo Du, [Hao Chen](https://cse.hkust.edu.hk/~jhc/)<br/>
+**[Visual Mamba: A Survey and New Outlooks](https://arxiv.org/abs/2404.18861v2)**<br/>
+Rui Xu, Shu Yang, Yihui Wang, Yu Cai, Bo Du, [Hao Chen](https://cse.hkust.edu.hk/~jhc/)<br/>
 [SMART Lab](https://hkustsmartlab.netlify.app/), The Hong Kong University of Science and Technology<br/>
 <br/>
 
 If you find this repository is useful for you, please cite our paper:
 ```
-@misc{2024vision_mamba,
-      title={A Survey on Vision Mamba: Models, Applications and Challenges}, 
-      author={Rui Xu and Shu Yang and Yihui Wang and Bo Du and Hao Chen},
+@misc{2024visual_mamba,
+      title={Visual Mamba: A Survey and New Outlooks}, 
+      author={Rui Xu and Shu Yang and Yihui Wang and Yu Cai and Bo Du and Hao Chen},
       year={2024},
       eprint={2404.18861},
       archivePrefix={arXiv},
@@ -71,7 +73,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.06.24|Venturing into Uncharted Waters: The Navigation Compass from Transformer to Mamba | [Link](https://arxiv.org/abs/2406.16722) |
 
 ## Visual Mamba Backbone Networks
-<img width="361" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/5d8ad736-d978-4bc7-a714-779f65bba661">
+<img width="600" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/4843bead-14cd-4aa6-aecf-af9411defc49">
 
 
 [Detailed Performance Comparison](SOTA_Results.md)
