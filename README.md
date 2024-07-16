@@ -225,6 +225,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.06.12| On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models |  | [Link](https://arxiv.org/pdf/2406.08486) | [Code](https://github.com/HashmatShadab/Robustness-of-Volumetric-Medical-Segmentation-Models) | Medical Image Segmentation |
 | Arxiv 24.06.22| Soft Masked Mamba Diffusion Model for CT to MRI Conversion | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/41538c0e-cc21-4e8c-be6b-7be77fe80353) | [Link](https://arxiv.org/pdf/2406.15910) | [Code](https://github.com/wongzbb/DiffMa-Diffusion-Mamba) | CT to MRI Conversion |
 | Arxiv 24.07.04| Vision Mamba for Classification of Breast Ultrasound Images | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/2c4cbbfa-3cc7-45fb-bf0a-82152b75c5e3) | [Link](https://arxiv.org/pdf/2407.03552) |  | Classification |
+| Arxiv 24.07.11| SliceMamba for Medical Image Segmentation | ![image](https://github.com/user-attachments/assets/b7f78e85-06b3-41fe-b08f-d2ce762444c1) | [Link](https://arxiv.org/pdf/2407.08481) |  | Medical Image Segmentation |
 
 
 
