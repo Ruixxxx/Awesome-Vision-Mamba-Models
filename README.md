@@ -58,7 +58,7 @@ If you find this repository is useful for you, please cite our paper:
 ## Mamba
 | Date      | Paper | Figure    | Link | Code         |
 | :-------- | :---- | :-------- | :--- | :----------- |
-| Arxiv 23.12.01 | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/9b1d1ebf-213b-4aa8-8cc9-852a62c997bf) ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/25b4bb74-5592-4953-8667-cb40ecc72914) |[Link](https://arxiv.org/pdf/2312.00752)|[Code](https://github.com/state-spaces/mamba)|
+| Arxiv 23.12.01 (COLM24) | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/9b1d1ebf-213b-4aa8-8cc9-852a62c997bf) ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/25b4bb74-5592-4953-8667-cb40ecc72914) |[Link](https://arxiv.org/pdf/2312.00752)|[Code](https://github.com/state-spaces/mamba)|
 | Arxiv 24.05.31 (ICML24) | Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/851656b3-b485-48d4-b7eb-51c0890c0e47) ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/2605faae-8e96-4341-8468-d2d9a5e7c630) |[Link](https://arxiv.org/pdf/2405.21060)|[Code](https://github.com/state-spaces/mamba)|
 
 ## Related Survey
@@ -305,6 +305,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.06.06| RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/51d63881-73a4-4174-8134-3cd80c216d60) | [Link](https://arxiv.org/pdf/2406.04339) | [Code](https://github.com/lmzpai/roboMamba) | Robot Reasoning and Manipulation | Image & Text |
 | Arxiv 24.06.10| MVGamba: Unify 3D Content Generation as State Space Sequence Modeling | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/9bc891da-a4af-482f-8405-03ea9c299395) | [Link](https://arxiv.org/abs/2406.09407) |  | 3D Generation | Image & Text |
 | Arxiv 24.07.02| MMR-Mamba: Multi-Contrast MRI Reconstruction with Mamba and Spatial-Frequency Information Fusion | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/c14d14ec-dba2-43a4-bb6f-bdeeb7ac7cd5) | [Link](https://arxiv.org/pdf/2406.18950) |  | Image Fusion | Multi-Contrast MRI |
+| Arxiv 24.07.15| OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting | ![image](https://github.com/user-attachments/assets/a986e9f8-ca34-4e96-9b98-ec98807c7157) | [Link](https://arxiv.org/pdf/2407.10923) |  | 360-degree Image Out-painting | Image & Text |
 
 
 
