@@ -383,5 +383,6 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.06.06 | TSCMamba: Mamba Meets Multi-View Learning for Time Series Classification | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/22c758fe-a5c8-48a3-8d6f-ebc9f4f597a9) | [Link](https://arxiv.org/pdf/2406.04419) |  |
 | Arxiv 24.06.08 | C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/3b4d0c44-8466-474f-8012-56461fc48b2d) | [Link](https://arxiv.org/pdf/2406.05316) | [Code](https://github.com/luodhhh/moderntcn) |
 | Arxiv 24.06.17 | SpoT-Mamba: Learning Long-Range Dependency on Spatio-Temporal Graphs with Selective State Spaces | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/d7ff231d-a6d0-4003-b537-c8fb85593304) | [Link](https://arxiv.org/pdf/2406.11244) | [Code](https://github.com/bdi-lab/SpoT-Mamba) |
+| Arxiv 24.07.15 | MSegRNN:Enhanced SegRNN Model with Mamba for Long-Term Time Series Forecasting | ![image](https://github.com/user-attachments/assets/914f2103-4d0d-42a9-8521-a64f46bdad23) | [Link](https://arxiv.org/pdf/2407.10768) |  |
 
 
