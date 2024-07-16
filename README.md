@@ -246,6 +246,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.07.02| VideoMambaPro: A Leap Forward for Mamba in Video Understanding | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/838a77f9-d4f3-418d-913a-1019c7939574) | [Link](https://arxiv.org/pdf/2406.19006) | [Code](https://github.com/hotfinda/videomambapro) | Video Understanding |
 | Arxiv 24.07.03| BVI-RLV: A Fully Registered Dataset and Benchmarks for Low-Light Video Enhancement | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/7a9a1b37-8d44-4675-9285-47727951ca92) | [Link](https://arxiv.org/pdf/2407.03535) | [Code](https://ieee-dataport.org/open-access/bvi-lowlight-fully-registered-datasets-low-light-image-and-video-enhancement) | Low-Light Video Enhancement |
 | Arxiv 24.07.04| QueryMamba: A Mamba-Based Encoder-Decoder Architecture with a Statistical Verb-Noun Interaction Module for Video Action Forecasting @ Ego4D Long-Term Action Anticipation Challenge 2024 | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/985f4b92-4188-473e-828c-198f3d643b42) | [Link](https://arxiv.org/pdf/2407.04184) |  | Video Action Forecasting |
+| Arxiv 24.07.11 (ECCV24) | VideoMamba: Spatio-Temporal Selective State Space Model | ![image](https://github.com/user-attachments/assets/95eeb970-f1d6-464a-a951-96b8e253ffa6) | [Link](https://arxiv.org/pdf/2407.08476) | [Code](https://github.com/jinyjelly/VideoMamba) | Action Recognition |
 
 
 
