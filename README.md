@@ -321,6 +321,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.03.22| Music to Dance as Language Translation using Sequence Models | <img width="541" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/3e647680-22c7-4885-9ada-f32d9288f1ba"> | [Link](https://arxiv.org/pdf/2403.15569) | [Code](http://github.com/meowatthemoon/MDLT) | Music-to-Dance |
 | Arxiv 24.05.08| Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/453639a0-a917-4ef3-8d15-5118bb019466) | [Link](https://arxiv.org/abs/2405.04909) | | Trajectory Prediction with LLM |
 | Arxiv 24.05.27| Deciphering Movement: Unified Trajectory Generation Model for Multi-Agent | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/479e6d58-03a3-46f3-b78e-4d5d023b66f5) | [Link](https://arxiv.org/pdf/2405.17680) | [Code](https://github.com/colorfulfuture/UniTraj-pytorch) | Trajectory Generation |
+| Arxiv 24.07.11 (ICCC24)| ST-Mamba: Spatial-Temporal Mamba for Traffic Flow Estimation Recovery using Limited Data | ![image](https://github.com/user-attachments/assets/39f8739e-9a82-4025-94b5-603c179d3e3a) | [Link](https://arxiv.org/pdf/2407.08558) |  | Traffic Flow Estimation Recovery |
 
 
 
