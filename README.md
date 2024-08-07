@@ -146,6 +146,7 @@ If you find this repository is useful for you, please cite our paper:
  | ![image](https://github.com/user-attachments/assets/510e5aa3-7bb7-4e10-a031-e89acf0dc74a) | [Link](https://arxiv.org/pdf/2407.06136) | [Code](https://github.com/xiaojieli0903/Mamba-FSCIL) | Few-Shot Class-Incremental Learning |
 | Arxiv 24.07.11 (ICML24 Workshop) | Parallelizing Autoregressive Generation with Variational State Space Models | ![image](https://github.com/user-attachments/assets/ae636474-1f0d-4a95-a265-7b35a1add404) | [Link](https://arxiv.org/pdf/2407.08415) |  | Generation |
 | Arxiv 24.07.12| Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba | ![image](https://github.com/user-attachments/assets/4d049463-7ff2-4faf-a4f6-730465646464) | [Link](https://arxiv.org/pdf/2407.09646) | [Code](https://humansensinglab.github.io/Hamba/) | 3D Hand Reconstruction |
+| Arxiv 24.08.06| Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network | ![image](https://github.com/user-attachments/assets/6a5a0c83-8a84-463b-b2f0-75375cfcea4a) | [Link](https://arxiv.org/pdf/2408.02922) |  | Human Pose Estimation |
 
 
 #### Remote Sensing Image
