@@ -146,10 +146,10 @@ If you find this repository is useful for you, please cite our paper:
  | ![image](https://github.com/user-attachments/assets/510e5aa3-7bb7-4e10-a031-e89acf0dc74a) | [Link](https://arxiv.org/pdf/2407.06136) | [Code](https://github.com/xiaojieli0903/Mamba-FSCIL) | Few-Shot Class-Incremental Learning |
 | Arxiv 24.07.11 (ICML24 Workshop) | Parallelizing Autoregressive Generation with Variational State Space Models | ![image](https://github.com/user-attachments/assets/ae636474-1f0d-4a95-a265-7b35a1add404) | [Link](https://arxiv.org/pdf/2407.08415) |  | Generation |
 | Arxiv 24.07.12| Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba | ![image](https://github.com/user-attachments/assets/4d049463-7ff2-4faf-a4f6-730465646464) | [Link](https://arxiv.org/pdf/2407.09646) | [Code](https://humansensinglab.github.io/Hamba/) | 3D Hand Reconstruction |
+| Arxiv 24.08.04| DeMansia: Mamba Never Forgets Any Tokens |  | [Link](https://arxiv.org/pdf/2408.01986) | [Code](https://github.com/catalpaaa/DeMansia) | Classification |
 | Arxiv 24.08.05| LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba | ![image](https://github.com/user-attachments/assets/c5536292-3dab-4cda-8f6c-087063521722) | [Link](https://arxiv.org/pdf/2408.02615) |  | Generation |
 | Arxiv 24.08.06| Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network | ![image](https://github.com/user-attachments/assets/6a5a0c83-8a84-463b-b2f0-75375cfcea4a) | [Link](https://arxiv.org/pdf/2408.02922) |  | Human Pose Estimation |
 | Arxiv 24.08.07| PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model | ![image](https://github.com/user-attachments/assets/e390ce6e-2bce-4275-af6d-f305fd4c58c0) | [Link](https://arxiv.org/pdf/2408.03540) |  | Human Pose Estimation |
-| Arxiv 24.08.04| DeMansia: Mamba Never Forgets Any Tokens |  | [Link](https://arxiv.org/pdf/2408.01986) | [Code](https://github.com/catalpaaa/DeMansia) | Classification |
 
 
 
@@ -326,7 +326,8 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.07.14| InfiniMotion: Mamba Boosts Memory in Transformer for Arbitrary Long Motion Generation | ![image](https://github.com/user-attachments/assets/52c1221d-1a02-4259-a3b8-740c62bde77b) | [Link](https://arxiv.org/pdf/2407.10061) | [Code](https://steve-zeyu-zhang.github.io/InfiniMotion/) | Text-to-Motion Generation | Motion & Text |
 | Arxiv 24.07.15| An Empirical Study of Mamba-based Pedestrian Attribute Recognition | ![image](https://github.com/user-attachments/assets/454d9cf9-841e-4a7b-9692-13ed996492cc) | [Link](https://arxiv.org/pdf/2407.10374) | [Code](https://github.com/Event-AHU/OpenPAR) | Pedestrian Attribute Recognition | Image & Text |
 | Arxiv 24.07.15| OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting | ![image](https://github.com/user-attachments/assets/a986e9f8-ca34-4e96-9b98-ec98807c7157) | [Link](https://arxiv.org/pdf/2407.10923) |  | 360-degree Image Out-painting | Image & Text |
-| Arxiv 24.08.07| DRAMA: An Efficient End-to-end Motion Planner for Autonomous Driving with Mamba | ![image](https://github.com/user-attachments/assets/26f2fc0b-f91c-4170-8e78-e5edaade447e) | [Link](https://arxiv.org/pdf/2408.03601) | Driver Motion Plan | 360-degree Image Out-painting | Image & Text |
+| Arxiv 24.08.03| JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Language Model | ![image](https://github.com/user-attachments/assets/b46128fe-cba4-49c0-b9e1-acc96e075ac3) | [Link](https://arxiv.org/pdf/2408.01627) |  | Motion & Speech |
+| Arxiv 24.08.07| DRAMA: An Efficient End-to-end Motion Planner for Autonomous Driving with Mamba | ![image](https://github.com/user-attachments/assets/26f2fc0b-f91c-4170-8e78-e5edaade447e) | [Link](https://arxiv.org/pdf/2408.03601) |  | Driver Motion Plan | | Image & Text |
 
 
 
