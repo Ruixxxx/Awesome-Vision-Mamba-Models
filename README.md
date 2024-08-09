@@ -95,6 +95,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.29 | Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/c4c00462-752f-4dce-a60c-85fc34d16d6c) | [Link](https://arxiv.org/pdf/2405.18679) | [Code](https://github.com/yws-wxs/Vim-F) |
 | Arxiv 24.06.11 | Autoregressive Pretraining with Mamba in Vision | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/69728c3f-6edf-480d-92ba-fda299f767a7) ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/5ced04e7-46b9-40e2-8f5a-6f0c8a68d2ca) | [Link](https://arxiv.org/pdf/2406.07537) | [Code](https://github.com/OliverRensu/ARM) |
 | Arxiv 24.07.10 | MambaVision: A Hybrid Mamba-Transformer Vision Backbone | ![image](https://github.com/user-attachments/assets/7d2f8a2b-7406-4540-a22f-7bfb8a8385de) | [Link](https://arxiv.org/pdf/2407.08083) | [Code](https://github.com/NVlabs/MambaVision) |
+| Arxiv 24.07.26 | VSSD: Vision Mamba with Non-Causal State Space Duality | ![image](https://github.com/user-attachments/assets/85381ff8-206c-4015-ac50-dbed66a66845) ![image](https://github.com/user-attachments/assets/d9308068-c98e-45bb-90d8-253841d3c9fd) | [Link](https://arxiv.org/pdf/2407.18559) | [Code](https://github.com/YuHengsss/VSSD) |
 
 
 
