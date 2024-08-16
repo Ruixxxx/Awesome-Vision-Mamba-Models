@@ -403,6 +403,7 @@ If you find this repository is useful for you, please cite our paper:
 | Date      | Paper | Figure    | Link | Code         |
 | :-------- | :---- | :-------- | :--- | :----------- |
 | Arxiv 24.05.22| HeteGraph-Mamba: Heterogeneous Graph Learning via Selective State Space Model | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/4d8e3a9c-d908-4203-8a6d-1f5e62e1ecbb) | [Link](https://arxiv.org/pdf/2405.13915) | |
+| Arxiv 24.08.13| DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs | ![image](https://github.com/user-attachments/assets/41195b74-5e6e-4aba-b41c-9f030e4c96c0) | [Link](https://arxiv.org/pdf/2408.06966) | |
 
 ### Audio
 | Date      | Paper | Figure    | Link | Code         |
