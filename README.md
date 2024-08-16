@@ -280,6 +280,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.07.04| QueryMamba: A Mamba-Based Encoder-Decoder Architecture with a Statistical Verb-Noun Interaction Module for Video Action Forecasting @ Ego4D Long-Term Action Anticipation Challenge 2024 | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/985f4b92-4188-473e-828c-198f3d643b42) | [Link](https://arxiv.org/pdf/2407.04184) |  | Video Action Forecasting |
 | Arxiv 24.07.11 (ECCV24) | VideoMamba: Spatio-Temporal Selective State Space Model | ![image](https://github.com/user-attachments/assets/95eeb970-f1d6-464a-a951-96b8e253ffa6) | [Link](https://arxiv.org/pdf/2407.08476) | [Code](https://github.com/jinyjelly/VideoMamba) | Action Recognition |
 | Arxiv 24.07.25 | Harnessing Temporal Causality for Advanced Temporal Action Detection | ![image](https://github.com/user-attachments/assets/aa29477a-3fa4-4042-97d6-48960a498e99) | [Link](https://arxiv.org/pdf/2407.17792) | [Code](https://github.com/sming256/OpenTAD) | Moment Queries/Action Recognition/Action Detection/Audio-Based Interaction Detection |
+| Arxiv 24.08.15 | MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking | ![image](https://github.com/user-attachments/assets/4043bdf3-105a-4165-82f7-60b7702b4fa1) | [Link](https://arxiv.org/pdf/2408.07889) |  | RGB-T Tracking |
 
 
 
