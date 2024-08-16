@@ -161,6 +161,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.08.05| LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba | ![image](https://github.com/user-attachments/assets/c5536292-3dab-4cda-8f6c-087063521722) | [Link](https://arxiv.org/pdf/2408.02615) |  | Generation |
 | Arxiv 24.08.06| Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network | ![image](https://github.com/user-attachments/assets/6a5a0c83-8a84-463b-b2f0-75375cfcea4a) | [Link](https://arxiv.org/pdf/2408.02922) |  | Human Pose Estimation |
 | Arxiv 24.08.07| PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model | ![image](https://github.com/user-attachments/assets/e390ce6e-2bce-4275-af6d-f305fd4c58c0) | [Link](https://arxiv.org/pdf/2408.03540) |  | Human Pose Estimation |
+| Arxiv 24.08.11| Neural Architecture Search based Global-local Vision Mamba for Palm-Vein Recognition | ![image](https://github.com/user-attachments/assets/dc98f7ec-ed84-40dc-b345-e9ec59eaac35) | [Link](https://arxiv.org/pdf/2408.05743) |  | Palm-Vein Recognition |
 
 
 
