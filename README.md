@@ -420,6 +420,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.06.10| RawBMamba: End-to-End Bidirectional State Space Model for Audio Deepfake Detection | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/52326d04-e98e-40b2-a2d4-7f90fbcb137d) | [Link](https://arxiv.org/pdf/2406.06086) | [Code](https://github.com/cyjie429/RawBMamba)|
 | Arxiv 24.06.24 (Interspeech 2024)| Exploring the Capability of Mamba in Speech Applications | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/2f0037ca-31b0-452d-8a43-d6adeb4ce3c2) | [Link](https://arxiv.org/pdf/2406.16808) | |
 | Arxiv 24.07.13 | Speech Slytherin: Examining the Performance and Efficiency of Mamba for Speech Separation, Recognition, and Synthesis | ![image](https://github.com/user-attachments/assets/0a6961b5-ad27-4d58-86ec-d8507d768e47) | [Link](https://arxiv.org/pdf/2407.09732) | [Mamba-TasNet Code](https://github.com/xi-j/Mamba-TasNet) [ConMamba Code](https://github.com/xi-j/Mamba-ASR) |
+| Arxiv 24.08.09 | SELD-Mamba: Selective State-Space Model for Sound Event Localization and Detection with Source Distance Estimation | ![image](https://github.com/user-attachments/assets/e1fb9a87-6b57-49b2-b5fe-c746fff0aa41) | [Link](https://arxiv.org/pdf/2408.05057) |  |
 
 
 
