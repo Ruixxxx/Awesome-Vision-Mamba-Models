@@ -351,7 +351,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.08.02| PhysMamba: Leveraging Dual-Stream Cross-Attention SSD for Remote Physiological Measurement | ![image](https://github.com/user-attachments/assets/f92bbba4-d7b9-408e-9fe2-10d19d715fd1) | [Link](https://arxiv.org/pdf/2408.01077) |  | Remote Physiological Measurement | Video & rPPG |
 | Arxiv 24.08.03| JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Language Model | ![image](https://github.com/user-attachments/assets/b46128fe-cba4-49c0-b9e1-acc96e075ac3) | [Link](https://arxiv.org/pdf/2408.01627) |  | Motion & Audio |
 | Arxiv 24.08.07| DRAMA: An Efficient End-to-end Motion Planner for Autonomous Driving with Mamba | ![image](https://github.com/user-attachments/assets/26f2fc0b-f91c-4170-8e78-e5edaade447e) | [Link](https://arxiv.org/pdf/2408.03601) |  | Driver Motion Plan | Image & Text |
-
+| Arxiv 24.08.15| ColorMamba: Towards High-quality NIR-to-RGB Spectral Translation with Mamba | ![image](https://github.com/user-attachments/assets/b1240646-b500-4dcc-b0e9-72c2a95ac86a) | [Link](https://arxiv.org/pdf/2408.08087) | [Code](https://github.com/alexyangxx/colormamba) | NIR-to-RGB Translation | NIR Images & RGB Images |
 
 
 
