@@ -203,6 +203,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.08.02| Multi-head Spatial-Spectral Mamba for Hyperspectral Image Classification | ![image](https://github.com/user-attachments/assets/ea0f94b0-a3ca-4022-88a9-e19460886cc8) | [Link](https://arxiv.org/pdf/2408.01224) | [Code](https://github.com/MHassaanButt/MHA_SS_Mamba) | Hyperspectral Image Classification |
 | Arxiv 24.08.02| WaveMamba: Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification | ![image](https://github.com/user-attachments/assets/443effde-5a68-4eef-8d57-52ed28de6ce7) | [Link](https://arxiv.org/pdf/2408.01231) | [Code](https://github.com/mahmad00) | Hyperspectral Image Classification |
 | Arxiv 24.08.02| Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification | ![image](https://github.com/user-attachments/assets/da1598b2-950d-410e-9c4c-513dccd2272e) | [Link](https://arxiv.org/pdf/2408.01372) | [Code](https://github.com/MHassaanButt/MorpMamba) | Hyperspectral Image Classification |
+| Arxiv 24.08.26| MSFMamba: Multi-Scale Feature Fusion State Space Model for Multi-Source Remote Sensing Image Classification | ![image](https://github.com/user-attachments/assets/01ff99a0-4f11-420e-8ff2-1cd2430b89e0) | [Link](https://arxiv.org/pdf/2408.14255) | [Code](https://github.com/summitgao/MSFMamba) | Hyperspectral Image Classification |
 
 
 
