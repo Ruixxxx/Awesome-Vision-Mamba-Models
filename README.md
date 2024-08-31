@@ -12,7 +12,7 @@
 
 [NEWS.2024/07/06] **The updated version of our [paper](https://arxiv.org/abs/2404.18861v2) is now available!**
 
-📢**NOTE:** If you have any questions, please don't hesitate to contact us at any of the following emails: [rui.xu@whu.edu.cn](mailto:rui.xu@whu.edu.cn), [syangcw@connect.ust.hk](mailto:syangcw@connect.ust.hk), [ywangrm@connect.ust.hk](mailto:ywangrm@connect.ust.hk), [yu.cai@connect.ust.hk](mailto:yu.cai@connect.ust.hk).
+📢**NOTE:** If you have any questions, please don't hesitate to contact us at any of the following emails: [cseruixu@ust.hk](mailto:cseruixu@ust.hk), [syangcw@connect.ust.hk](mailto:syangcw@connect.ust.hk), [ywangrm@connect.ust.hk](mailto:ywangrm@connect.ust.hk), [yu.cai@connect.ust.hk](mailto:yu.cai@connect.ust.hk).
 
 Mamba, a novel state space model, has gained recognition across diverse domains for its exceptional performance and efficient computational complexity. By addressing the limitations inherent in traditional visual foundation architectures, Mamba emerges as a promising contender poised to catalyze advancements in the field of computer vision.
 
@@ -20,7 +20,7 @@ Mamba, a novel state space model, has gained recognition across diverse domains 
 
 **[Visual Mamba: A Survey and New Outlooks](https://arxiv.org/abs/2404.18861v2)**<br/>
 Rui Xu, Shu Yang, Yihui Wang, Yu Cai, Bo Du, [Hao Chen](https://cse.hkust.edu.hk/~jhc/)<br/>
-[SMART Lab](https://hkustsmartlab.netlify.app/), The Hong Kong University of Science and Technology<br/>
+[SMART Lab](https://hkustsmartlab.github.io/), The Hong Kong University of Science and Technology<br/>
 <br/>
 
 If you find this repository is useful for you, please cite our paper:
@@ -357,6 +357,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.08.03| JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Language Model | ![image](https://github.com/user-attachments/assets/b46128fe-cba4-49c0-b9e1-acc96e075ac3) | [Link](https://arxiv.org/pdf/2408.01627) |  | Motion & Audio |
 | Arxiv 24.08.07| DRAMA: An Efficient End-to-end Motion Planner for Autonomous Driving with Mamba | ![image](https://github.com/user-attachments/assets/26f2fc0b-f91c-4170-8e78-e5edaade447e) | [Link](https://arxiv.org/pdf/2408.03601) |  | Driver Motion Plan | Image & Text |
 | Arxiv 24.08.15| ColorMamba: Towards High-quality NIR-to-RGB Spectral Translation with Mamba | ![image](https://github.com/user-attachments/assets/b1240646-b500-4dcc-b0e9-72c2a95ac86a) | [Link](https://arxiv.org/pdf/2408.08087) | [Code](https://github.com/alexyangxx/colormamba) | NIR-to-RGB Translation | NIR Images & RGB Images |
+| Arxiv 24.08.28| MambaPlace:Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms | ![image](https://github.com/user-attachments/assets/5fea4f2e-eb63-4cd2-9505-3fdf0d94461f) | [Link](https://arxiv.org/pdf/2408.15740) | [Code](https://github.com/nuozimiaowu/MambaPlace/tree/main) | Cross-Modal Place Recognition | Point Cloud & Text |
 
 
 
