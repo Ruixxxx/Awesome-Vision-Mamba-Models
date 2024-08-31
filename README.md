@@ -260,6 +260,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.07.11| SliceMamba for Medical Image Segmentation | ![image](https://github.com/user-attachments/assets/b7f78e85-06b3-41fe-b08f-d2ce762444c1) | [Link](https://arxiv.org/pdf/2407.08481) |  | Medical Image Segmentation |
 | Arxiv 24.08.14| Costal Cartilage Segmentation with Topology Guided Deformable Mamba: Method and Benchmark | ![image](https://github.com/user-attachments/assets/ceff321e-d16e-404f-bbfa-f3c9896cc93c) | [Link](https://arxiv.org/pdf/2408.07444) |  | Medical Image Segmentation |
 | Arxiv 24.08.15| MambaMIM: Pre-training Mamba with State Space Token-interpolation | ![image](https://github.com/user-attachments/assets/95d12c13-89e6-445d-91f4-0d6cb4a47b7c) | [Link](https://arxiv.org/pdf/2408.08070) | [Code](https://github.com/FengheTan9/MambaMIM) | Medical Image Segmentation |
+| Arxiv 24.08.28| SpineMamba: Enhancing 3D Spinal Segmentation in Clinical Imaging through Residual Visual Mamba Layers and Shape Priors | ![image](https://github.com/user-attachments/assets/29762eee-4a28-483e-a4b6-16199b1ba1a6) | [Link](https://arxiv.org/pdf/2408.15887) |  | Medical Image Segmentation |
 
 
 
