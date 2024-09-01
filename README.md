@@ -322,6 +322,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.06.25| Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/cfea06c3-68a9-4cc3-9040-56c7b873e498) | [Link](https://arxiv.org/pdf/2406.17442) |  | Semantic Segmentation |
 | Arxiv 24.07.15| Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model | ![image](https://github.com/user-attachments/assets/27281c7a-45b7-4f45-8aa9-abe2c7b39283) | [Link](https://arxiv.org/pdf/2407.12319) |  | Semantic Segmentation, Instance Segmentation |
 | Arxiv 24.07.25| LION: Linear Group RNN for 3D Object Detection in Point Clouds | ![image](https://github.com/user-attachments/assets/91900734-11b5-42c4-994b-030f41d739dc) ![image](https://github.com/user-attachments/assets/bf1783d8-0e5e-4245-a768-f315cd16c5af) | [Link](https://arxiv.org/pdf/2407.18232) | [Code](https://happinesslz.github.io/projects/LION/) | Object Detection |
+| Arxiv 24.08.20| OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model | ![image](https://github.com/user-attachments/assets/cececd09-a7bd-43af-a0f7-19011db32c9e) | [Link](https://arxiv.org/pdf/2408.10618) | [Code](https://jmwang0117.github.io/OMEGA/) | Semantic Prediction/Scene Completion |
 
 
 ### Multi-Modal
