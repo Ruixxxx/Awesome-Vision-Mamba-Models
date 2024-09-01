@@ -423,6 +423,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.06.12 | MaIL: Improving Imitation Learning with Mamba | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/985ef58b-c88c-4d48-9658-ca7607b6ec16) ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/4c72989e-ad9f-4b89-9584-737df098397c) | [Link](https://arxiv.org/pdf/2406.08234) | |
 | Arxiv 24.06.21 | KalMamba: Towards Efficient Probabilistic State Space Models for RL under Uncertainty | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/04b0e1ba-c03d-4fd3-88a4-96041dd561e2) | [Link](https://arxiv.org/pdf/2406.15131) | |
 | Arxiv 24.08.05 | Context-aware Mamba-based Reinforcement Learning for social robot navigation | ![image](https://github.com/user-attachments/assets/e4be2b5f-dce6-4c2a-83e5-09b7a0038530) | [Link](https://arxiv.org/pdf/2408.02661) | |
+| Arxiv 24.08.20 | Integrating Multi-Modal Input Token Mixer Into Mamba-Based Decision Models: Decision MetaMamba | ![image](https://github.com/user-attachments/assets/f271e376-0677-428b-92bd-010e358e6119) | [Link](https://arxiv.org/pdf/2408.10517) | [Code](https://github.com/too-z/decision-metamamba) |
 
 
 ### Graph Learning
