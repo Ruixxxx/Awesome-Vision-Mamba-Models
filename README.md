@@ -297,6 +297,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.07.11 (ECCV24) | VideoMamba: Spatio-Temporal Selective State Space Model | ![image](https://github.com/user-attachments/assets/95eeb970-f1d6-464a-a951-96b8e253ffa6) | [Link](https://arxiv.org/pdf/2407.08476) | [Code](https://github.com/jinyjelly/VideoMamba) | Action Recognition |
 | Arxiv 24.07.25 | Harnessing Temporal Causality for Advanced Temporal Action Detection | ![image](https://github.com/user-attachments/assets/aa29477a-3fa4-4042-97d6-48960a498e99) | [Link](https://arxiv.org/pdf/2407.17792) | [Code](https://github.com/sming256/OpenTAD) | Moment Queries/Action Recognition/Action Detection/Audio-Based Interaction Detection |
 | Arxiv 24.08.15 | MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking | ![image](https://github.com/user-attachments/assets/4043bdf3-105a-4165-82f7-60b7702b4fa1) | [Link](https://arxiv.org/pdf/2408.07889) |  | RGB-T Tracking |
+| Arxiv 24.08.20 | DemMamba: Alignment-free Raw Video Demoireing with Frequency-assisted Spatio-Temporal Mamba | ![image](https://github.com/user-attachments/assets/b120d354-b5c4-4537-9f13-3cf3e6eeae43) | [Link](https://arxiv.org/pdf/2408.10679) |  | Video Demoireing |
 
 
 
