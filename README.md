@@ -301,6 +301,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.08.15 | MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking | ![image](https://github.com/user-attachments/assets/4043bdf3-105a-4165-82f7-60b7702b4fa1) | [Link](https://arxiv.org/pdf/2408.07889) |  | RGB-T Tracking |
 | Arxiv 24.08.17 (MM24) | MambaTrack: A Simple Baseline for Multiple Object Tracking with State Space Model | ![image](https://github.com/user-attachments/assets/30a7f7a8-4a91-4e1c-a956-0878dfecc86f) | [Link](https://arxiv.org/pdf/2408.09178) |  | Multiple Object Tracking |
 | Arxiv 24.08.20 | DemMamba: Alignment-free Raw Video Demoireing with Frequency-assisted Spatio-Temporal Mamba | ![image](https://github.com/user-attachments/assets/b120d354-b5c4-4537-9f13-3cf3e6eeae43) | [Link](https://arxiv.org/pdf/2408.10679) |  | Video Demoireing |
+| Arxiv 24.09.02 | FMRFT: Fusion Mamba and DETR for Query Time Sequence Intersection Fish Tracking | ![image](https://github.com/user-attachments/assets/b40044ed-3dc3-4cb1-979d-0acab60f3a07) | [Link](https://arxiv.org/pdf/2409.01148) |  | Fish Tracking |
 | Arxiv 24.09.04 | MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos | ![image](https://github.com/user-attachments/assets/7a48d611-a58e-4698-9ff4-f9cf69a72355) | [Link](https://arxiv.org/pdf/2409.02638) | [Code](https://irmvlab.github.io/madiff.github.io/) | Hand Trajectory Prediction |
 
 
