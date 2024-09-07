@@ -97,6 +97,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.07.10 | MambaVision: A Hybrid Mamba-Transformer Vision Backbone | ![image](https://github.com/user-attachments/assets/7d2f8a2b-7406-4540-a22f-7bfb8a8385de) | [Link](https://arxiv.org/pdf/2407.08083) | [Code](https://github.com/NVlabs/MambaVision) |
 | Arxiv 24.07.18 | GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model | ![image](https://github.com/user-attachments/assets/751a193d-a1aa-48d0-b955-4193908e19b5) | [Link](https://arxiv.org/pdf/2407.13772) | [Code](https://github.com/Amshaker/GroupMamba) |
 | Arxiv 24.07.26 | VSSD: Vision Mamba with Non-Causal State Space Duality | ![image](https://github.com/user-attachments/assets/85381ff8-206c-4015-ac50-dbed66a66845) ![image](https://github.com/user-attachments/assets/d9308068-c98e-45bb-90d8-253841d3c9fd) | [Link](https://arxiv.org/pdf/2407.18559) | [Code](https://github.com/YuHengsss/VSSD) |
+| Arxiv 24.08.30 | Stochastic Layer-Wise Shuffle: A Good Practice to Improve Vision Mamba Training | ![image](https://github.com/user-attachments/assets/c1860b1f-5c80-4520-b658-d9f77c4b2419) | [Link](https://arxiv.org/pdf/2408.17081) | [Code](https://github.com/huangzizheng01/ShuffleMamba) |
 
 
 
