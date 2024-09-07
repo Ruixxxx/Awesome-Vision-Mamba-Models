@@ -213,8 +213,6 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.08.21| UNetMamba: An Efficient UNet-Like Mamba for Semantic Segmentation of High-Resolution Remote Sensing Images | ![image](https://github.com/user-attachments/assets/ea5b5e82-cf8f-41a2-a3bc-9b8dccddfd56) | [Link](https://arxiv.org/pdf/2408.11545) | [Code](https://github.com/EnzeZhu2001/UNetMamba) | Semantic Segmentation |
 | Arxiv 24.08.26| MSFMamba: Multi-Scale Feature Fusion State Space Model for Multi-Source Remote Sensing Image Classification | ![image](https://github.com/user-attachments/assets/01ff99a0-4f11-420e-8ff2-1cd2430b89e0) | [Link](https://arxiv.org/pdf/2408.14255) | [Code](https://github.com/summitgao/MSFMamba) | Hyperspectral Image Classification |
 | Arxiv 24.09.05| UV-Mamba: A DCN-Enhanced State Space Model for Urban Village Boundary Identification in High-Resolution Remote Sensing Images | ![image](https://github.com/user-attachments/assets/b6b1ff99-a852-423f-b89d-08e20ffbfb5a) | [Link](https://arxiv.org/pdf/2409.03431) |  | Segmentation |
-| Signal Processing 2025 | State space models meet transformers for hyperspectral image classification | ![image](https://github.com/user-attachments/assets/8de35f58-b5a5-46c6-9188-96fa735204b0) | [Link](https://www.sciencedirect.com/science/article/pii/S0165168424002895) | [Code](https://github.com/PPPPPsanG/MamTrans) | Hyperspectral Image Classification |
-| GRSL 2024 | MambaFormerSR: A Lightweight model for Remote-Sensing Image Super-Resolution | ![image](https://github.com/user-attachments/assets/e669b861-4e73-4741-be08-9ba579773929) | [Link](https://ieeexplore.ieee.org/abstract/document/10663411) |  | Super-Resolution |
 
 
 
@@ -281,7 +279,6 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.08.26| LoG-VMamba: Local-Global Vision Mamba for Medical Image Segmentation | ![image](https://github.com/user-attachments/assets/38c2163a-afe1-4621-9b23-959613da0b50) | [Link](https://arxiv.org/pdf/2408.14415) | [Code](https://github.com/Oulu-IMEDS/LoG-VMamba) | Medical Image Segmentation |
 | Arxiv 24.08.28| SpineMamba: Enhancing 3D Spinal Segmentation in Clinical Imaging through Residual Visual Mamba Layers and Shape Priors | ![image](https://github.com/user-attachments/assets/29762eee-4a28-483e-a4b6-16199b1ba1a6) | [Link](https://arxiv.org/pdf/2408.15887) |  | Medical Image Segmentation |
 | **Scientific Reports** 2024 | A mixed Mamba U-net for prostate segmentation in MR images | ![image](https://github.com/user-attachments/assets/864b7165-16dc-4b02-972a-1f8b8f55a9f5) | [Link](https://www.nature.com/articles/s41598-024-71045-7) |  | Medical Image Segmentation |
-| Medical Physics 2024 | A new visual State Space Model for low-dose CT denoising | ![image](https://github.com/user-attachments/assets/df62204e-52ea-4667-a622-eb0d2be7a8f4) | [Link](https://pubmed.ncbi.nlm.nih.gov/39231014/) |  | Medical Image Denoising |
 
 
 
