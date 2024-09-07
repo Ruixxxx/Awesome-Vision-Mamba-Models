@@ -211,6 +211,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.08.02| Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification | ![image](https://github.com/user-attachments/assets/da1598b2-950d-410e-9c4c-513dccd2272e) | [Link](https://arxiv.org/pdf/2408.01372) | [Code](https://github.com/MHassaanButt/MorpMamba) | Hyperspectral Image Classification |
 | Arxiv 24.08.21| UNetMamba: An Efficient UNet-Like Mamba for Semantic Segmentation of High-Resolution Remote Sensing Images | ![image](https://github.com/user-attachments/assets/ea5b5e82-cf8f-41a2-a3bc-9b8dccddfd56) | [Link](https://arxiv.org/pdf/2408.11545) | [Code](https://github.com/EnzeZhu2001/UNetMamba) | Semantic Segmentation |
 | Arxiv 24.08.26| MSFMamba: Multi-Scale Feature Fusion State Space Model for Multi-Source Remote Sensing Image Classification | ![image](https://github.com/user-attachments/assets/01ff99a0-4f11-420e-8ff2-1cd2430b89e0) | [Link](https://arxiv.org/pdf/2408.14255) | [Code](https://github.com/summitgao/MSFMamba) | Hyperspectral Image Classification |
+| Arxiv 24.09.05| UV-Mamba: A DCN-Enhanced State Space Model for Urban Village Boundary Identification in High-Resolution Remote Sensing Images | ![image](https://github.com/user-attachments/assets/b6b1ff99-a852-423f-b89d-08e20ffbfb5a) | [Link](https://arxiv.org/pdf/2409.03431) |  | Segmentation |
 
 
 
