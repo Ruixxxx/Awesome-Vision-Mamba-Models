@@ -171,7 +171,8 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.08.27| ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning | ![image](https://github.com/user-attachments/assets/80337d9f-9c02-4a5c-be13-25b1fa54967f) | [Link](https://arxiv.org/pdf/2408.14868) | [Code](https://anonymous.4open.science/r/ZeroMamba/README.md) | Zero-Shot Learning |
 | Arxiv 24.08.27| MTMamba++: Enhancing Multi-Task Dense Scene Understanding via Mamba-Based Decoders | ![image](https://github.com/user-attachments/assets/059637cc-252e-49d6-9c9e-8cb82e155b88) | [Link](https://arxiv.org/pdf/2408.15101) | [Code](https://github.com/EnVision-Research/MTMamba) | Multi-Task Dense Scene Understanding |
 | Arxiv 24.08.31| A Hybrid Transformer-Mamba Network for Single Image Deraining | ![image](https://github.com/user-attachments/assets/9fd1f66f-7738-468a-b9da-23a90b4526d6) | [Link](https://arxiv.org/pdf/2409.00410) | [Code](https://github.com/sunshangquan/TransMamba) | Deraining |
-| Arxiv 24.09.02| DS MYOLO: A Reliable Object Detector Based on SSMs for Driving Scenarios | ![image](https://github.com/user-attachments/assets/a132913a-8cf4-4411-9366-a4f6aa9ec8c1) | [Link](https://arxiv.org/pdf/2409.01093) | [Code]() | Object Detection |
+| Arxiv 24.09.02| DS MYOLO: A Reliable Object Detector Based on SSMs for Driving Scenarios | ![image](https://github.com/user-attachments/assets/a132913a-8cf4-4411-9366-a4f6aa9ec8c1) | [Link](https://arxiv.org/pdf/2409.01093) |  | Object Detection |
+| ACM MM 2024 | Realistic Full-Body Motion Generation from Sparse Tracking with State Space Model | ![image](https://github.com/user-attachments/assets/5d917f28-0217-41e6-866b-e1870ec7bc56) | [Link](https://openreview.net/pdf?id=dA6yat7UNM) |  | Motion Generation |
 
 
 
