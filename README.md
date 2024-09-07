@@ -279,6 +279,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.08.26 (MICCAI 2024) | ShapeMamba-EM: Fine-Tuning Foundation Model with Local Shape Descriptors and Mamba Blocks for 3D EM Image Segmentation | ![image](https://github.com/user-attachments/assets/2c51a28a-5dee-40fe-bccf-914e3b5459cf) | [Link](https://arxiv.org/pdf/2408.14114) |  | Medical Image Segmentation |
 | Arxiv 24.08.26| LoG-VMamba: Local-Global Vision Mamba for Medical Image Segmentation | ![image](https://github.com/user-attachments/assets/38c2163a-afe1-4621-9b23-959613da0b50) | [Link](https://arxiv.org/pdf/2408.14415) | [Code](https://github.com/Oulu-IMEDS/LoG-VMamba) | Medical Image Segmentation |
 | Arxiv 24.08.28| SpineMamba: Enhancing 3D Spinal Segmentation in Clinical Imaging through Residual Visual Mamba Layers and Shape Priors | ![image](https://github.com/user-attachments/assets/29762eee-4a28-483e-a4b6-16199b1ba1a6) | [Link](https://arxiv.org/pdf/2408.15887) |  | Medical Image Segmentation |
+| **Scientific Reports** 2024 | A mixed Mamba U-net for prostate segmentation in MR images | ![image](https://github.com/user-attachments/assets/864b7165-16dc-4b02-972a-1f8b8f55a9f5) | [Link](https://www.nature.com/articles/s41598-024-71045-7) |  | Medical Image Segmentation |
 | Medical Physics 2024 | A new visual State Space Model for low-dose CT denoising | ![image](https://github.com/user-attachments/assets/df62204e-52ea-4667-a622-eb0d2be7a8f4) | [Link](https://pubmed.ncbi.nlm.nih.gov/39231014/) |  | Medical Image Denoising |
 
 
