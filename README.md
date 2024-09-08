@@ -459,6 +459,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.05.22| HeteGraph-Mamba: Heterogeneous Graph Learning via Selective State Space Model | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/4d8e3a9c-d908-4203-8a6d-1f5e62e1ecbb) | [Link](https://arxiv.org/pdf/2405.13915) | |
 | Arxiv 24.08.08| DyGMamba: Efficiently Modeling Long-Term Temporal Dependency on Continuous-Time Dynamic Graphs with State Space Models | ![image](https://github.com/user-attachments/assets/e4d7bab7-e611-4606-a478-881fe229a0cc) | [Link](https://arxiv.org/pdf/2408.04713) | |
 | Arxiv 24.08.13| DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs | ![image](https://github.com/user-attachments/assets/41195b74-5e6e-4aba-b41c-9f030e4c96c0) | [Link](https://arxiv.org/pdf/2408.06966) | |
+| KDD 2024 Workshop | Identifying Subphenotypes for Sepsis with Acute Kidney Injury via Multimodal Graph State Space Models | ![image](https://github.com/user-attachments/assets/6503e571-9835-444d-a91e-7a4e63721e26) | [Link](https://openreview.net/pdf?id=34QhRg0Zto) | |
 
 ### Audio
 | Date      | Paper | Figure    | Link | Code         |
