@@ -287,8 +287,7 @@ If you find this repository is useful for you, please cite our paper:
 | KDD 2024 Workshop | State Space Model-based Classification of Major Depressive Disorder Across Multiple Imaging Sites | ![image](https://github.com/user-attachments/assets/498dfcff-63be-4dcc-b182-032670211862) | [Link](https://openreview.net/pdf?id=wFgLDc4Gx8) |  | Medical Image Classification |
 | **Scientific Reports** 2024 | A mixed Mamba U-net for prostate segmentation in MR images | ![image](https://github.com/user-attachments/assets/864b7165-16dc-4b02-972a-1f8b8f55a9f5) | [Link](https://www.nature.com/articles/s41598-024-71045-7) |  | Medical Image Segmentation |
 | MICCAI 2024 | EM-Net: Efficient Channel and Frequency Learning with Mamba for 3D Medical Image Segmentation |  |  |  | Medical Image Segmentation |
-| MICCAI 2024 | PathMamba: Weakly Supervised State Space Model for Multi-class Segmentation of Pathology
-Images |  |  |  | Medical Image Segmentation |
+| MICCAI 2024 | PathMamba: Weakly Supervised State Space Model for Multi-class Segmentation of Pathology Images |  |  |  | Medical Image Segmentation |
 | MICCAI 2024 | Tri-Plane Mamba: Efficiently Adapting Segment Anything Model for 3D Medical Images |  |  |  | Medical Image Segmentation |
 | MICCAI 2024 | Efficient and Gender-adaptive Graph Vision Mamba for Pediatric Bone Age Assessment |  |  |  | Bone Age Assessment |
 
