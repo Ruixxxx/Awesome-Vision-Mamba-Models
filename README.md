@@ -490,6 +490,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.08.09 | SELD-Mamba: Selective State-Space Model for Sound Event Localization and Detection with Source Distance Estimation | ![image](https://github.com/user-attachments/assets/e1fb9a87-6b57-49b2-b5fe-c746fff0aa41) | [Link](https://arxiv.org/pdf/2408.05057) |  |
 | Arxiv 24.09.04 | MusicMamba: A Dual-Feature Modeling Approach for Generating Chinese Traditional Music with Modal Precision | ![image](https://github.com/user-attachments/assets/4fde179a-2db6-4296-b69b-0c373550bef4) | [Link](https://arxiv.org/pdf/2409.02421) |  |
 | Arxiv 24.09.04 (SLT 2024 Workshop) | An Analysis of Linear Complexity Attention Substitutes with BEST-RQ | ![image](https://github.com/user-attachments/assets/5979b324-38a1-4502-a66d-ff4efe795e0d) | [Link](https://arxiv.org/pdf/2409.02596) |  |
+| Arxiv 24.09.11 | Rethinking Mamba in Speech Processing by Self-Supervised Models | ![image](https://github.com/user-attachments/assets/b91c944e-92f6-4ab4-872c-e4c72432f279) | [Link](https://arxiv.org/pdf/2409.07273) | [Code](https://github.com/Tonyyouyou/Mutual-Information-Analysis) |
 | Expert Systems with Applications 2024 | A barking emotion recognition method based on Mamba and Synchrosqueezing Short-Time Fourier Transform | ![image](https://github.com/user-attachments/assets/0d486a23-31f8-45cb-aca7-104623b66ff9) | [Link](https://www.sciencedirect.com/science/article/pii/S0957417424020803) | [Code](https://github.com/yangcjya/A-barking-emotion-recognition-method-based-on-Mamba) |
 
 
