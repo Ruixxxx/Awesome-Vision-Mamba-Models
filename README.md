@@ -505,6 +505,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.09.09 | Vector Quantized Diffusion Model Based Speech Bandwidth Extension | ![image](https://github.com/user-attachments/assets/a06f1bb5-ce34-46eb-84c9-ce0c9d0c9eb5) | [Link](https://arxiv.org/pdf/2409.05784) |  |
 | Arxiv 24.09.10 | A Two-Stage Band-Split Mamba-2 Network for Music Separation | ![image](https://github.com/user-attachments/assets/f276dc2b-f749-4389-beb2-8c720f785e1d) | [Link](https://arxiv.org/pdf/2409.06245) | [Code](https://github.com/baijinglin/TS-BSmamba2) |
 | Arxiv 24.09.11 | Rethinking Mamba in Speech Processing by Self-Supervised Models | ![image](https://github.com/user-attachments/assets/b91c944e-92f6-4ab4-872c-e4c72432f279) | [Link](https://arxiv.org/pdf/2409.07273) | [Code](https://github.com/Tonyyouyou/Mutual-Information-Analysis) |
+| Arxiv 24.09.19 | DeFT-Mamba: Universal Multichannel Sound Separation and Polyphonic Audio Classification | ![image](https://github.com/user-attachments/assets/1e48516f-34dd-4e89-ad17-bba37f378191) | [Link](https://arxiv.org/pdf/2409.12413) |  |
 | Expert Systems with Applications 2024 | A barking emotion recognition method based on Mamba and Synchrosqueezing Short-Time Fourier Transform | ![image](https://github.com/user-attachments/assets/0d486a23-31f8-45cb-aca7-104623b66ff9) | [Link](https://www.sciencedirect.com/science/article/pii/S0957417424020803) | [Code](https://github.com/yangcjya/A-barking-emotion-recognition-method-based-on-Mamba) |
 
 
