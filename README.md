@@ -547,5 +547,6 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.08.04 | Mamba-Spike: Enhancing the Mamba Architecture with a Spiking Front-End for Efficient Temporal Data Processing | ![image](https://github.com/user-attachments/assets/48983763-68a0-4c80-9103-a831cb0942ff) | [Link](https://arxiv.org/pdf/2408.11823) | [Code](https://github.com/ECNU-Cross-Innovation-Lab/Mamba-Spike) |
 | Arxiv 24.08.22 (CGI24) | Simplified Mamba with Disentangled Dependency Encoding for Long-Term Time Series Forecasting | ![image](https://github.com/user-attachments/assets/1b58e8d5-bde0-477c-9aac-e0446de13d3a) | [Link](https://arxiv.org/pdf/2408.12068) |  |
 | Arxiv 24.08.27 | Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need | ![image](https://github.com/user-attachments/assets/714f2cd2-7c41-4f72-adab-70a3483e6f91) ![image](https://github.com/user-attachments/assets/027eff14-997d-4d99-9d3c-3250b7632da6) | [Link](https://arxiv.org/pdf/2408.15997) | [Code](https://github.com/lunaaa95/mou/) |
+| Arxiv 24.09.13 (ICECCE 2024) | Integration of Mamba and Transformer -- MAT for Long-Short Range Time Series Forecasting with Application to Weather Dynamics | ![image](https://github.com/user-attachments/assets/ab4ab2ff-abd2-41d4-92e4-a494bcc7a001) | [Link](https://arxiv.org/pdf/2409.08530) |  |
 
 
