@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c34e8be3-70d9-4132-915d-0795e6358048)# Awesome-Vision-Mamba-Models
+# Awesome-Vision-Mamba-Models
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
