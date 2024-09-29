@@ -491,6 +491,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.08.05 | Context-aware Mamba-based Reinforcement Learning for social robot navigation | ![image](https://github.com/user-attachments/assets/e4be2b5f-dce6-4c2a-83e5-09b7a0038530) | [Link](https://arxiv.org/pdf/2408.02661) | |
 | Arxiv 24.08.20 | Integrating Multi-Modal Input Token Mixer Into Mamba-Based Decision Models: Decision MetaMamba | ![image](https://github.com/user-attachments/assets/f271e376-0677-428b-92bd-010e358e6119) | [Link](https://arxiv.org/pdf/2408.10517) | [Code](https://github.com/too-z/decision-metamamba) |
 | Arxiv 24.09.04 | Mamba as a motion encoder for robotic imitation learning | ![image](https://github.com/user-attachments/assets/76b8bdbe-6698-4ff2-a435-40576bf81e95) | [Link](https://arxiv.org/pdf/2409.02636) |  |
+| Arxiv 24.09.23 | DiSPo: Diffusion-SSM based Policy Learning for Coarse-to-Fine Action Discretization | ![image](https://github.com/user-attachments/assets/80f9a9fd-d2a1-4ab8-a005-fe6957709934) | [Link](https://arxiv.org/pdf/2409.14719) |  |
 
 
 ### Graph Learning
