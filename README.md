@@ -526,6 +526,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.09.16 | Leveraging Joint Spectral and Spatial Learning with MAMBA for Multichannel Speech Enhancement | ![image](https://github.com/user-attachments/assets/3815a3d0-724a-4a24-8040-7176f7ced904) | [Link](https://arxiv.org/pdf/2409.10376) |  |
 | Arxiv 24.09.18 | Dense-TSNet: Dense Connected Two-Stage Structure for Ultra-Lightweight Speech Enhancement | ![image](https://github.com/user-attachments/assets/b558b3c2-e82a-4287-bd23-394306c7858b) | [Link](https://arxiv.org/pdf/2409.11725) | [Code](https://github.com/huaidanquede/Dense-TSNet) |
 | Arxiv 24.09.19 | DeFT-Mamba: Universal Multichannel Sound Separation and Polyphonic Audio Classification | ![image](https://github.com/user-attachments/assets/1e48516f-34dd-4e89-ad17-bba37f378191) | [Link](https://arxiv.org/pdf/2409.12413) |  |
+| Arxiv 24.09.26 | MC-SEMamba: A Simple Multi-channel Extension of SEMamba | ![image](https://github.com/user-attachments/assets/426a6a7e-7502-4584-9688-384863bba295) | [Link](https://arxiv.org/pdf/2409.17898) |  |
 | Expert Systems with Applications 2024 | A barking emotion recognition method based on Mamba and Synchrosqueezing Short-Time Fourier Transform | ![image](https://github.com/user-attachments/assets/0d486a23-31f8-45cb-aca7-104623b66ff9) | [Link](https://www.sciencedirect.com/science/article/pii/S0957417424020803) | [Code](https://github.com/yangcjya/A-barking-emotion-recognition-method-based-on-Mamba) |
 
 
