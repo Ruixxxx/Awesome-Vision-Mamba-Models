@@ -372,6 +372,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.08.20| MV-MOS: Multi-View Feature Fusion for 3D Moving Object Segmentation | ![image](https://github.com/user-attachments/assets/697fa429-535e-4c79-ad63-e43bd26086a5) | [Link](https://arxiv.org/pdf/2408.10602) | [Code](https://github.com/Chengjt1999/MV-MOS) | Object Segmentation |
 | Arxiv 24.08.20| OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model | ![image](https://github.com/user-attachments/assets/cececd09-a7bd-43af-a0f7-19011db32c9e) | [Link](https://arxiv.org/pdf/2408.10618) | [Code](https://jmwang0117.github.io/OMEGA/) | Semantic Prediction/Scene Completion |
 | Arxiv 24.09.17| Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation | ![image](https://github.com/user-attachments/assets/f7740281-a76b-410e-af0f-2be9ee2eb74e) | [Link](https://arxiv.org/pdf/2409.11018) |  | Object Detection |
+| Arxiv 24.09.24| FSF-Net: Enhance 4D Occupancy Forecasting with Coarse BEV Scene Flow for Autonomous Driving | ![image](https://github.com/user-attachments/assets/73a29991-c438-4abd-b367-843eaa640def) | [Link](https://arxiv.org/pdf/2409.15841) |  | 4D Occupancy Forecasting |
 | ACM MM 2024 | MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware State Space Model | ![image](https://github.com/user-attachments/assets/4b6b9ea7-ab24-4fb9-8092-8d78b8fa41ed) | [Link](https://openreview.net/pdf?id=oo7PyBieWB) |  | Object Segmentation |
 
 
