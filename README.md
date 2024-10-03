@@ -570,5 +570,6 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.08.27 | Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need | ![image](https://github.com/user-attachments/assets/714f2cd2-7c41-4f72-adab-70a3483e6f91) ![image](https://github.com/user-attachments/assets/027eff14-997d-4d99-9d3c-3250b7632da6) | [Link](https://arxiv.org/pdf/2408.15997) | [Code](https://github.com/lunaaa95/mou/) |
 | Arxiv 24.09.13 (ICECCE 2024) | Integration of Mamba and Transformer -- MAT for Long-Short Range Time Series Forecasting with Application to Weather Dynamics | ![image](https://github.com/user-attachments/assets/ab4ab2ff-abd2-41d4-92e4-a494bcc7a001) | [Link](https://arxiv.org/pdf/2409.08530) |  |
 | Arxiv 24.09.21 | Test Time Learning for Time Series Forecasting | ![image](https://github.com/user-attachments/assets/308aae36-aecd-4a2c-b2c4-19aab702f46c) | [Link](https://arxiv.org/pdf/2409.14012) |  |
+| Arxiv 24.09.30 | A SSM is Polymerized from Multivariate Time Series | ![image](https://github.com/user-attachments/assets/0cf7350f-b1ba-44a9-839d-7eb7fdd3c0d7) | [Link](https://arxiv.org/pdf/2409.20310) | [Code](https://github.com/Joeland4/Poly-Mamba) |
 
 
