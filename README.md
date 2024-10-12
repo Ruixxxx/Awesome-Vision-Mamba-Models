@@ -551,6 +551,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.09.27 | Speech-Mamba: Long-Context Speech Recognition with Selective State Spaces Models | ![image](https://github.com/user-attachments/assets/fc583e7d-e1db-446e-a12d-e740e13d145f) | [Link](https://arxiv.org/pdf/2409.18654) | [Code](https://github.com/xiaoxue1117/speech-mamba-public) |
 | Arxiv 24.09.30 | Mamba for Streaming ASR Combined with Unimodal Aggregation | ![image](https://github.com/user-attachments/assets/2e105658-771e-4035-a896-d34fe20f176e) | [Link](https://arxiv.org/pdf/2410.00070) | [Code](https://github.com/Audio-WestlakeU/UMA-ASR) |
 | Arxiv 24.10.01 | Zero-Shot Text-to-Speech from Continuous Text Streams | ![image](https://github.com/user-attachments/assets/e85ad94e-0064-4564-87b8-37dfe1088f44) | [Link](https://arxiv.org/pdf/2410.00767) | [Code](https://trungd.github.io/livespeech2/) |
+| Arxiv 24.10.09 | Joint Fine-tuning and Conversion of Pretrained Speech and Language Models towards Linear Complexity | ![image](https://github.com/user-attachments/assets/5dc4b65b-fc47-4fd1-91a1-02109b1ae19b) | [Link](https://arxiv.org/pdf/2410.06846) |  |
 | Expert Systems with Applications 2024 | A barking emotion recognition method based on Mamba and Synchrosqueezing Short-Time Fourier Transform | ![image](https://github.com/user-attachments/assets/0d486a23-31f8-45cb-aca7-104623b66ff9) | [Link](https://www.sciencedirect.com/science/article/pii/S0957417424020803) | [Code](https://github.com/yangcjya/A-barking-emotion-recognition-method-based-on-Mamba) |
 
 
