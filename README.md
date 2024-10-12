@@ -103,6 +103,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.09.15 | SparX: A Sparse Cross-Layer Connection Mechanism for Hierarchical Vision Mamba and Transformer Networks | ![image](https://github.com/user-attachments/assets/37cef091-8316-4de4-917c-cece411524dd) ![image](https://github.com/user-attachments/assets/6bc984b2-7357-4422-93c6-652ae499eb93) | [Link](https://arxiv.org/pdf/2409.09649) | [Code](https://github.com/LMMMEng/SparX) |
 | Arxiv 24.09.18 | Distillation-free Scaling of Large SSMs for Images and Videos | ![image](https://github.com/user-attachments/assets/53ed9bcf-5b6d-4442-8450-043a00bc7654) | [Link](https://arxiv.org/pdf/2409.11867) |  |
 | Arxiv 24.10.01 | MAP: Unleashing Hybrid Mamba-Transformer Vision Backbone's Potential with Masked Autoregressive Pretraining | ![image](https://github.com/user-attachments/assets/40c5adbc-a0df-4a78-b28d-5b0891db9396) | [Link](https://arxiv.org/pdf/2410.00871) |  |
+| Arxiv 24.10.09 (NeurIPS 2024) | QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model | ![image](https://github.com/user-attachments/assets/ed6d246b-537f-4005-945a-a1fa4a52344e) ![image](https://github.com/user-attachments/assets/aa737a3c-218c-4c34-aca6-027f244a7738) | [Link](https://arxiv.org/pdf/2410.06806) | [Code](https://github.com/VISION-SJTU/QuadMamba) |
 
 
 
