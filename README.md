@@ -581,5 +581,6 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.09.13 (ICECCE 2024) | Integration of Mamba and Transformer -- MAT for Long-Short Range Time Series Forecasting with Application to Weather Dynamics | ![image](https://github.com/user-attachments/assets/ab4ab2ff-abd2-41d4-92e4-a494bcc7a001) | [Link](https://arxiv.org/pdf/2409.08530) |  |
 | Arxiv 24.09.21 | Test Time Learning for Time Series Forecasting | ![image](https://github.com/user-attachments/assets/308aae36-aecd-4a2c-b2c4-19aab702f46c) | [Link](https://arxiv.org/pdf/2409.14012) |  |
 | Arxiv 24.09.30 | A SSM is Polymerized from Multivariate Time Series | ![image](https://github.com/user-attachments/assets/0cf7350f-b1ba-44a9-839d-7eb7fdd3c0d7) | [Link](https://arxiv.org/pdf/2409.20310) | [Code](https://github.com/Joeland4/Poly-Mamba) |
+| Arxiv 24.10.08 | TIMBA: Time series Imputation with Bi-directional Mamba Blocks and Diffusion models | ![image](https://github.com/user-attachments/assets/ff7ce27c-e93c-4ec5-85ab-7acd26ed0fa4) | [Link](https://arxiv.org/pdf/2410.05916) |  |
 
 
