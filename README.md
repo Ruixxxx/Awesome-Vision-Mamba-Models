@@ -74,6 +74,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.06.05|Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis | [Link](https://arxiv.org/abs/2406.03430) |
 | Arxiv 24.06.24|Venturing into Uncharted Waters: The Navigation Compass from Transformer to Mamba | [Link](https://arxiv.org/abs/2406.16722) |
 | Arxiv 24.08.02|A Survey of Mamba | [Link](https://arxiv.org/pdf/2408.01129) |
+| Arxiv 24.10.03|A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond | [Link](https://arxiv.org/pdf/2410.02362) |
 | Arxiv 24.10.04|Mamba in Vision: A Comprehensive Survey of Techniques and Applications | [Link](https://arxiv.org/pdf/2410.03105) |
 
 ## Visual Mamba Backbone Networks
