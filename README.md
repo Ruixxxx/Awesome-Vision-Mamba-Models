@@ -325,7 +325,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.09.28| MambaEviScrib: Mamba and Evidence-Guided Consistency Make CNN Work Robustly for Scribble-Based Weakly Supervised Ultrasound Image Segmentation | ![image](https://github.com/user-attachments/assets/edb2f3e5-092e-42e3-bf71-7b71ffffba70) | [Link](https://arxiv.org/pdf/2409.19370) | [Code](https://github.com/GtLinyer/MambaEviScrib) | Medical Image Segmentation |
 | KDD 2024 Workshop | State Space Model-based Classification of Major Depressive Disorder Across Multiple Imaging Sites | ![image](https://github.com/user-attachments/assets/498dfcff-63be-4dcc-b182-032670211862) | [Link](https://openreview.net/pdf?id=wFgLDc4Gx8) |  | Medical Image Classification |
 | **Scientific Reports** 2024 | A mixed Mamba U-net for prostate segmentation in MR images | ![image](https://github.com/user-attachments/assets/864b7165-16dc-4b02-972a-1f8b8f55a9f5) | [Link](https://www.nature.com/articles/s41598-024-71045-7) |  | Medical Image Segmentation |
-| MICCAI 2024 | PathMamba: Weakly Supervised State Space Model for Multi-class Segmentation of Pathology Images |  |  |  | Medical Image Segmentation |
+| MICCAI 2024 | PathMamba: Weakly Supervised State Space Model for Multi-class Segmentation of Pathology Images | ![image](https://github.com/user-attachments/assets/5429107a-d2e0-4007-bbad-1623152c6b4c) | [Link](https://papers.miccai.org/miccai-2024/paper/1354_paper.pdf) | [Code](https://github.com/hemo0826/PathMamba) | Medical Image Segmentation |
 | MICCAI 2024 | Efficient and Gender-adaptive Graph Vision Mamba for Pediatric Bone Age Assessment |  |  |  | Bone Age Assessment |
 
 
