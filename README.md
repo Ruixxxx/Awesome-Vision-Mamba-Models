@@ -592,4 +592,5 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.09.30 | A SSM is Polymerized from Multivariate Time Series | ![image](https://github.com/user-attachments/assets/0cf7350f-b1ba-44a9-839d-7eb7fdd3c0d7) | [Link](https://arxiv.org/pdf/2409.20310) | [Code](https://github.com/Joeland4/Poly-Mamba) |
 | Arxiv 24.10.08 | TIMBA: Time series Imputation with Bi-directional Mamba Blocks and Diffusion models | ![image](https://github.com/user-attachments/assets/ff7ce27c-e93c-4ec5-85ab-7acd26ed0fa4) | [Link](https://arxiv.org/pdf/2410.05916) |  |
 | Arxiv 24.10.12 | Mamba4Cast: Efficient Zero-Shot Time Series Forecasting with State Space Models | ![image](https://github.com/user-attachments/assets/fedf6bc6-930f-4676-aa05-a5a814cae27c) | [Link](https://arxiv.org/pdf/2410.09385) | [Code](https://github.com/automl/Mamba4Cast) |
+| Arxiv 24.10.13 | SlimSeiz: Efficient Channel-Adaptive Seizure Prediction Using a Mamba-Enhanced Network | ![image](https://github.com/user-attachments/assets/d089f40c-77c5-4239-adb5-ea631915f810) | [Link](https://arxiv.org/pdf/2410.09998) | [Code](https://github.com/guoruilu/SlimSeiz) |
 
