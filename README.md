@@ -569,6 +569,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.10.01 | Zero-Shot Text-to-Speech from Continuous Text Streams | ![image](https://github.com/user-attachments/assets/e85ad94e-0064-4564-87b8-37dfe1088f44) | [Link](https://arxiv.org/pdf/2410.00767) | [Code](https://trungd.github.io/livespeech2/) |
 | Arxiv 24.10.09 (ICASSP 2025) | Mamba-based Segmentation Model for Speaker Diarization | ![image](https://github.com/user-attachments/assets/74b0360b-d2e1-42c2-8c96-09301e9e7d85) | [Link](https://arxiv.org/pdf/2410.06459) | [Code](https://github.com/nttcslab-sp/mamba-diarization) |
 | Arxiv 24.10.09 | Joint Fine-tuning and Conversion of Pretrained Speech and Language Models towards Linear Complexity | ![image](https://github.com/user-attachments/assets/5dc4b65b-fc47-4fd1-91a1-02109b1ae19b) | [Link](https://arxiv.org/pdf/2410.06846) |  |
+| Arxiv 24.10.14 | CleanUMamba: A Compact Mamba Network for Speech Denoising using Channel Pruning | ![image](https://github.com/user-attachments/assets/4424093f-9e41-4da9-9b9b-ad687fa40337) | [Link](https://arxiv.org/pdf/2410.11062) | [Code](https://github.com/lab-emi/CleanUMamba) |
 | Expert Systems with Applications 2024 | A barking emotion recognition method based on Mamba and Synchrosqueezing Short-Time Fourier Transform | ![image](https://github.com/user-attachments/assets/0d486a23-31f8-45cb-aca7-104623b66ff9) | [Link](https://www.sciencedirect.com/science/article/pii/S0957417424020803) | [Code](https://github.com/yangcjya/A-barking-emotion-recognition-method-based-on-Mamba) |
 
 
