@@ -110,6 +110,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.10.09 (NeurIPS 2024) | QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model | ![image](https://github.com/user-attachments/assets/ed6d246b-537f-4005-945a-a1fa4a52344e) ![image](https://github.com/user-attachments/assets/aa737a3c-218c-4c34-aca6-027f244a7738) | [Link](https://arxiv.org/pdf/2410.06806) | [Code](https://github.com/VISION-SJTU/QuadMamba) |
 | Arxiv 24.10.14 | GlobalMamba: Global Image Serialization for Vision Mamba | ![image](https://github.com/user-attachments/assets/390d3dd2-afc9-4c51-9332-97af356bc818) ![image](https://github.com/user-attachments/assets/056d845a-88a6-4d4c-801d-2582e00256ad) | [Link](https://arxiv.org/pdf/2410.10316) | [Code](https://github.com/wangck20/GlobalMamba) |
 | Arxiv 24.10.14 | V2M: Visual 2-Dimensional Mamba for Image Representation Learning | ![image](https://github.com/user-attachments/assets/efa9152d-469c-43e2-aa43-2a4808c1292f) | [Link](https://arxiv.org/pdf/2410.10382) | [Code](https://github.com/wangck20/V2M) |
+| Arxiv 24.10.19 | Spatial-Mamba: Effective Visual State Space Models via Structure-Aware State Fusion | ![image](https://github.com/user-attachments/assets/206daef9-1f48-471d-ba1a-e70f61817de2) ![image](https://github.com/user-attachments/assets/11722093-0a2d-49fe-bba8-1e4bf119d49b) | [Link](https://arxiv.org/pdf/2410.15091) | [Code](https://github.com/EdwardChasel/Spatial-Mamba) |
 
 
 
