@@ -473,6 +473,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.10.04| HMT-Grasp: A Hybrid Mamba-Transformer Approach for Robot Grasping in Cluttered Environments | ![image](https://github.com/user-attachments/assets/6cb1eca3-5a94-4100-acee-4eeb799931d2) | [Link](https://arxiv.org/pdf/2410.03522) |  | Robot Grasping | RGB-D Image & Grasp |
 | Arxiv 24.10.08| EMMA: Empowering Multi-modal Mamba with Structural and Hierarchical Alignment | ![image](https://github.com/user-attachments/assets/5408695c-aaac-441d-9a83-4c07ce7f56a2) | [Link](https://arxiv.org/pdf/2410.05938) |  | MLLM tasks | Image & Text |
 | Arxiv 24.10.10| Moyun: A Diffusion-Based Model for Style-Specific Chinese Calligraphy Generation | ![image](https://github.com/user-attachments/assets/89ab17e2-1918-4f1e-bc4f-784af8653dee) | [Link](https://arxiv.org/pdf/2410.07618) |  | Style-Specific Chinese Calligraphy Generation | Image & Text |
+| Arxiv 24.10.21| R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation | ![image](https://github.com/user-attachments/assets/8526d25b-3ea3-451d-b296-7c5d89e6c7b4) | [Link](https://arxiv.org/pdf/2410.18135) | [Code](https://github.com/YonghengSun1997/R2Gen-Mamba) | Radiology Report Generation | Image & Text |
 | TGRS 2024 | Mask-Guided Mamba Fusion for Drone-based Visible-Infrared Vehicle Detection | ![image](https://github.com/user-attachments/assets/a2f98be8-1559-4b9d-be31-ab47387794bd) | [Link](https://ieeexplore.ieee.org/abstract/document/10659747) |  | Cross-Modal Detection | RGB Images & Infrared Image |
 
 
