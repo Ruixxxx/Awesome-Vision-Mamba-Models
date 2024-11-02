@@ -530,6 +530,7 @@ If you find this repository is useful for you, please cite our paper:
 ### Reinforcement Learning
 | Date      | Paper | Figure    | Link | Code         |
 | :-------- | :---- | :-------- | :--- | :----------- |
+| Arxiv 24.03.25 (IROS 2024) | Proprioception Is All You Need: Terrain Classification for Boreal Forests | ![image](https://github.com/user-attachments/assets/5069bff5-6950-48f1-9854-3c7849ad7dca) | [Link](https://arxiv.org/pdf/2403.16877) | [Code](https://github.com/norlab-ulaval/BorealTC) |
 | Arxiv 24.05.20 (NeurIPS 2024) | Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning? | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/fa757c1f-c200-4387-8ee0-dc373eabf7d1) | [Link](https://arxiv.org/pdf/2405.12094) | |
 | Arxiv 24.05.31 | Decision Mamba: Reinforcement Learning via Hybrid Selective Sequence Modeling | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/e952bd58-10c9-4462-ae6d-0b28a62cbd3e) | [Link](https://arxiv.org/pdf/2406.00079) | |
 | Arxiv 24.06.04 | Mamba as Decision Maker: Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/6fe04182-4890-4d82-a0f0-69b7afcba05e) | [Link](https://arxiv.org/pdf/2406.02013) | [Code](https://github.com/AndyCao1125/MambaDM) |
