@@ -537,6 +537,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.09.23 | DiSPo: Diffusion-SSM based Policy Learning for Coarse-to-Fine Action Discretization | ![image](https://github.com/user-attachments/assets/80f9a9fd-d2a1-4ab8-a005-fe6957709934) | [Link](https://arxiv.org/pdf/2409.14719) |  |
 | Arxiv 24.10.11 | Drama: Mamba-Enabled Model-Based Reinforcement Learning Is Sample and Parameter Efficient | ![image](https://github.com/user-attachments/assets/32ddb0c8-492a-40c2-85f5-0434e720f92e) | [Link](https://arxiv.org/pdf/2410.08893) | [Code](https://github.com/realwenlongwang/drama) |
 | Arxiv 24.10.25 | Multi-Agent Reinforcement Learning with Selective State-Space Models | ![image](https://github.com/user-attachments/assets/7e98ce82-e984-4ed7-bf03-c494fd947d8f) | [Link](https://arxiv.org/pdf/2410.19382) | [Code](https://sites.google.com/view/multi-agent-mamba) |
+| Arxiv 24.10.29 | A Large Recurrent Action Model: xLSTM enables Fast Inference for Robotics Tasks | ![image](https://github.com/user-attachments/assets/5d0e5a01-008d-4e9a-a782-7233a03fb519) | [Link](https://arxiv.org/pdf/2410.22391) | [Code](https://github.com/ml-jku/LRAM) |
 
 
 ### Graph Learning
