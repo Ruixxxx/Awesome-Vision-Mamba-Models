@@ -409,6 +409,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.10.21| MBPU: A Plug-and-Play State Space Model for Point Cloud Upsamping with Fast Point Rendering | ![image](https://github.com/user-attachments/assets/a4eeddfa-1a81-47f6-8c29-23409aae702f) | [Link](https://arxiv.org/pdf/2410.15941) |  | Upsamping |
 | Arxiv 24.10.22| SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition | ![image](https://github.com/user-attachments/assets/627f14a5-d310-4cee-80c3-f766cc3baf3d) | [Link](https://arxiv.org/pdf/2410.16746) | [Code](https://github.com/Typistchen/SpikMamba) | Action Recognition |
 | Arxiv 24.10.24| Bio2Token: All-atom tokenization of any biomolecular structure with Mamba | ![image](https://github.com/user-attachments/assets/7f50127f-c278-40c8-b2c7-f593d6e57da2) | [Link](https://arxiv.org/pdf/2410.19110) |  | Tokenization |
+| Arxiv 24.10.28| Exploring contextual modeling with linear complexity for point cloud segmentation | ![image](https://github.com/user-attachments/assets/ab7bb5fc-fd80-4c67-8496-faae1d47e25d) | [Link](https://arxiv.org/pdf/2410.21211) |  | Semantic Segmentation |
 
 
 ### Multi-Modal
