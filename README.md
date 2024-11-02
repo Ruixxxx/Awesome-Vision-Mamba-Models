@@ -559,6 +559,7 @@ If you find this repository is useful for you, please cite our paper:
 ### Audio
 | Date      | Paper | Figure    | Link | Code         |
 | :-------- | :---- | :-------- | :--- | :----------- |
+| Arxiv 24.03.12 (IEEE SPL 2024) | Multichannel Long-Term Streaming Neural Speech Enhancement for Static and Moving Speakers | ![image](https://github.com/user-attachments/assets/a19b468c-c8de-4c69-9b09-da57676033f8) | [Link](https://arxiv.org/pdf/2403.07675) | [Code](https://github.com/Audio-WestlakeU/NBSS) |
 | Arxiv 24.04.02| SPMamba: State-space model is all you need in speech separation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/26057f58-3c03-4600-a0a4-24699035068a) | [Link](https://github.com/JusperLee/SPMamba) | |
 | Arxiv 24.05.02| TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/813edf33-51e8-4c9e-8ed6-11065464c6bc) | [Link](https://arxiv.org/pdf/2405.01242) | |
 | Arxiv 24.05.10| An Investigation of Incorporating Mamba for Speech Enhancement | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/88369000/d21c2e96-6e7b-471d-89c9-e88a20d07b2e) | [Link](https://arxiv.org/pdf/2405.06573) | |
