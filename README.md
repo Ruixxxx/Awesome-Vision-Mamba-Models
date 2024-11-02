@@ -616,4 +616,5 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.10.13 | SlimSeiz: Efficient Channel-Adaptive Seizure Prediction Using a Mamba-Enhanced Network | ![image](https://github.com/user-attachments/assets/d089f40c-77c5-4239-adb5-ea631915f810) | [Link](https://arxiv.org/pdf/2410.09998) | [Code](https://github.com/guoruilu/SlimSeiz) |
 | Arxiv 24.10.15 | UmambaTSF: A U-shaped Multi-Scale Long-Term Time Series Forecasting Method Using Mamba | ![image](https://github.com/user-attachments/assets/a7a36d06-3c1f-4b9b-9ad5-1750dc859946) | [Link](https://arxiv.org/pdf/2410.11278) |  |
 | Arxiv 24.10.17 | DiffImp: Efficient Diffusion Model for Probabilistic Time Series Imputation with Bidirectional Mamba Backbone | ![image](https://github.com/user-attachments/assets/6ad70193-cb40-4a4f-b390-512a462edd3e) | [Link](https://arxiv.org/pdf/2410.13338) |  |
+| Arxiv 24.10.30 | Sequential Order-Robust Mamba for Time Series Forecasting | ![image](https://github.com/user-attachments/assets/b21bf97a-d478-4718-a370-471772668036) | [Link](https://arxiv.org/pdf/2410.23356) | [Code](https://github.com/seunghan96/SOR-Mamba) |
 
