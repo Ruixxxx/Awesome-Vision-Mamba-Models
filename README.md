@@ -203,6 +203,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.10.28 (NeurIPS 2024) | ECMamba: Consolidating Selective State Space Model with Retinex Guidance for Efficient Multiple Exposure Correction | ![image](https://github.com/user-attachments/assets/b8811adf-0349-43bb-95fe-fa81e09a3c6f) | [Link](https://arxiv.org/pdf/2410.21535) | [Code](https://github.com/LowlevelAI/ECMamba) | Multiple Exposure Correction |
 | ACM MM 24.10.28 | Realistic Full-Body Motion Generation from Sparse Tracking with State Space Model | ![image](https://github.com/user-attachments/assets/5d917f28-0217-41e6-866b-e1870ec7bc56) | [Link](https://openreview.net/pdf?id=dA6yat7UNM) |  | Motion Generation |
 | Arxiv 24.10.30 | Adaptive Multi Scale Document Binarisation Using Vision Mamba | ![image](https://github.com/user-attachments/assets/36362af9-2296-4283-a1f3-f33bb1124f9c) | [Link](https://arxiv.org/pdf/2410.22811) |  | Document Binarisation |
+| Arxiv 24.11.06 | MambaPEFT: Exploring Parameter-Efficient Fine-Tuning for Mamba | ![image](https://github.com/user-attachments/assets/2ca4be2e-b4b5-4b3a-9e38-ee2656d10b8d) | [Link](https://arxiv.org/pdf/2411.03855) |  | Parameter-Efficient Fine-Tuning |
 | Arxiv 24.11.06 (NeurIPS 2024) | DiMSUM: Diffusion Mamba -- A Scalable and Unified Spatial-Frequency Method for Image Generation | ![image](https://github.com/user-attachments/assets/dc54353f-6c74-4d0c-b3a5-3af056c1862a) | [Link](https://arxiv.org/pdf/2411.04168) | [Code](https://github.com/VinAIResearch/DiMSUM) | Generation |
 
 
