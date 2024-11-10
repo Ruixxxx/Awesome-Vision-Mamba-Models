@@ -633,4 +633,5 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.10.28 | FACTS: A Factored State-Space Framework For World Modelling | ![image](https://github.com/user-attachments/assets/39000cde-bfc3-4310-9a84-bbc4fd8904e5) | [Link](https://arxiv.org/pdf/2410.20922) | [Code](https://github.com/NanboLi/FACTS) |
 | Arxiv 24.10.28 | Neural Hamilton: Can A.I. Understand Hamiltonian Mechanics? | ![image](https://github.com/user-attachments/assets/23ff518b-bd32-44e8-83fe-d4fd75285927) | [Link](https://arxiv.org/pdf/2410.20951) | [Code](https://github.com/Axect/Neural_Hamilton) |
 | Arxiv 24.10.30 (NeurIPS 2024 Workshop) | Sequential Order-Robust Mamba for Time Series Forecasting | ![image](https://github.com/user-attachments/assets/b21bf97a-d478-4718-a370-471772668036) | [Link](https://arxiv.org/pdf/2410.23356) | [Code](https://github.com/seunghan96/SOR-Mamba) |
+| Arxiv 24.11.05 | A Mamba Foundation Model for Time Series Forecasting | ![image](https://github.com/user-attachments/assets/0e205e0c-ef9f-4e6e-beae-8dd280dfb8f4) | [Link](https://arxiv.org/pdf/2411.02941) |  |
 
