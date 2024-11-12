@@ -6,13 +6,15 @@
 ![GitHub issues](https://img.shields.io/github/issues/Ruixxxx/Awesome-Vision-Mamba-Models?style=flat-square)
 [![Arxiv Page](https://img.shields.io/badge/Arxiv-2404.18861-red?style=flat-square)](https://arxiv.org/abs/2404.18861)
 
-[NEWS.2024/04/29] **Our [paper](https://arxiv.org/abs/2404.18861) is released!**
+[NEWS.2024/11/10] **The latest version of our [paper](https://arxiv.org/abs/2404.18861v3) (v3) is now available! This update includes numerous high-quality papers on visual Mamba.**
 
-[NEWS.2024/05/02] **🎉🎉🎉Congratulations to [Vision Mamba](https://arxiv.org/abs/2401.09417) on being accepted in ICML 2024.**
+[NEWS.2024/09/26] **🎉🎉🎉Congratulations to [VMamba](https://arxiv.org/abs/2401.10166) on being accepted in NeurIPS 2024.**
 
 [NEWS.2024/07/06] **The updated version of our [paper](https://arxiv.org/abs/2404.18861v2) is now available!**
 
-[NEWS.2024/09/26] **🎉🎉🎉Congratulations to [VMamba](https://arxiv.org/abs/2401.10166) on being accepted in NeurIPS 2024.**
+[NEWS.2024/05/02] **🎉🎉🎉Congratulations to [Vision Mamba](https://arxiv.org/abs/2401.09417) on being accepted in ICML 2024.**
+
+[NEWS.2024/04/29] **Our [paper](https://arxiv.org/abs/2404.18861) is released!**
 
 📢**NOTE:** If you have any questions, please don't hesitate to contact us at any of the following emails: [cseruixu@ust.hk](mailto:cseruixu@ust.hk), [syangcw@connect.ust.hk](mailto:syangcw@connect.ust.hk), [ywangrm@connect.ust.hk](mailto:ywangrm@connect.ust.hk), [yu.cai@connect.ust.hk](mailto:yu.cai@connect.ust.hk).
 
