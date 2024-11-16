@@ -260,6 +260,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.10.08| Remote Sensing Image Segmentation Using Vision Mamba and Multi-Scale Multi-Frequency Feature Fusion | ![image](https://github.com/user-attachments/assets/c8738881-274d-4892-b343-b7c87c7dd74f) ![image](https://github.com/user-attachments/assets/5604c4c6-5ab4-4532-ac15-9c1ed7ca7b98) | [Link](https://arxiv.org/pdf/2410.05624) |  | Segmentation |
 | Arxiv 24.10.17| RemoteDet-Mamba: A Hybrid Mamba-CNN Network for Multi-modal Object Detection in Remote Sensing Images | ![image](https://github.com/user-attachments/assets/5ae2f8d8-0349-4acf-b9bf-1e5fe8f35561) | [Link](https://arxiv.org/pdf/2410.13532) |  | Object Detection |
 | ACM MM 24.10.28 | VmambaSCI: Dynamic Deep Unfolding Network with Mamba for Compressive Spectral Imaging | ![image](https://github.com/user-attachments/assets/6ea4d939-31a1-4d89-84fb-e5abf7456e6b) | [Link](https://openreview.net/pdf?id=MNvMDbaQXa) |  | Compressive Spectral Imaging |
+| Arxiv 24.11.12 | CDXFormer: Boosting Remote Sensing Change Detection with Extended Long Short-Term Memory | ![image](https://github.com/user-attachments/assets/c22bc784-7487-4eb0-9641-9f3807224590) | [Link](https://arxiv.org/pdf/2411.07863) | [Code](https://github.com/xwmaxwma/rschange) | Change Detection |
 
 
 
