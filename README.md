@@ -502,6 +502,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.10.21| LMHaze: Intensity-aware Image Dehazing with a Large-scale Multi-intensity Real Haze Dataset | ![image](https://github.com/user-attachments/assets/9b7fefd0-78e9-4fbf-92e2-d08a6e6e8058) | [Link](https://arxiv.org/pdf/2410.16095) |  | Dehazing | Image & Text |
 | Arxiv 24.10.21 (ISBI 2025)| R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation | ![image](https://github.com/user-attachments/assets/8526d25b-3ea3-451d-b296-7c5d89e6c7b4) | [Link](https://arxiv.org/pdf/2410.18135) | [Code](https://github.com/YonghengSun1997/R2Gen-Mamba) | Radiology Report Generation | Image & Text |
 | Arxiv 24.11.03 | MambaReg: Mamba-Based Disentangled Convolutional Sparse Coding for Unsupervised Deformable Multi-Modal Image Registration | ![image](https://github.com/user-attachments/assets/06717802-a373-42e1-a61a-f8b1e3392000) | [Link](https://arxiv.org/pdf/2411.01399) |  | Registration | RGB Images & Infrared Images |
+| Arxiv 24.11.13 | Multimodal Instruction Tuning with Hybrid State Space Models | ![image](https://github.com/user-attachments/assets/aa5e3026-99e2-41bc-ab5f-96d9750d1041) | [Link](https://arxiv.org/pdf/2411.08840) |  | Zero-shot Multimodal/VQA | Image/Video & Text |
 
 
 
