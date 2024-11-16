@@ -209,6 +209,7 @@ If you find this repository is useful for you, please cite our paper:
 | Arxiv 24.11.05 | ShadowMamba: State-Space Model with Boundary-Region Selective Scan for Shadow Removal | ![image](https://github.com/user-attachments/assets/dbaced54-3942-4967-9190-7d65f051f240) | [Link](https://arxiv.org/pdf/2411.03260) |  | Shadow Removal |
 | Arxiv 24.11.06 | MambaPEFT: Exploring Parameter-Efficient Fine-Tuning for Mamba | ![image](https://github.com/user-attachments/assets/2ca4be2e-b4b5-4b3a-9e38-ee2656d10b8d) | [Link](https://arxiv.org/pdf/2411.03855) |  | Parameter-Efficient Fine-Tuning |
 | Arxiv 24.11.06 (NeurIPS 2024) | DiMSUM: Diffusion Mamba -- A Scalable and Unified Spatial-Frequency Method for Image Generation | ![image](https://github.com/user-attachments/assets/dc54353f-6c74-4d0c-b3a5-3af056c1862a) | [Link](https://arxiv.org/pdf/2411.04168) | [Code](https://github.com/VinAIResearch/DiMSUM) | Generation |
+| Arxiv 24.11.12 (NeurIPS2024 Workshop) | Diverse capability and scaling of diffusion and auto-regressive models when learning abstract rules | ![image](https://github.com/user-attachments/assets/a9b495f3-970e-45b6-a5a0-28f9f071240e) | [Link](https://arxiv.org/pdf/2411.07873) |  | Rule Learning/Reasoning |
 
 
 
