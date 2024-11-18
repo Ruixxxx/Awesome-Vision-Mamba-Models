@@ -39,6 +39,19 @@ If you find this repository is useful for you, please cite our paper:
 }
 ```
 
+Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
+```
+@inproceedings{MambaMIL,
+  author       = {Shu Yang and Yihui Wang and Hao Chen},
+  title        = {MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology},
+  booktitle    = {International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
+  volume       = {15004},
+  pages        = {296--306},
+  publisher    = {Springer},
+  year         = {2024}
+}
+```
+
 ## Contents
 - [Mamba](#mamba)
 - [Related Survey](#related-survey)
