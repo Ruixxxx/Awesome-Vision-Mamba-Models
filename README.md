@@ -680,4 +680,5 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.10.30 (NeurIPS 2024 Workshop) | Sequential Order-Robust Mamba for Time Series Forecasting | ![image](https://github.com/user-attachments/assets/b21bf97a-d478-4718-a370-471772668036) | [Link](https://arxiv.org/pdf/2410.23356) | [Code](https://github.com/seunghan96/SOR-Mamba) |
 | Arxiv 24.11.03 | BiT-MamSleep: Bidirectional Temporal Mamba for EEG Sleep Staging | ![image](https://github.com/user-attachments/assets/bb744ca8-ffee-4fcc-9655-dc1b85173113) | [Link](https://arxiv.org/pdf/2411.01589) |  |
 | Arxiv 24.11.05 | A Mamba Foundation Model for Time Series Forecasting | ![image](https://github.com/user-attachments/assets/0e205e0c-ef9f-4e6e-beae-8dd280dfb8f4) | [Link](https://arxiv.org/pdf/2411.02941) |  |
+| Arxiv 24.11.19 | Contrast Similarity-Aware Dual-Pathway Mamba for Multivariate Time Series Node Classification | ![image](https://github.com/user-attachments/assets/a26bb90a-ad03-46ae-99bb-42bed249cf13) | [Link](https://arxiv.org/pdf/2411.12222) | [Code](https://github.com/dumingsen/DPMamba) |
 
