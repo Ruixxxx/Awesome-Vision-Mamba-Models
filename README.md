@@ -452,6 +452,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.10.28| Exploring contextual modeling with linear complexity for point cloud segmentation | ![image](https://github.com/user-attachments/assets/ab7bb5fc-fd80-4c67-8496-faae1d47e25d) | [Link](https://arxiv.org/pdf/2410.21211) |  | Semantic Segmentation |
 | Arxiv 24.10.31| NIMBA: Towards Robust and Principled Processing of Point Clouds With SSMs | ![image](https://github.com/user-attachments/assets/ab55411a-2fad-44c0-b56f-ed3af6d3b497) | [Link](https://arxiv.org/pdf/2411.00151) |  | Classification, Part Segmentation |
 | Arxiv 24.11.06 | Towards 3D Semantic Scene Completion for Autonomous Driving: A Meta-Learning Framework Empowered by Deformable Large-Kernel Attention and Mamba Model | ![image](https://github.com/user-attachments/assets/258a9028-3693-49ce-a959-e695b3f725ba) | [Link](https://arxiv.org/pdf/2411.03672) |  | Semantic Scene Completion |
+| Arxiv 24.11.19 | STREAM: A Universal State-Space Model for Sparse Geometric Data | ![image](https://github.com/user-attachments/assets/1e244a27-43d8-426a-abe8-a4d6810ac89d) | [Link](https://arxiv.org/pdf/2411.12603) |  | Classification |
 
 
 ### Multi-Modal
