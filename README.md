@@ -378,6 +378,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.11.12| CT-Mamba: A Hybrid Convolutional State Space Model for Low-Dose CT Denoising | ![image](https://github.com/user-attachments/assets/80c60bd4-abea-4247-bc5b-a01b2ed56dba) | [Link](https://arxiv.org/pdf/2411.07930) |  | Denoising |
 | Arxiv 24.11.13| MambaXCTrack: Mamba-based Tracker with SSM Cross-correlation and Motion Prompt for Ultrasound Needle Tracking | ![image](https://github.com/user-attachments/assets/ea247e63-d801-414e-8a00-6e464f5c1841) | [Link](https://arxiv.org/pdf/2411.08395) |  | Ultrasound Needle Tracking |
 | Arxiv 24.11.14| When Mamba Meets xLSTM: An Efficient and Precise Method with the XLSTM-VMUNet Model for Skin lesion Segmentation | ![image](https://github.com/user-attachments/assets/5445aa00-b82a-4cff-b639-78ab7020bc3d) | [Link](https://arxiv.org/pdf/2411.09363) | [Code](https://github.com/MrFang/xLSTM-VMUNet) | Medical Image Segmentation |
+| Arxiv 24.11.20| Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning | ![image](https://github.com/user-attachments/assets/5fa4db79-8208-4cdf-8311-519a8084f2e3) | [Link](https://arxiv.org/pdf/2411.13623) |  | Medical Representation Learning |
 
 
 
