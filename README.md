@@ -226,6 +226,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.11.10 (WACV 2025) | SEM-Net: Efficient Pixel Modelling for Image Inpainting with Spatially Enhanced SSM | ![image](https://github.com/user-attachments/assets/515a6bc0-6816-4db6-be61-be2ae935a3c1) | [Link](https://arxiv.org/pdf/2411.06318) | [Code](https://github.com/ChrisChen1023/SEM-Net) | Inpainting |
 | Arxiv 24.11.11 (SPL 2024) | LFSamba: Marry SAM with Mamba for Light Field Salient Object Detection | ![image](https://github.com/user-attachments/assets/7356e25d-88e6-4dab-bf23-1c92c9225aa7) | [Link](https://arxiv.org/pdf/2411.06652) | [Code](https://github.com/liuzywen/LFScribble) | Detection |
 | Arxiv 24.11.12 (NeurIPS2024 Workshop) | Diverse capability and scaling of diffusion and auto-regressive models when learning abstract rules | ![image](https://github.com/user-attachments/assets/a9b495f3-970e-45b6-a5a0-28f9f071240e) | [Link](https://arxiv.org/pdf/2411.07873) |  | Rule Learning/Reasoning |
+| Arxiv 24.11.24 | MambaTrack: Exploiting Dual-Enhancement for Night UAV Tracking | ![image](https://github.com/user-attachments/assets/374d19d9-72fa-4988-aa3e-528a43034d20) | [Link](https://arxiv.org/pdf/2411.15761) |  | Night UAV Tracking |
 | Arxiv 24.11.25 | Deformable Mamba for Wide Field of View Segmentation | ![image](https://github.com/user-attachments/assets/418fe94e-54ca-4fc4-abf9-dcd7e8c39c93) | [Link](https://arxiv.org/pdf/2411.16481) | [Code](https://github.com/JieHu1996/DeformableMamba) | View Segmentation |
 
 
