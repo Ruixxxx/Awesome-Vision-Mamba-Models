@@ -408,6 +408,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.10.18 | MambaSCI: Efficient Mamba-UNet for Quad-Bayer Patterned Video Snapshot Compressive Imaging | ![image](https://github.com/user-attachments/assets/2648ba07-8861-4e96-8759-38ea5910ff97) | [Link](https://arxiv.org/pdf/2410.14214) | [Code](https://github.com/PAN083/MambaSCI) | Video Snapshot Compressive Imaging |
 | ACM MM 24.10.28 | Object-Level Pseudo-3D Lifting for Distance-Aware Tracking | ![image](https://github.com/user-attachments/assets/f266f533-4df0-4e1a-a464-ec10fcb4b5ae) | [Link](https://openreview.net/pdf?id=KBeJ7gxhCc) |  | Tracking |
 | Arxiv 24.11.03 | Optical Flow Representation Alignment Mamba Diffusion Model for Medical Video Generation | ![image](https://github.com/user-attachments/assets/434ae3e1-f73e-40ab-9fec-66fa9d972728) | [Link](https://arxiv.org/pdf/2411.01647) | [Code](https://wongzbb.github.io/MedSora/) | Medical Video Generation |
+| Arxiv 24.11.23 | MUFM: A Mamba-Enhanced Feedback Model for Micro Video Popularity Prediction | ![image](https://github.com/user-attachments/assets/a0eed33a-781a-4ea1-b01d-5950190f81fc) | [Link](https://arxiv.org/pdf/2411.15455) |  | Popularity Prediction |
 
 
 
