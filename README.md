@@ -546,6 +546,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.11.13 | Multimodal Instruction Tuning with Hybrid State Space Models | ![image](https://github.com/user-attachments/assets/aa5e3026-99e2-41bc-ab5f-96d9750d1041) | [Link](https://arxiv.org/pdf/2411.08840) |  | Zero-shot Multimodal/VQA | Image/Video & Text |
 | Arxiv 24.11.18 | RAWMamba: Unified sRGB-to-RAW De-rendering With State Space Model | ![image](https://github.com/user-attachments/assets/07498601-e9ff-42c2-8887-cfc55d0bfa3b) | [Link](https://arxiv.org/pdf/2411.11717) |  | De-rendering | RGB Images & RAW Images |
 | Arxiv 24.11.23 | MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking | ![image](https://github.com/user-attachments/assets/8c4b68f2-d32f-4aa2-937c-8eda08bba474) | [Link](https://arxiv.org/pdf/2411.15459) |  | Vision-Language Tracking | Image & Text |
+| Arxiv 24.11.23 | DiM-Gestor: Co-Speech Gesture Generation with Adaptive Layer Normalization Mamba-2 | ![image](https://github.com/user-attachments/assets/ad342a17-2257-4eeb-94b3-ab88d3d2aa57) | [Link](https://arxiv.org/pdf/2411.16729) | [Code](https://github.com/zf223669/DiMGestures) | Co-Speech Gesture Generation | Motion & Audio |
 
 
 
