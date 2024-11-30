@@ -130,6 +130,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.10.19 | Spatial-Mamba: Effective Visual State Space Models via Structure-Aware State Fusion | ![image](https://github.com/user-attachments/assets/206daef9-1f48-471d-ba1a-e70f61817de2) ![image](https://github.com/user-attachments/assets/11722093-0a2d-49fe-bba8-1e4bf119d49b) | [Link](https://arxiv.org/pdf/2410.15091) | [Code](https://github.com/EdwardChasel/Spatial-Mamba) |
 | Arxiv 24.10.22 | EfficientViM: Efficient Vision Mamba with Hidden State Mixer based State Space Duality | ![image](https://github.com/user-attachments/assets/97ad0c1f-dd85-474a-af49-be21864fc479) ![image](https://github.com/user-attachments/assets/46a02ac0-af4f-46f2-b2f2-ef7112b71478) | [Link](https://arxiv.org/pdf/2411.15241) | [Code](https://github.com/mlvlab/EfficientViM) |
 | Arxiv 24.11.24 | MobileMamba: Lightweight Multi-Receptive Visual Mamba Network | ![image](https://github.com/user-attachments/assets/801d833e-1cd2-479e-98df-94c7c1d9a09d) | [Link](https://arxiv.org/pdf/2411.15941) | [Code](https://github.com/lewandofskee/MobileMamba) |
+| Arxiv 24.11.26 | TinyViM: Frequency Decoupling for Tiny Hybrid Vision Mamba | ![image](https://github.com/user-attachments/assets/47604bbf-36c3-4cf1-bef4-d241ebed4968) | [Link](https://arxiv.org/pdf/2411.17473) | [Code](https://github.com/xwmaxwma/TinyViM) |
 
 
 
