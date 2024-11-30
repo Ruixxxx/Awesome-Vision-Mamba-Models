@@ -236,6 +236,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.11.23 | Mamba-CL: Optimizing Selective State Space Model in Null Space for Continual Learning | ![image](https://github.com/user-attachments/assets/4c1a4fe9-8c6d-4bf8-b9b0-3eb0837b869a) | [Link](https://arxiv.org/pdf/2411.15469) |  | Continual Learning |
 | Arxiv 24.11.24 | MambaTrack: Exploiting Dual-Enhancement for Night UAV Tracking | ![image](https://github.com/user-attachments/assets/374d19d9-72fa-4988-aa3e-528a43034d20) | [Link](https://arxiv.org/pdf/2411.15761) |  | Night UAV Tracking |
 | Arxiv 24.11.25 | Deformable Mamba for Wide Field of View Segmentation | ![image](https://github.com/user-attachments/assets/418fe94e-54ca-4fc4-abf9-dcd7e8c39c93) | [Link](https://arxiv.org/pdf/2411.16481) | [Code](https://github.com/JieHu1996/DeformableMamba) | View Segmentation |
+| Arxiv 24.11.27 | Vision Mamba Distillation for Low-resolution Fine-grained Image Classification | ![image](https://github.com/user-attachments/assets/fe95fe34-325b-44e7-8d6b-fd5678152591) | [Link](https://arxiv.org/pdf/2411.17980) | [Code](https://github.com/boa2004plaust/ViMD) | Classification |
 
 
 
