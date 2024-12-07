@@ -238,6 +238,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.11.24 | MambaTrack: Exploiting Dual-Enhancement for Night UAV Tracking | ![image](https://github.com/user-attachments/assets/374d19d9-72fa-4988-aa3e-528a43034d20) | [Link](https://arxiv.org/pdf/2411.15761) |  | Night UAV Tracking |
 | Arxiv 24.11.25 | Deformable Mamba for Wide Field of View Segmentation | ![image](https://github.com/user-attachments/assets/418fe94e-54ca-4fc4-abf9-dcd7e8c39c93) | [Link](https://arxiv.org/pdf/2411.16481) | [Code](https://github.com/JieHu1996/DeformableMamba) | View Segmentation |
 | Arxiv 24.11.27 | Vision Mamba Distillation for Low-resolution Fine-grained Image Classification | ![image](https://github.com/user-attachments/assets/fe95fe34-325b-44e7-8d6b-fd5678152591) | [Link](https://arxiv.org/pdf/2411.17980) | [Code](https://github.com/boa2004plaust/ViMD) | Classification |
+| Arxiv 24.12.01 | Learning Mamba as a Continual Learner | ![image](https://github.com/user-attachments/assets/78094d59-2e73-4c16-af8d-f6ea7112cdd1) | [Link](https://arxiv.org/pdf/2412.00776) |  | Continual Learning |
 | Arxiv 24.12.02 | MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection | ![image](https://github.com/user-attachments/assets/ddd4a19c-37d4-4d6d-9c14-fc4e669a0d82) | [Link](https://arxiv.org/pdf/2412.01422) | [Code](https://mamkpd.github.io/) | Keypoint Detection |
 
 
