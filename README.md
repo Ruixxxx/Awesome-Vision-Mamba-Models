@@ -293,6 +293,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | ACM MM 24.10.28 | VmambaSCI: Dynamic Deep Unfolding Network with Mamba for Compressive Spectral Imaging | ![image](https://github.com/user-attachments/assets/6ea4d939-31a1-4d89-84fb-e5abf7456e6b) | [Link](https://openreview.net/pdf?id=MNvMDbaQXa) |  | Compressive Spectral Imaging |
 | Arxiv 24.11.12 | MaDiNet: Mamba Diffusion Network for SAR Target Detection | ![image](https://github.com/user-attachments/assets/efb849f0-0a73-448e-ab3a-e191a07ee66d) | [Link](https://arxiv.org/pdf/2411.07500) | [Code](https://github.com/JoyeZLearning/MaDiNet) | SAR Target Detection |
 | Arxiv 24.11.12 | CDXFormer: Boosting Remote Sensing Change Detection with Extended Long Short-Term Memory | ![image](https://github.com/user-attachments/assets/c22bc784-7487-4eb0-9641-9f3807224590) | [Link](https://arxiv.org/pdf/2411.07863) | [Code](https://github.com/xwmaxwma/rschange) | Change Detection |
+| GRSL 24.11.27 | PPMamba:Enhancing Semantic Segmentation in Remote Sensing Imagery by SS2D | ![image](https://github.com/user-attachments/assets/283fdb69-3704-4d90-aa61-6e455e9ab975) | [Link](https://ieeexplore.ieee.org/document/10769411?denied=) | [Code](https://github.com/Jerrymo59/PPMambaSeg) | Semantic Segmentation |
 
 
 
