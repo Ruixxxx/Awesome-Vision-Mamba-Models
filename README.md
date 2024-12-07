@@ -607,6 +607,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.10.11 | Drama: Mamba-Enabled Model-Based Reinforcement Learning Is Sample and Parameter Efficient | ![image](https://github.com/user-attachments/assets/32ddb0c8-492a-40c2-85f5-0434e720f92e) | [Link](https://arxiv.org/pdf/2410.08893) | [Code](https://github.com/realwenlongwang/drama) |
 | Arxiv 24.10.25 | Multi-Agent Reinforcement Learning with Selective State-Space Models | ![image](https://github.com/user-attachments/assets/7e98ce82-e984-4ed7-bf03-c494fd947d8f) | [Link](https://arxiv.org/pdf/2410.19382) | [Code](https://sites.google.com/view/multi-agent-mamba) |
 | Arxiv 24.10.29 | A Large Recurrent Action Model: xLSTM enables Fast Inference for Robotics Tasks | ![image](https://github.com/user-attachments/assets/5d0e5a01-008d-4e9a-a782-7233a03fb519) | [Link](https://arxiv.org/pdf/2410.22391) | [Code](https://github.com/ml-jku/LRAM) |
+| Arxiv 24.11.29 | RMIO: A Model-Based MARL Framework for Scenarios with Observation Loss in Some Agents | ![image](https://github.com/user-attachments/assets/843b82a0-2837-484a-8475-0db52e303041) | [Link](https://arxiv.org/pdf/2411.19639) |  |
 | Arxiv 24.12.01 | Decision Transformer vs. Decision Mamba: Analysing the Complexity of Sequential Decision Making in Atari Games | ![image](https://github.com/user-attachments/assets/9075d146-952c-4c1d-ac1a-51cca688b3c3) | [Link](https://arxiv.org/pdf/2412.00725) | [Code](https://github.com/0x1DA9430/Decision-Transformer-vs-Decision-Mamba) |
 
 
