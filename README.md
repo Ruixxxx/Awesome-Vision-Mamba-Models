@@ -242,6 +242,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.12.01 | MambaNUT: Nighttime UAV Tracking via Mamba and Adaptive Curriculum Learning | ![image](https://github.com/user-attachments/assets/d97675ff-48b2-4fbf-b582-c9f3e01daa30) | [Link](https://arxiv.org/pdf/2412.00626) |  | Night UAV Tracking |
 | Arxiv 24.12.01 | Learning Mamba as a Continual Learner | ![image](https://github.com/user-attachments/assets/78094d59-2e73-4c16-af8d-f6ea7112cdd1) | [Link](https://arxiv.org/pdf/2412.00776) |  | Continual Learning |
 | Arxiv 24.12.02 | MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection | ![image](https://github.com/user-attachments/assets/ddd4a19c-37d4-4d6d-9c14-fc4e669a0d82) | [Link](https://arxiv.org/pdf/2412.01422) | [Code](https://mamkpd.github.io/) | Keypoint Detection |
+| Arxiv 24.12.10 | MPSI: Mamba enhancement model for pixel-wise sequential interaction Image Super-Resolution | ![image](https://github.com/user-attachments/assets/1edce6f3-f3c5-4143-95cc-1a26db16ab1f) | [Link](https://arxiv.org/pdf/2412.07222) |  | Super-resolution |
 | Arxiv 24.12.12 (AAAI 2025) | Selective Visual Prompting in Vision Mamba | ![image](https://github.com/user-attachments/assets/b4ecbad9-414f-4609-9332-652ee0079d2b) | [Link](https://arxiv.org/pdf/2412.08947) | [Code](https://github.com/zhoujiahuan1991/AAAI2025-SVP) | Domain Adaptation |
 
 
