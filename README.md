@@ -131,6 +131,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.10.22 | EfficientViM: Efficient Vision Mamba with Hidden State Mixer based State Space Duality | ![image](https://github.com/user-attachments/assets/97ad0c1f-dd85-474a-af49-be21864fc479) ![image](https://github.com/user-attachments/assets/46a02ac0-af4f-46f2-b2f2-ef7112b71478) | [Link](https://arxiv.org/pdf/2411.15241) | [Code](https://github.com/mlvlab/EfficientViM) |
 | Arxiv 24.11.24 | MobileMamba: Lightweight Multi-Receptive Visual Mamba Network | ![image](https://github.com/user-attachments/assets/801d833e-1cd2-479e-98df-94c7c1d9a09d) | [Link](https://arxiv.org/pdf/2411.15941) | [Code](https://github.com/lewandofskee/MobileMamba) |
 | Arxiv 24.11.26 | TinyViM: Frequency Decoupling for Tiny Hybrid Vision Mamba | ![image](https://github.com/user-attachments/assets/47604bbf-36c3-4cf1-bef4-d241ebed4968) | [Link](https://arxiv.org/pdf/2411.17473) | [Code](https://github.com/xwmaxwma/TinyViM) |
+| Arxiv 24.12.17 | GG-SSMs: Graph-Generating State Space Models | ![image](https://github.com/user-attachments/assets/3b81f315-4a3e-4c32-b095-0aa8fc60ea60) | [Link](https://arxiv.org/pdf/2412.12423) |  |
 | Arxiv 24.12.17 | Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training | ![image](https://github.com/user-attachments/assets/4b65b9bc-4444-4ca5-a6ad-299a1663af1e) | [Link](https://arxiv.org/pdf/2412.12496) | [Code](https://github.com/NUS-HPC-AI-Lab/R-MeeTo) |
 
 
@@ -656,6 +657,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.08.13| DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs | ![image](https://github.com/user-attachments/assets/41195b74-5e6e-4aba-b41c-9f030e4c96c0) | [Link](https://arxiv.org/pdf/2408.06966) | |
 | Arxiv 24.09.18| Topological Deep Learning with State-Space Models: A Mamba Approach for Simplicial Complexes | ![image](https://github.com/user-attachments/assets/d6041cb5-a57d-4974-8de3-98a1c885828e) | [Link](https://arxiv.org/pdf/2409.12033) | |
 | Arxiv 24.12.11 (AAAI 2025) | DG-Mamba: Robust and Efficient Dynamic Graph Structure Learning with Selective State Space Models | ![image](https://github.com/user-attachments/assets/2d37ee57-8e2c-4493-8422-6a54908e48a3) | [Link](https://arxiv.org/pdf/2412.08160) | [Code](https://github.com/RingBDStack/DG-Mamba) |
+
 
 
 ### Audio
