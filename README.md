@@ -246,6 +246,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.12.02 | MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection | ![image](https://github.com/user-attachments/assets/ddd4a19c-37d4-4d6d-9c14-fc4e669a0d82) | [Link](https://arxiv.org/pdf/2412.01422) | [Code](https://mamkpd.github.io/) | Keypoint Detection |
 | Arxiv 24.12.10 | MPSI: Mamba enhancement model for pixel-wise sequential interaction Image Super-Resolution | ![image](https://github.com/user-attachments/assets/1edce6f3-f3c5-4143-95cc-1a26db16ab1f) | [Link](https://arxiv.org/pdf/2412.07222) |  | Super-resolution |
 | Arxiv 24.12.12 (AAAI 2025) | Selective Visual Prompting in Vision Mamba | ![image](https://github.com/user-attachments/assets/b4ecbad9-414f-4609-9332-652ee0079d2b) | [Link](https://arxiv.org/pdf/2412.08947) | [Code](https://github.com/zhoujiahuan1991/AAAI2025-SVP) | Domain Adaptation |
+| Arxiv 24.12.13 | XYScanNet: An Interpretable State Space Model for Perceptual Image Deblurring | ![image](https://github.com/user-attachments/assets/9e45803a-e5bd-4407-b185-8d750499ca3e) | [Link](https://arxiv.org/pdf/2412.10338) |  | Deblurring |
 
 
 
