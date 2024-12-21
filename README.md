@@ -702,6 +702,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.11.15 | XLSR-Mamba: A Dual-Column Bidirectional State Space Model for Spoofing Attack Detection | ![image](https://github.com/user-attachments/assets/675c4578-51d5-4775-b092-02468f842372) | [Link](https://arxiv.org/pdf/2411.10027) |  |
 | Arxiv 24.11.21 | BEST-STD: Bidirectional Mamba-Enhanced Speech Tokenization for Spoken Term Detection | ![image](https://github.com/user-attachments/assets/2ddfae15-ee47-4963-bb06-7827609e819b) | [Link](https://arxiv.org/pdf/2411.14100) | [Code](https://github.com/anupsingh15/BEST-STD) |
 | Expert Systems with Applications 24.12.15 | A barking emotion recognition method based on Mamba and Synchrosqueezing Short-Time Fourier Transform | ![image](https://github.com/user-attachments/assets/0d486a23-31f8-45cb-aca7-104623b66ff9) | [Link](https://www.sciencedirect.com/science/article/pii/S0957417424020803) | [Code](https://github.com/yangcjya/A-barking-emotion-recognition-method-based-on-Mamba) |
+| Arxiv 24.12.17 | TAME: Temporal Audio-based Mamba for Enhanced Drone Trajectory Estimation and Classification | ![image](https://github.com/user-attachments/assets/577e3ac4-460c-4eaa-b087-8fb0298dea30) | [Link](https://arxiv.org/pdf/2412.13037) | [Code](https://github.com/AmazingDay1/TAME) |
 
 
 
