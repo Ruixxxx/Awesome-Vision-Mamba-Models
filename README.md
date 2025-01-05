@@ -457,6 +457,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.12.18 (AAAI 2025) | Robust Tracking via Mamba-based Context-aware Token Learning | ![image](https://github.com/user-attachments/assets/a31027a2-44b0-4cd0-91ae-ba3875fc1b85) | [Link](https://arxiv.org/pdf/2412.13611) | [Code](https://github.com/GXNU-ZhongLab/TemTrack) | Tracking |
 | Arxiv 24.12.18 | MambaLCT: Boosting Tracking via Long-term Context State Space Model | ![image](https://github.com/user-attachments/assets/fa3138ab-9c1a-4e09-a912-27e0c4df8cf3) | [Link](https://arxiv.org/pdf/2412.13615) | [Code](https://github.com/GXNU-ZhongLab/MambaLCT) | Tracking |
 | Arxiv 24.12.19 (AAAI 2025) | Efficient Self-Supervised Video Hashing with Selective State Spaces | ![image](https://github.com/user-attachments/assets/82ecb9f6-89e2-45aa-a2d7-c5a89f6cb2f4) | [Link](https://arxiv.org/pdf/2412.14518) | [Code](https://github.com/gimpong/AAAI25-S5VH) | Hashing |
+| Arxiv 24.12.28 | STNMamba: Mamba-based Spatial-Temporal Normality Learning for Video Anomaly Detection | ![image](https://github.com/user-attachments/assets/f829a4f5-9380-4036-887b-7c5cfe9be8f3) | [Link](https://arxiv.org/pdf/2412.20084) |  | Anomaly Detection |
 
 
 
