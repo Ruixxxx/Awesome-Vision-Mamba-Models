@@ -133,6 +133,8 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.11.26 | TinyViM: Frequency Decoupling for Tiny Hybrid Vision Mamba | ![image](https://github.com/user-attachments/assets/47604bbf-36c3-4cf1-bef4-d241ebed4968) | [Link](https://arxiv.org/pdf/2411.17473) | [Code](https://github.com/xwmaxwma/TinyViM) |
 | Arxiv 24.12.17 | GG-SSMs: Graph-Generating State Space Models | ![image](https://github.com/user-attachments/assets/3b81f315-4a3e-4c32-b095-0aa8fc60ea60) | [Link](https://arxiv.org/pdf/2412.12423) |  |
 | Arxiv 24.12.17 | Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training | ![image](https://github.com/user-attachments/assets/4b65b9bc-4444-4ca5-a6ad-299a1663af1e) | [Link](https://arxiv.org/pdf/2412.12496) | [Code](https://github.com/NUS-HPC-AI-Lab/R-MeeTo) |
+| Arxiv 24.12.29 (WACV 2025) | PTQ4VM: Post-Training Quantization for Visual Mamba | ![image](https://github.com/user-attachments/assets/10a41f63-c8dc-450f-b770-b418f8a28590) | [Link](https://arxiv.org/pdf/2412.20386) | [Code](https://github.com/YoungHyun197/ptq4vm) |
+
 
 
 
