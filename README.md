@@ -741,6 +741,8 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.12.22 (ICASSP 2025) | Temporal-Frequency State Space Duality: An Efficient Paradigm for Speech Emotion Recognition | ![image](https://github.com/user-attachments/assets/8c2238c1-63d2-4171-b87e-7c19474f5535) | [Link](https://arxiv.org/pdf/2412.16904) |  |
 | Arxiv 24.12.24 (APSIPA ASC 2024) | U-Mamba-Net: A highly efficient Mamba-based U-net style network for noisy and reverberant speech separation | ![image](https://github.com/user-attachments/assets/f6f41a05-0343-4274-91aa-e08a5783dbb3) | [Link](https://arxiv.org/pdf/2412.18217) |  |
 | Arxiv 24.12.26 (AAAI 2025) | BSDB-Net: Band-Split Dual-Branch Network with Selective State Spaces Mechanism for Monaural Speech Enhancement | ![image](https://github.com/user-attachments/assets/8ca8ad70-0cb5-4306-a346-c521ac1ff6c6) | [Link](https://arxiv.org/pdf/2412.19099) |  |
+| Arxiv 25.01.06 | Samba-ASR: State-Of-The-Art Speech Recognition Leveraging Structured State-Space Models | ![image](https://github.com/user-attachments/assets/d08a5031-28cd-44b9-b9b4-4cce2fb55aa9) | [Link](https://arxiv.org/pdf/2501.02832) |  |
+
 
 
 
