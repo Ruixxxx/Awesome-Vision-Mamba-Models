@@ -134,6 +134,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.12.17 | GG-SSMs: Graph-Generating State Space Models | ![image](https://github.com/user-attachments/assets/3b81f315-4a3e-4c32-b095-0aa8fc60ea60) | [Link](https://arxiv.org/pdf/2412.12423) |  |
 | Arxiv 24.12.17 | Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training | ![image](https://github.com/user-attachments/assets/4b65b9bc-4444-4ca5-a6ad-299a1663af1e) | [Link](https://arxiv.org/pdf/2412.12496) | [Code](https://github.com/NUS-HPC-AI-Lab/R-MeeTo) |
 | Arxiv 24.12.29 (WACV 2025) | PTQ4VM: Post-Training Quantization for Visual Mamba | ![image](https://github.com/user-attachments/assets/10a41f63-c8dc-450f-b770-b418f8a28590) | [Link](https://arxiv.org/pdf/2412.20386) | [Code](https://github.com/YoungHyun197/ptq4vm) |
+| Arxiv 25.01.08 | A Separable Self-attention Inspired by the State Space Model for Computer Vision | ![image](https://github.com/user-attachments/assets/ff94423d-fdd2-44e2-accf-3fc3c802e3e5) | [Link](https://arxiv.org/pdf/2501.02040) | [Code](https://github.com/yws-wxs/VMINet) |
 
 
 
