@@ -472,6 +472,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.12.19 (AAAI 2025) | Efficient Self-Supervised Video Hashing with Selective State Spaces | ![image](https://github.com/user-attachments/assets/82ecb9f6-89e2-45aa-a2d7-c5a89f6cb2f4) | [Link](https://arxiv.org/pdf/2412.14518) | [Code](https://github.com/gimpong/AAAI25-S5VH) | Hashing |
 | Arxiv 24.12.28 | MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing | ![image](https://github.com/user-attachments/assets/2ee8e29b-1ab9-4a51-9271-08f475792fc1) | [Link](https://arxiv.org/pdf/2412.20082) |  | Deep Visual Odometry |
 | Arxiv 24.12.28 | STNMamba: Mamba-based Spatial-Temporal Normality Learning for Video Anomaly Detection | ![image](https://github.com/user-attachments/assets/f829a4f5-9380-4036-887b-7c5cfe9be8f3) | [Link](https://arxiv.org/pdf/2412.20084) |  | Anomaly Detection |
+| Arxiv 25.01.23 | MV-GMN: State Space Model for Multi-View Action Recognition | ![image](https://github.com/user-attachments/assets/80f08897-332a-4f83-9b59-fa2d8ab84bca) | [Link](https://arxiv.org/pdf/2501.13829) |  | Action Recognition |
 
 
 
