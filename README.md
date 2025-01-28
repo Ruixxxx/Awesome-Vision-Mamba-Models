@@ -256,6 +256,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.12.28 | DepthMamba with Adaptive Fusion | ![image](https://github.com/user-attachments/assets/4ed8f2bd-855c-4b0c-86e4-3efd6b13fa41) | [Link](https://arxiv.org/pdf/2412.19964) |  | Multi-view Depth Estimation |
 | Arxiv 24.12.28 | MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration | ![image](https://github.com/user-attachments/assets/c57caff7-4f38-422f-b81e-2eee1f25d096) | [Link](https://arxiv.org/pdf/2412.20066) |  | Restoration |
 | Arxiv 25.01.08 | EDMB: Edge Detector with Mamba | ![image](https://github.com/user-attachments/assets/6aa009fa-f113-410d-975e-ab91d075a3d0) | [Link](https://arxiv.org/pdf/2501.04846) | [Code](https://github.com/Li-yachuan/EDMB) | Edge Detection |
+| Arxiv 25.01.23 | Contrast: A Hybrid Architecture of Transformers and State Space Models for Low-Level Vision | ![image](https://github.com/user-attachments/assets/19bd7337-36ae-48ac-9a47-8dca3546552b) | [Link](https://arxiv.org/pdf/2501.13353) |  | Super-resolution |
 | Arxiv 25.01.23 | MambaQuant: Quantizing the Mamba Family with Variance Aligned Rotation Methods | ![image](https://github.com/user-attachments/assets/9b40bf48-650d-4f3d-a877-acb1d5510735) | [Link](https://arxiv.org/pdf/2501.13484) | [Code](https://github.com/mambaquant/mambaquant) | Quantization |
 
 
