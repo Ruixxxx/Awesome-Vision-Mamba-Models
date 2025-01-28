@@ -691,6 +691,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.12.21 (AAAI 2025) | MOL-Mamba: Enhancing Molecular Representation with Structural & Electronic Insights | ![image](https://github.com/user-attachments/assets/b1490c90-87f6-4206-a336-b6f26618950b) | [Link](https://arxiv.org/pdf/2412.16483) | [Code](https://github.com/xian-sh/MOL-Mamba) |
 | Arxiv 24.12.23 (AAAI 2025) | BrainMAP: Learning Multiple Activation Pathways in Brain Networks | ![image](https://github.com/user-attachments/assets/cdece3b0-3ecc-4c6d-9d2f-d684817c9d90) | [Link](https://arxiv.org/pdf/2412.17404) | [Code](https://github.com/LzyFischer/Graph-Mamba) |
 | Arxiv 24.12.24 | Exploring Graph Mamba: A Comprehensive Survey on State-Space Models for Graph Learning | ![image](https://github.com/user-attachments/assets/877b6e15-7bd7-4369-8437-4cf2e4bb4f24) | [Link](https://arxiv.org/pdf/2412.18322) |  |
+| Arxiv 25.01.26 | Mamba-Based Graph Convolutional Networks: Tackling Over-smoothing with Selective State Space | ![image](https://github.com/user-attachments/assets/e9d067d3-622e-401f-bb05-ce1b1a35f49a) | [Link](https://arxiv.org/pdf/2501.15461) | [Code](https://anonymous.4open.science/r/MbaGCN-5894/README.md) |
 
 
 
