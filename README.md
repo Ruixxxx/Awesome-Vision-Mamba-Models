@@ -315,6 +315,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | TGRS 24.11.26 | Dynamic Token Augmentation Mamba for Cross-Scene Classification of Hyperspectral Image | ![image](https://github.com/user-attachments/assets/7875ab3c-0e20-4c9c-892f-a2a6147a4b8c) | [Link](https://ieeexplore.ieee.org/abstract/document/10768958?casa_token=AgqHwoE45fgAAAAA:QGbmKUKCq2DnLXvhQBO-fjiF1UuSr7wsa6Xc55DrjJBN80Q2dJCXt3BQ3dVgAwmiiUS2T-S9YQ) | [Code](https://github.com/Varro-pepsi/DTAM) | Cross-Scene Classification |
 | GRSL 24.11.27 | PPMamba:Enhancing Semantic Segmentation in Remote Sensing Imagery by SS2D | ![image](https://github.com/user-attachments/assets/283fdb69-3704-4d90-aa61-6e455e9ab975) | [Link](https://ieeexplore.ieee.org/document/10769411?denied=) | [Code](https://github.com/Jerrymo59/PPMambaSeg) | Semantic Segmentation |
 | Arxiv 25.01.02 (AAAI 2025) | Detail Matters: Mamba-Inspired Joint Unfolding Network for Snapshot Spectral Compressive Imaging | ![image](https://github.com/user-attachments/assets/7d367387-a0b7-405d-a7e7-6b3191bd41b6) | [Link](https://arxiv.org/pdf/2501.01262) | [Code](https://github.com/Mengjie-s/MiJUN) | Spectral Compressive Imaging |
+| Arxiv 25.01.26 | CD-Lamba: Boosting Remote Sensing Change Detection via a Cross-Temporal Locally Adaptive State Space Model | ![image](https://github.com/user-attachments/assets/59380a88-d1eb-48f0-a028-806a3de06419) | [Link](https://arxiv.org/pdf/2501.15455) | [Code](https://github.com/xwmaxwma/rschange) | Change Detection |
 
 
 
