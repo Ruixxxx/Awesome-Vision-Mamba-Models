@@ -765,6 +765,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.12.26 (AAAI 2025) | BSDB-Net: Band-Split Dual-Branch Network with Selective State Spaces Mechanism for Monaural Speech Enhancement | ![image](https://github.com/user-attachments/assets/8ca8ad70-0cb5-4306-a346-c521ac1ff6c6) | [Link](https://arxiv.org/pdf/2412.19099) |  |
 | Arxiv 25.01.03 (ICASSP 2025) | Improved Feature Extraction Network for Neuro-Oriented Target Speaker Extraction | ![image](https://github.com/user-attachments/assets/a72dcdc9-d5c3-4a5f-bc45-b9061a5510c9) | [Link](https://arxiv.org/pdf/2501.01673) |  |
 | Arxiv 25.01.06 | Samba-ASR: State-Of-The-Art Speech Recognition Leveraging Structured State-Space Models | ![image](https://github.com/user-attachments/assets/d08a5031-28cd-44b9-b9b4-4cce2fb55aa9) | [Link](https://arxiv.org/pdf/2501.02832) |  |
+| Arxiv 25.01.10 | xLSTM-SENet: xLSTM for Single-Channel Speech Enhancement | ![image](https://github.com/user-attachments/assets/99ef200c-7d25-4ba0-afd4-2754b0cdf56b) | [Link](https://arxiv.org/pdf/2501.06146) | [Code](https://github.com/NikolaiKyhne/xLSTM-SENet) |
 
 
 
