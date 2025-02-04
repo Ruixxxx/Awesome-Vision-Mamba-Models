@@ -684,6 +684,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.10.29 | A Large Recurrent Action Model: xLSTM enables Fast Inference for Robotics Tasks | ![image](https://github.com/user-attachments/assets/5d0e5a01-008d-4e9a-a782-7233a03fb519) | [Link](https://arxiv.org/pdf/2410.22391) | [Code](https://github.com/ml-jku/LRAM) |
 | Arxiv 24.11.29 | RMIO: A Model-Based MARL Framework for Scenarios with Observation Loss in Some Agents | ![image](https://github.com/user-attachments/assets/843b82a0-2837-484a-8475-0db52e303041) | [Link](https://arxiv.org/pdf/2411.19639) |  |
 | Arxiv 24.12.01 | Decision Transformer vs. Decision Mamba: Analysing the Complexity of Sequential Decision Making in Atari Games | ![image](https://github.com/user-attachments/assets/9075d146-952c-4c1d-ac1a-51cca688b3c3) | [Link](https://arxiv.org/pdf/2412.00725) | [Code](https://github.com/0x1DA9430/Decision-Transformer-vs-Decision-Mamba) |
+| Arxiv 25.01.21 | GLAM: Global-Local Variation Awareness in Mamba-based World Model | ![image](https://github.com/user-attachments/assets/23fe4b66-2418-4c0f-87f9-8ad07339c347) | [Link](https://arxiv.org/pdf/2501.11949) | [Code](https://github.com/GLAM2025/glam) |
 
 
 ### Graph Learning
