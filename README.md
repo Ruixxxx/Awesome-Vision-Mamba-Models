@@ -517,6 +517,7 @@ Other works of HKUST [SMART Lab](https://hkustsmartlab.github.io/):
 | Arxiv 24.10.31| NIMBA: Towards Robust and Principled Processing of Point Clouds With SSMs | ![image](https://github.com/user-attachments/assets/ab55411a-2fad-44c0-b56f-ed3af6d3b497) | [Link](https://arxiv.org/pdf/2411.00151) |  | Classification, Part Segmentation |
 | Arxiv 24.11.06 | Towards 3D Semantic Scene Completion for Autonomous Driving: A Meta-Learning Framework Empowered by Deformable Large-Kernel Attention and Mamba Model | ![image](https://github.com/user-attachments/assets/258a9028-3693-49ce-a959-e695b3f725ba) | [Link](https://arxiv.org/pdf/2411.03672) |  | Semantic Scene Completion |
 | Arxiv 24.11.19 | STREAM: A Universal State-Space Model for Sparse Geometric Data | ![image](https://github.com/user-attachments/assets/1e244a27-43d8-426a-abe8-a4d6810ac89d) | [Link](https://arxiv.org/pdf/2411.12603) |  | Classification |
+| Arxiv 25.01.21 (AAAI 2025) | SMamba: Sparse Mamba for Event-based Object Detection | ![image](https://github.com/user-attachments/assets/d5c62bf9-38ae-4778-be53-47c93858d163) | [Link](https://arxiv.org/pdf/2501.11971) | [Code](https://github.com/Zizzzzzzz/SMamba) | Object Detection |
 | Arxiv 25.01.27 (AISTATS 2025) | Application of Structured State Space Models to High energy physics with locality-sensitive hashing | ![image](https://github.com/user-attachments/assets/4f35a58b-8038-431d-b161-bfa058cfb009) | [Link](https://arxiv.org/pdf/2501.16237) | [Code](https://github.com/chengjiang123/Lampa) | High Energy Physics Tasks |
 
 
