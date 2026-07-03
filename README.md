@@ -49,7 +49,7 @@ Rui Xu, Shu Yang, Yihui Wang, Yu Cai, Bo Du, [Hao Chen](https://cse.hkust.edu.hk
 | :-------- | :---- | :-------- | :--- | :----------- |
 | COLM 2024 | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | <img width="300" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/9b1d1ebf-213b-4aa8-8cc9-852a62c997bf"><br><img width="300" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/25b4bb74-5592-4953-8667-cb40ecc72914"> |[Link](https://arxiv.org/pdf/2312.00752)|[Code](https://github.com/state-spaces/mamba)|
 | ICML 2024 | Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality | <img width="300" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/851656b3-b485-48d4-b7eb-51c0890c0e47"><br><img width="300" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/2605faae-8e96-4341-8468-d2d9a5e7c630"> |[Link](https://proceedings.mlr.press/v235/dao24a.html)|[Code](https://github.com/state-spaces/mamba)|
-| ICLR 2026 | Mamba-3: Improved Sequence Modeling using State Space Principles | | [Link](https://openreview.net/forum?id=HwCvaJOiCj) | [Code](https://github.com/state-spaces/mamba) |
+| ICLR 2026 | Mamba-3: Improved Sequence Modeling using State Space Principles | <img width="300" src="https://github.com/user-attachments/assets/e202c405-e904-4b3d-933b-b919478e7144" /> | [Link](https://openreview.net/forum?id=HwCvaJOiCj) | [Code](https://github.com/state-spaces/mamba) |
 
 ## Related Survey
 
