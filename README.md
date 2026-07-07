@@ -436,13 +436,13 @@ Rui Xu, Shu Yang, Yihui Wang, Yu Cai, Bo Du, [Hao Chen](https://cse.hkust.edu.hk
 
 | Venue | Paper | Link | Code         | Task                                                           |
 | :-------- | :---- | :--- | :----------- |:---------------------------------------------------------------|
-| ECCV 2024 | VideoMamba: State Space Model for Efficient Video Understanding | [Link](https://arxiv.org/abs/2403.06977) | [Code](https://github.com/OpenGVLab/VideoMamba) | Action Recognition/Video Understanding |
+| ECCV 2024 | VideoMamba: State Space Model for Efficient Video Understanding | [Link](https://arxiv.org/abs/2403.06977) | [Code](https://github.com/OpenGVLab/VideoMamba) | Video Understanding |
 | ICLR 2024 | SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces| [Link](https://arxiv.org/abs/2403.07711)|[Code](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)| Video Generation                                               |
 | IJCV 2026 | Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding | [Link](https://doi.org/10.1007/s11263-025-02597-y) | [Code](https://github.com/OpenGVLab/video-mamba-suite) | Video Understanding |
 | CVPR 2024 Workshop | VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting | [Link](https://arxiv.org/abs/2403.16536) | [Code](https://github.com/yyyujintang/VMRNN-PyTorch) | Spatiotemporal Forecasting                                     |
 | ICCV 2025 | Snakes and Ladders: Two Steps Up for VideoMamba | [Link](https://doi.org/10.1109/ICCV51701.2025.02246) | [Code](https://github.com/hotfinda/videomambapro) | Video Understanding |
 | AAAI 2025 | RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33204) | [Code](https://github.com/zizhengguo/RhythmMamba) | Remote Photoplethysmography |
-| NeurIPS 2024 | VFIMamba: Video Frame Interpolation with State Space Models | [Link](https://papers.nips.cc/paper_files/paper/2024/hash/c1e9db5e1b04322963af91ac0c943568-Abstract-Conference.html) | [Code](https://github.com/MCG-NJU/VFIMamba) | Video Frame Interpolation                                      |
+| NeurIPS 2024 | VFIMamba: Video Frame Interpolation with State Space Models | [Link](https://papers.nips.cc/paper_files/paper/2024/hash/c1e9db5e1b04322963af91ac0c943568-Abstract-Conference.html) | [Code](https://github.com/MCG-NJU/VFIMamba) | Frame Interpolation                                      |
 | ECCV 2024 | VideoMamba: Spatio-Temporal Selective State Space Model | [Link](https://arxiv.org/abs/2407.08476) | [Code](https://github.com/jinyjelly/VideoMamba) | Action Recognition                                             |
 | ACM MM 2024 Oral | RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining | [Link](https://arxiv.org/abs/2407.21773) | [Code](https://github.com/TonyHongtaoWu/RainMamba) | Deraining                                                      |
 | IEEE TCSVT 2025 | MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking | [Link](https://doi.org/10.1109/TCSVT.2025.3557992) |  | RGB-T Tracking |
@@ -466,11 +466,11 @@ Rui Xu, Shu Yang, Yihui Wang, Yu Cai, Bo Du, [Hao Chen](https://cse.hkust.edu.hk
 | CVPR 2025 | LC-Mamba: Local and Continuous Mamba with Shifted Windows for Frame Interpolation | [Link](https://openaccess.thecvf.com/content/CVPR2025/html/Jeong_LC-Mamba_Local_and_Continuous_Mamba_with_Shifted_Windows_for_Frame_CVPR_2025_paper.html) |  | Frame Interpolation |
 | ICCV 2025 | Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers | [Link](https://arxiv.org/abs/2503.11579) |  | Video Understanding |
 | ICCV 2025 | VSRM: A Robust Mamba-Based Framework for Video Super-Resolution | [Link](https://arxiv.org/abs/2506.22762) |  | Super-Resolution |
-| ICCV 2025 | EVDM: Event-based Real-World Video Deblurring with Mamba | [Link](https://openaccess.thecvf.com/content/ICCV2025/html/Sun_EVDM_Event-based_Real-world_Video_Deblurring_with_Mamba_ICCV_2025_paper.html) |  | Video Deblurring |
+| ICCV 2025 | EVDM: Event-based Real-World Video Deblurring with Mamba | [Link](https://openaccess.thecvf.com/content/ICCV2025/html/Sun_EVDM_Event-based_Real-world_Video_Deblurring_with_Mamba_ICCV_2025_paper.html) |  | Deblurring |
 | ICCV 2025 | EgoMusic-Driven Human Dance Motion Estimation with Skeleton Mamba | [Link](https://arxiv.org/abs/2508.10522) |  | Human Motion Estimation |
 | ICCV 2025 | PS-Mamba: Spatial-Temporal Graph Mamba for Pose Sequence Refinement | [Link](https://openaccess.thecvf.com/content/ICCV2025/html/Dong_PS-Mamba_Spatial-Temporal_Graph_Mamba_for_Pose_Sequence_Refinement_ICCV_2025_paper.html) |  | 3D Human Pose Estimation |
 | ICML 2025 | MoMa: Modulating Mamba for Adapting Image Foundation Models to Video Recognition | [Link](https://arxiv.org/abs/2506.23283) |  | Action Recognition |
-| ACM MM 2025 | UMSD: High Realism Motion Style Transfer via Unified Mamba-based Diffusion | [Link](https://dl.acm.org/doi/10.1145/3746027.3754873) |  | Motion Generation |
+| ACM MM 2025 | UMSD: High Realism Motion Style Transfer via Unified Mamba-based Diffusion | [Link](https://dl.acm.org/doi/10.1145/3746027.3754873) |  | Motion Style Transfer |
 | CVPR 2025 Highlight | Learning Phase Distortion with Selective State Space Models for Video Turbulence Mitigation | [Link](https://arxiv.org/abs/2504.02697) |  | Video Restoration |
 | CVPR 2025 Oral | Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining | [Link](https://arxiv.org/abs/2505.16811) |  | Video Restoration |
 | CVPR 2025 | Self-supervised ControlNet with Spatio-Temporal Mamba for Real-world Video Super-resolution | [Link](https://arxiv.org/abs/2506.01037) |  | Super-Resolution |
