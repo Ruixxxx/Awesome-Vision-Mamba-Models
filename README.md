@@ -71,7 +71,7 @@ Rui Xu, Shu Yang, Yihui Wang, Yu Cai, Bo Du, [Hao Chen](https://cse.hkust.edu.hk
 | AAAI 2025 | EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba | [Link](https://arxiv.org/abs/2403.09977) | [Code](https://github.com/TerryPei/EfficientVMamba) |
 | BMVC 2024 | PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition | [Link](https://arxiv.org/abs/2403.17695) | [Code](https://github.com/ChenhongyiYang/PlainMamba) |
 | NeurIPS 2024 | Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model | [Link](https://papers.nips.cc/paper_files/paper/2024/hash/2d69e771d9f274f7c624198ea74f5b98-Abstract-Conference.html) | [Code](https://github.com/YuHengsss/MSVMamba) |
-| NeurIPS 2024 | Vision Mamba Mender | [Link](https://openreview.net/pdf?id=9VnevS2YoR) | [Code](https://github.com/jiaconghu/Vision-Mamba-Mender) |
+| NeurIPS 2024 | Vision Mamba Mender | [Link](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5ce377d14a21ef1fea0400049ad324b4-Abstract-Conference.html) | [Code](https://github.com/jiaconghu/Vision-Mamba-Mender) |
 | NeurIPS 2024 | Exploring Token Pruning in Vision State Space Models | [Link](https://papers.nips.cc/paper_files/paper/2024/hash/5af741d487c5f0b08bfe56e11d1883e4-Abstract-Conference.html) |  |
 | NeurIPS 2024 | QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model | [Link](https://papers.nips.cc/paper_files/paper/2024/hash/d592bfaedf2f0861d7084cceba208d18-Abstract-Conference.html) | [Code](https://github.com/VISION-SJTU/QuadMamba) |
 | WACV 2025 | PTQ4VM: Post-Training Quantization for Visual Mamba | [Link](https://openaccess.thecvf.com/content/WACV2025/html/Cho_PTQ4VM_Post-Training_Quantization_for_Visual_Mamba_WACV_2025_paper.html) | [Code](https://github.com/YoungHyun197/ptq4vm) |
@@ -99,6 +99,11 @@ Rui Xu, Shu Yang, Yihui Wang, Yu Cai, Bo Du, [Hao Chen](https://cse.hkust.edu.hk
 | NeurIPS 2025 | TF-MAS: Training-free Mamba2 Architecture Search | [Link](https://papers.nips.cc/paper_files/paper/2025/hash/08561abd6843266509d95bf30b856283-Abstract-Conference.html) |  |
 | ICCV 2025 | OuroMamba: A Data-Free Quantization Framework for Vision Mamba | [Link](https://arxiv.org/abs/2503.10959) |  |
 | ICASSP 2025 | MambaNext: An Enhanced Backbone Network with Focus Linear Attention | [Link](https://doi.org/10.1109/ICASSP49660.2025.10887988) |  |
+| AAAI 2026 | 2D-CrossScan Mamba: Enhancing State Space Models with Spatially Consistent Multi-Path 2D Information Propagation | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/38855) |  |
+| WACV 2026 | Fast Vision Mamba: Pooling Spatial Dimensions for Accelerated Processing | [Link](https://arxiv.org/abs/2502.00594) | [Code](https://github.com/insitro/FastVim) |
+| CVPR 2026 | HAMSA: Scanning-Free Vision State Space Models via SpectralPulseNet | [Link](https://arxiv.org/abs/2604.14724) |  |
+| ICML 2026 | Partial Ring Scan: Revisiting Scan Order in Vision State Space Models | [Link](https://icml.cc/virtual/2026/poster/66490) |  |
+| ICML 2026 | Deformba: Vision State Space Model with Adaptive State Fusion | [Link](https://icml.cc/virtual/2026/poster/66385) | [Code](https://github.com/amai-gsu/Deformba) |
 
 
 
@@ -207,6 +212,19 @@ Rui Xu, Shu Yang, Yihui Wang, Yu Cai, Bo Du, [Hao Chen](https://cse.hkust.edu.hk
 | ICASSP 2025 | RestorMamba: An Enhanced Synergistic State Space Model for Image Restoration | [Link](https://doi.org/10.1109/ICASSP49660.2025.10889889) |  | Image Restoration |
 | ICASSP 2025 Oral | First-order State Space Model for Lightweight Image Super-resolution | [Link](https://doi.org/10.1109/ICASSP49660.2025.10887656) |  | Super-resolution |
 | ECAI 2025 | DA-Mamba: Domain Adaptive Hybrid Mamba-Transformer Based One-Stage Object Detection | [Link](https://ebooks.iospress.nl/doi/10.3233/FAIA251152) | [Code](https://github.com/enesdoruk/DA-Mamba) | Object Detection |
+| AAAI 2026 | Depth-Synergized Mamba Meets Memory Experts for All-Day Image Reflection Separation | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/37386) |  | Image Restoration |
+| AAAI 2026 | Rectification Reimagined: A Unified Mamba Model for Image Correction and Rectangling with Prompts | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/37811) |  | Image Correction |
+| AAAI 2026 | Disentangled Hypergraph-Guided Mamba Scanning for Fine-Grained Visual Recognition | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/38098) |  | Fine-grained Recognition |
+| ICLR 2026 | WIMFRIS: WIndow Mamba Fusion and Parameter Efficient Tuning for Referring Image Segmentation | [Link](https://openreview.net/forum?id=WnRzN4U8Y8) |  | Referring Image Segmentation |
+| ICLR 2026 | Content-Aware Mamba for Learned Image Compression | [Link](https://openreview.net/forum?id=WwDNiisZQm) |  | Image Compression |
+| WACV 2026 | DF-Mamba: Deformable State Space Modeling for 3D Hand Pose Estimation in Interactions | [Link](https://arxiv.org/abs/2512.02727) |  | 3D Hand Pose Estimation |
+| WACV 2026 | SasMamba: A Lightweight Structure-Aware Stride State Space Model for 3D Human Pose Estimation | [Link](https://arxiv.org/abs/2511.08872) |  | 3D Human Pose Estimation |
+| CVPR 2026 | DA-Mamba: Learning Domain-Aware State Space Model for Global-Local Alignment in Domain Adaptive Object Detection | [Link](https://arxiv.org/abs/2603.18757) |  | Object Detection |
+| CVPR 2026 | MambaSIC: Mamba-based Stereo Image Compression with Bi-directional Multi-reference Entropy Model | [Link](https://openreview.net/forum?id=0dHrYUd17W) |  | Image Compression |
+| CVPR 2026 | MambaCS: Multi-Scale Gradient-Guided Unrolling Architecture with Adaptive Mamba for Compressive Sensing | [Link](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_Multi-Scale_Gradient-Guided_Unrolling_Architecture_with_Adaptive_Mamba_for_Compressive_Sensing_CVPR_2026_paper.html) |  | Compressive Sensing |
+| CVPR 2026 Findings | Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration | [Link](https://arxiv.org/abs/2503.21970) |  | Image Restoration |
+| CVPR 2026 | MixerCSeg: An Efficient Mixer Architecture for Crack Segmentation via Decoupled Mamba Attention | [Link](https://arxiv.org/abs/2603.01361) | [Code](https://github.com/spiderforest/MixerCSeg) | Crack Segmentation |
+| WACV 2026 | Forensim: Can Image Splicing and Copy-Move Forgery Be Detected by the Same Model? An Attention-Based State-Space Approach | [Link](https://arxiv.org/abs/2602.10079) |  | Image Forgery Detection |
 
 
 
@@ -264,6 +282,10 @@ Rui Xu, Shu Yang, Yihui Wang, Yu Cai, Bo Du, [Hao Chen](https://cse.hkust.edu.hk
 | IJCAI 2025 | DPMamba: Distillation Prompt Mamba for Multimodal Remote Sensing Image Classification with Missing Modalities | [Link](https://doi.org/10.24963/ijcai.2025/248) |  | Remote Sensing Image Classification |
 | ICASSP 2025 | SSRMamba: Efficient Visual State Space Model for Spectral Super-Resolution | [Link](https://doi.org/10.1109/ICASSP49660.2025.10887701) |  | Super-resolution |
 | ICASSP 2025 | SSFMamba: Spatial-Spectral Fusion State Space Model for Pansharpening | [Link](https://doi.org/10.1109/ICASSP49660.2025.10889877) |  | Pansharpening |
+| AAAI 2026 | MFmamba: A Multi-function Network for Panchromatic Image Resolution Restoration Based on State-Space Model | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/37457) |  | Pansharpening |
+| AAAI 2026 | M3SR: Multi-Scale Multi-Perceptual Mamba for Efficient Spectral Reconstruction | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/38297) |  | Hyperspectral Reconstruction |
+| AAAI 2026 | MMMamba: A Versatile Cross-Modal in Context Fusion Framework for Pan-Sharpening and Zero-Shot Image Enhancement | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/38933) |  | Pansharpening |
+| WACV 2026 | DMS2F-HAD: A Dual-branch Mamba-based Spatial-Spectral Fusion Network for Hyperspectral Anomaly Detection | [Link](https://arxiv.org/abs/2602.04102) | [Code](https://github.com/Ayushma00/DMS2F-HAD) | Hyperspectral Anomaly Detection |
 
 
 
@@ -380,6 +402,11 @@ Rui Xu, Shu Yang, Yihui Wang, Yu Cai, Bo Du, [Hao Chen](https://cse.hkust.edu.hk
 | ICASSP 2025 | Edge-Interaction Mamba Network for MRI Brain Tumor Segmentation | [Link](https://doi.org/10.1109/ICASSP49660.2025.10889470) |  | Tumor Segmentation |
 | ICASSP 2025 | PHMamba: Preheating State Space Models with Context-Augmented Features for Medical Image Segmentation | [Link](https://doi.org/10.1109/ICASSP49660.2025.10890290) |  | Medical Image Segmentation |
 | ICASSP 2025 | Causal fMRI-Mamba: Causal State Space Model for Neural Decoding and Brain Task States Recognition | [Link](https://doi.org/10.1109/ICASSP49660.2025.10889151) |  | fMRI Analysis |
+| AAAI 2026 | EccoMamba: Enhanced Cross-hierarchical Continuity Orthogonal Mamba for Medical Image Segmentation | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/38109) |  | Medical Image Segmentation |
+| WACV 2026 | Hymavi: A Hybrid Mamba-Attention Network in Multi-View Framework for Volumetric Medical Image Segmentation | [Link](https://openaccess.thecvf.com/content/WACV2026/html/Tran_Hymavi__A_Hybrid_Mamba-Attention_Network_in_Multi-View_Framework_for_WACV_2026_paper.html) |  | Medical Image Segmentation |
+| ICASSP 2026 | ConfMamba-SAM: Structured State Space Modeling with Memory-Augmented Prompting for Automatic Brain Lesion Segmentation | [Link](https://doi.org/10.1109/ICASSP55912.2026.11464340) |  | Medical Image Segmentation |
+| CVPR 2026 | MambaLiteUNet: Cross-Gated Adaptive Feature Fusion for Robust Skin Lesion Segmentation | [Link](https://arxiv.org/abs/2604.20286) |  | Medical Image Segmentation |
+| CVPR 2026 | VEMamba: Efficient Isotropic Reconstruction of Volume Electron Microscopy with Axial-Lateral Consistent Mamba | [Link](https://arxiv.org/abs/2603.00887) |  | EM Reconstruction |
 
 
 
@@ -434,6 +461,15 @@ Rui Xu, Shu Yang, Yihui Wang, Yu Cai, Bo Du, [Hao Chen](https://cse.hkust.edu.hk
 | CVPR 2025 Workshop | Dyadic Mamba: Long-term Dyadic Human Motion Synthesis | [Link](https://arxiv.org/abs/2505.09827) |  | Motion Synthesis |
 | ICASSP 2025 | Sign-Mamba: Advanced Mamba-Based Sign Language Generation | [Link](https://doi.org/10.1109/ICASSP49660.2025.10890373) |  | Motion Generation |
 | ICASSP 2025 | DSSM: Dual State Space Model for Human Motions Generation | [Link](https://doi.org/10.1109/ICASSP49660.2025.10888250) |  | Motion Generation |
+| AAAI 2026 | MambaOVSR: Multiscale Fusion with Global Motion Modeling for Chinese Opera Video Super-Resolution | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/37261) |  | Video Super-resolution |
+| ICLR 2026 | ConvT3: Structured State Kernels for Convolutional State Space Models | [Link](https://openreview.net/forum?id=w7csRoB5CO) |  | Video Generation |
+| CVPR 2026 | RS-SSM: Refining Forgotten Specifics in State Space Model for Video Semantic Segmentation | [Link](https://arxiv.org/abs/2603.24295) |  | Video Semantic Segmentation |
+| CVPR 2026 | M4V: Multimodal Mamba for Efficient Text-to-Video Generation | [Link](https://arxiv.org/abs/2506.10915) |  | Video Generation |
+| CVPR 2026 | HieraMamba: Video Temporal Grounding via Hierarchical Anchor-Mamba Pooling | [Link](https://arxiv.org/abs/2510.23043) |  | Temporal Grounding |
+| CVPR 2026 | MS-Temba: Multi-Scale Temporal Mamba for Understanding Long Untrimmed Videos | [Link](https://arxiv.org/abs/2501.06138) |  | Temporal Action Detection |
+| CVPR 2026 | EgoFlow: Gradient-Guided Flow Matching for Egocentric 6DoF Object Motion Generation | [Link](https://arxiv.org/abs/2604.01421) |  | Motion Generation |
+| CVPR 2026 Findings | MVSSM: Motion-aware Visual State Space Model for Efficient Video Deblurring | [Link](https://openaccess.thecvf.com/content/CVPR2026F/html/Zhou_MVSSM_Motion-aware_Visual_State_Space_Model_for_Efficient_Video_Deblurring_CVPRF_2026_paper.html) | [Code](https://github.com/Frank-Zhou-01/MVSSM) | Video Deblurring |
+| ICML 2026 | StructMamPose: From Sequential Perception to Structural Reasoning for 3D Human Pose Estimation | [Link](https://icml.cc/virtual/2026/poster/66580) |  | 3D Human Pose Estimation |
 
 
 
@@ -471,6 +507,16 @@ Rui Xu, Shu Yang, Yihui Wang, Yu Cai, Bo Du, [Hao Chen](https://cse.hkust.edu.hk
 | CVPR 2025 | UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection | [Link](https://arxiv.org/abs/2503.12009) |  | 3D Object Detection |
 | CVPR 2025 | PMA: Towards Parameter-Efficient Point Cloud Understanding via Point Mamba Adapter | [Link](https://arxiv.org/abs/2505.20941) |  | Point Cloud Analysis |
 | ICCV 2025 | UST-SSM: Unified Spatio-Temporal State Space Models for Point Cloud Video Modeling | [Link](https://arxiv.org/abs/2508.14604) |  | Point Cloud Analysis |
+| AAAI 2026 | Seeing in Double: Dual-Granularity BEV Segmentation via Mamba-Driven Alignment and Polar-Decoupled Experts | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/37238) |  | BEV Segmentation |
+| AAAI 2026 | DAPointMamba: Domain Adaptive Point Mamba for Point Cloud Completion | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/37596) |  | Point Cloud Completion |
+| AAAI 2026 | CloudMamba: Grouped Selective State Spaces for Point Cloud Analysis | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/37818) |  | Point Cloud Analysis |
+| AAAI 2026 | BeyondSparse: Facilitating Mamba to Enhance Cross-Domain 3D Semantic Segmentation in Adverse Weather | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/38058) |  | LiDAR Semantic Segmentation |
+| AAAI 2026 | WinMamba: Multi-Scale Shifted Windows in State Space Model for 3D Object Detection | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/38347) |  | 3D Object Detection |
+| WACV 2026 | Towards Streaming LiDAR Object Detection with Point Clouds as Egocentric Sequences | [Link](https://arxiv.org/abs/2506.06944) |  | 3D Object Detection |
+| CVPR 2026 | GEM: Generating LiDAR World Model via Deformable Mamba | [Link](https://arxiv.org/abs/2605.07326) |  | LiDAR World Model |
+| ICML 2026 | NeuroMamba: A Universal Spatiotemporal Module for Robust Perception in Degraded Sensory Streams | [Link](https://icml.cc/virtual/2026/poster/61841) |  | Autonomous Perception |
+| CVPR 2026 | Mamba Learns in Context: Structure-Aware Domain Generalization for Multi-Task Point Cloud Understanding | [Link](https://arxiv.org/abs/2603.20739) |  | Point Cloud Understanding |
+| WACV 2026 | MEGA-PCC: A Mamba-based Efficient Approach for Joint Geometry and Attribute Point Cloud Compression | [Link](https://arxiv.org/abs/2512.22463) |  | Point Cloud Compression |
 
 
 ### Multi-Modal
@@ -559,6 +605,13 @@ Rui Xu, Shu Yang, Yihui Wang, Yu Cai, Bo Du, [Hao Chen](https://cse.hkust.edu.hk
 | NeurIPS 2025 | SaFiRe: Saccade-Fixation Reiteration with Mamba for Referring Image Segmentation | [Link](https://arxiv.org/abs/2510.10160) |  | Referring Segmentation | Image & Text |
 | ICCV 2025 | MambaFusion: Height-Fidelity Dense Global Fusion for Multi-modal 3D Object Detection | [Link](https://arxiv.org/abs/2507.04369) |  | 3D Object Detection | Camera & LiDAR |
 | ICCV 2025 | WaveMamba: Wavelet-Driven Mamba Fusion for RGB-Infrared Object Detection | [Link](https://arxiv.org/abs/2507.18173) |  | Object Detection | RGB & Infrared Images |
+| AAAI 2026 | MambaSeg: Harnessing Mamba for Accurate and Efficient Image-Event Semantic Segmentation | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/42427) |  | Semantic Segmentation | RGB Images & Event Data |
+| AAAI 2026 | Self-supervised Multiplex Consensus Mamba for General Image Fusion | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/38932) |  | Image Fusion | Multi-Modal Images |
+| CVPR 2026 | TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding | [Link](https://arxiv.org/abs/2511.16595) |  | Video Understanding | Video & Text |
+| CVPR 2026 | Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models | [Link](https://arxiv.org/abs/2602.20981) |  | Video-to-Audio Generation | Video & Audio |
+| CVPR 2026 | RI-Mamba: Rotation-Invariant Mamba for Robust Text-to-Shape Retrieval | [Link](https://arxiv.org/abs/2602.11673) | [Code](https://github.com/ndkhanh360/RI-Mamba) | Text-to-Shape Retrieval | Text & 3D Point Cloud |
+| CVPR 2026 | VIMCAN: Visual-Inertial 3D Human Pose Estimation with Hybrid Mamba-Cross-Attention Network | [Link](https://arxiv.org/abs/2605.07552) | [Code](https://github.com/Eddieyzp/VIMCAN) | Pose Estimation | Image & IMU |
+| CVPR 2026 | AIMDepth: Asymmetric Image-Event Mamba for Monocular Depth Estimation | [Link](https://openaccess.thecvf.com/content/CVPR2026/html/Jing_AIMDepth_Asymmetric_Image-Event_Mamba_for_Monocular_Depth_Estimation_CVPR_2026_paper.html) |  | Depth Estimation | RGB Images & Event Data |
 
 
 
@@ -577,6 +630,11 @@ Rui Xu, Shu Yang, Yihui Wang, Yu Cai, Bo Du, [Hao Chen](https://cse.hkust.edu.hk
 | CVPR 2025 | Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM | [Link](https://arxiv.org/abs/2503.10898) |  | Trajectory Prediction |
 | CVPR 2025 Workshop | U-Shape Mamba: State Space Model for faster diffusion | [Link](https://arxiv.org/abs/2504.13499) | [Code](https://github.com/ErgastiAlex/U-Shape-Mamba) | Diffusion Acceleration |
 | ICASSP 2025 | Stochastic-Aware Mamba Diffusion for Pedestrian Trajectory Prediction | [Link](https://doi.org/10.1109/ICASSP49660.2025.10890776) |  | Trajectory Prediction |
+| WACV 2026 | SSMRadNet: A Sample-wise State-Space Framework for Efficient and Ultra-Light Radar Segmentation and Object Detection | [Link](https://arxiv.org/abs/2511.08769) |  | Radar Object Detection |
+| WACV 2026 | milliMamba: Specular-Aware Human Pose Estimation via Dual mmWave Radar with Multi-Frame Mamba Fusion | [Link](https://arxiv.org/abs/2512.20128) |  | Radar-based Pose Estimation |
+| CVPR 2026 | MARSS: Radar Semantic Segmentation via Modular Attention and State Space Models | [Link](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_MARSS_Radar_Semantic_Segmentation_via_Modular_Attention_and_State_Space_CVPR_2026_paper.html) |  | Radar Semantic Segmentation |
+| CVPR 2026 | FoSS: Modeling Long-Range Dependencies and Multimodal Uncertainty in Trajectory Prediction via Fourier-State Space Integration | [Link](https://arxiv.org/abs/2603.01284) |  | Trajectory Prediction |
+| WACV 2026 | Not Like Transformers: Drop the Beat Representation for Dance Generation with Mamba-Based Diffusion Model | [Link](https://arxiv.org/abs/2603.08023) |  | Dance Generation |
 
 
 
@@ -594,6 +652,8 @@ Rui Xu, Shu Yang, Yihui Wang, Yu Cai, Bo Du, [Hao Chen](https://cse.hkust.edu.hk
 | ICML 2025 Workshop | State Space Models: A Naturally Robust Alternative to Transformers in Computer Vision | [Link](https://arxiv.org/abs/2403.10935) |
 | ICLR 2025 Spotlight | Demystifying the Token Dynamics of Deep Selective State Space Models | [Link](https://openreview.net/forum?id=qtTIP5Gjc5) |
 | ACL 2025 | Mamba Knockout for Unraveling Factual Information Flow | [Link](https://arxiv.org/abs/2505.24244) |
+| CVPR 2026 | RNN as Linear Transformer: A Closer Investigation into Representational Potentials of Visual Mamba Models | [Link](https://arxiv.org/abs/2511.18380) | [Code](https://github.com/yangtiming/Dino-Mamba) |
+| CVPR 2026 Findings | Exemplar-Free Continual Learning for State Space Models | [Link](https://arxiv.org/abs/2505.18604) |
 
 
 ## Other Domains
@@ -631,6 +691,7 @@ Rui Xu, Shu Yang, Yihui Wang, Yu Cai, Bo Du, [Hao Chen](https://cse.hkust.edu.hk
 | IJCAI 2025 | Mamba-Based Graph Convolutional Networks: Tackling Over-smoothing in Graph Neural Networks | [Link](https://doi.org/10.24963/ijcai.2025/595) |  |
 | IJCAI 2025 | SourceDetMamba: A Graph-aware State Space Model for Source Detection in Sequential Hypergraphs | [Link](https://doi.org/10.24963/ijcai.2025/306) |  |
 | ECML PKDD 2025 | GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model | [Link](https://arxiv.org/abs/2503.17903) | [Code](https://github.com/Yali-Fu/GLADMamba) |
+| CVPR 2026 | Gamba: Mamba-based Graph Convolutional Network with Dynamic Graph Topology Learning | [Link](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_Gamba_Mamba-based_graph_convolutional_network_with_dynamic_graph_topology_learning_CVPR_2026_paper.pdf) |  |
 
 
 
