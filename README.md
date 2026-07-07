@@ -660,6 +660,7 @@ Rui Xu, Shu Yang, Yihui Wang, Yu Cai, Bo Du, [Hao Chen](https://cse.hkust.edu.hk
 | Venue | Paper | Link | Code         | Task |
 | :-------- | :---- | :--- | :----------- | :--- |
 | PLOS ONE 2025 | Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning | [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322695) | [Code](https://github.com/ChiShengChen/ResVMamba) | Food Classification |
+| ICRA 2025 | Motion-Guided Dual-Camera Tracker for Low-Cost Skill Evaluation of Gastric Endoscopy | [Link](https://arxiv.org/abs/2403.05146) | [Code](https://github.com/PieceZhang/MotionDCTrack) | Endoscope Tip Tracking |
 | ICLR 2025 | Sports-Traj: A Unified Trajectory Generation Model for Multi-Agent Movement in Sports | [Link](https://arxiv.org/abs/2405.17680) | [Code](https://github.com/colorfulfuture/UniTraj-pytorch) | Trajectory Generation |
 | Sleep 2025 | Mamba-based deep learning approach for sleep staging on a wireless multimodal wearable system without electroencephalography | [Link](https://doi.org/10.1093/sleep/zsag022) |  | Sleep Staging |
 | Scientific Reports 2025 | Optimising TinyML with Quantization and Distillation of Transformer and Mamba Models for Indoor Localisation on Edge Devices | [Link](https://doi.org/10.1038/s41598-025-94205-9) | [Code](https://github.com/AloeUoB/tinyML_indoor_localisation) | Indoor Localization |
@@ -671,7 +672,6 @@ Rui Xu, Shu Yang, Yihui Wang, Yu Cai, Bo Du, [Hao Chen](https://cse.hkust.edu.hk
 | ICASSP 2025 | Stochastic-Aware Mamba Diffusion for Pedestrian Trajectory Prediction | [Link](https://doi.org/10.1109/ICASSP49660.2025.10890776) |  | Trajectory Prediction |
 | AAAI 2026 | Mamba-Driven Multi-View Discriminative Clustering via Global-Local Cross-View Sequence Modeling | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/40082) |  | Multi-View Clustering |
 | CVPR 2026 | FoSS: Modeling Long-Range Dependencies and Multimodal Uncertainty in Trajectory Prediction via Fourier-State Space Integration | [Link](https://arxiv.org/abs/2603.01284) |  | Trajectory Prediction |
-| ICRA 2025 | Motion-Guided Dual-Camera Tracker for Low-Cost Skill Evaluation of Gastric Endoscopy | [Link](https://arxiv.org/abs/2403.05146) | [Code](https://github.com/PieceZhang/MotionDCTrack) | Endoscope Tip Tracking |
 
 
 
